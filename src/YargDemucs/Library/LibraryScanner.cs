@@ -19,6 +19,12 @@ public sealed class LibraryScanner
     public List<string> Warnings { get; } = new();
     public int ConPackages { get; private set; }
 
+    /// <summary>Checked between folders and packages so Ctrl+C stops the scan.</summary>
+    public Func<bool> IsStopRequested { get; set; } = () => false;
+
+    /// <summary>Called as songs are found: (songs so far, CON files so far, folder being read).</summary>
+    public Action<int, int, string>? Progress { get; set; }
+
     public LibraryScanner(Nautilus? nautilus, string workDir, ConListCache conCache)
     {
         _nautilus = nautilus;
@@ -46,6 +52,12 @@ public sealed class LibraryScanner
 
     private void ScanDirectory(DirectoryInfo directory, string root, List<Song> songs)
     {
+        if (IsStopRequested())
+        {
+            return;
+        }
+
+        Progress?.Invoke(songs.Count, ConPackages, directory.FullName);
         FileInfo[] files;
         DirectoryInfo[] children;
         try
@@ -78,6 +90,11 @@ public sealed class LibraryScanner
 
             foreach (var file in files)
             {
+                if (IsStopRequested())
+                {
+                    return;
+                }
+
                 if (file.Extension.Equals(".sng", StringComparison.OrdinalIgnoreCase))
                 {
                     AddSng(file, root, songs);
@@ -85,6 +102,7 @@ public sealed class LibraryScanner
                 else if (IsConPackage(file))
                 {
                     AddCon(file, root, songs);
+                    Progress?.Invoke(songs.Count, ConPackages, file.FullName);
                 }
             }
         }
@@ -192,6 +210,7 @@ public sealed class LibraryScanner
                 MoggPath = rb.Location + ".mogg",
                 CoreChannels = rb.CoreChannels,
                 SongChannels = rb.SongChannels,
+                IsOfficial = rb.IsOfficial,
                 ListsNoStems = rb.ListsNoStems,
             });
         }
@@ -230,6 +249,7 @@ public sealed class LibraryScanner
                 MoggPath = mogg,
                 CoreChannels = rb.CoreChannels,
                 SongChannels = rb.SongChannels,
+                IsOfficial = rb.IsOfficial,
                 ListsNoStems = rb.ListsNoStems,
             });
         }

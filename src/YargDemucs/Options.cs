@@ -8,6 +8,7 @@ public sealed class Options
     public bool ListOnly;
     public bool CheckOnly;
     public bool Recheck;
+    public bool CheckOfficial;
     public int Limit;
     public string? Match;
     public int Shifts = 1;
@@ -65,6 +66,9 @@ public sealed class Options
                     break;
                 case "--recheck":
                     options.Recheck = true;
+                    break;
+                case "--check-official":
+                    options.CheckOfficial = true;
                     break;
                 case "--limit":
                     options.Limit = NextInt(1, int.MaxValue);
@@ -140,11 +144,16 @@ public sealed class Options
               --check-only         Only check Rock Band songs for silent stems and update
                                    missing-stems.txt (YARG's "no stems" tag).
               --recheck            Check Rock Band songs again even if they were checked before.
+              --check-official     Also check songs from official Rock Band / Guitar Hero games and
+                                   DLC (game_origin rb1, rb3_dlc, gh5, beatles, ...). They ship with
+                                   stems, so they are skipped by default.
               --limit <n>          Generate stems for at most n songs.
               --match <text>       Only songs whose artist, title, or path contains this text.
 
             Demucs
-              --shifts <1-8>       Demucs --shifts. Higher is slower and slightly cleaner. Default 1.
+              --shifts <1-8>       Demucs --shifts: separates the song n times, each shifted by a
+                                   random fraction of a second, and averages the results. Slightly
+                                   cleaner stems; takes n times as long. Default 1.
               --device <cuda|cpu>  Default: Demucs chooses.
               --model <name>       Demucs model, such as htdemucs_ft. Default: Demucs's default.
               --priority <level>   idle, belownormal (default), or normal.
@@ -155,7 +164,8 @@ public sealed class Options
 
             Library
               --folder <path>      Song folder (repeatable). Default: the song folders set in YARG.
-              --profile <name>     YARG profile: release, nightly, or dev. Default: the one used last.
+              --profile <name>     YARG profile: release, nightly, or dev. Default: asks when there are
+                                   several (Enter keeps the last choice).
               --data <path>        YARG data folder, if it is somewhere else.
               --nautilus <exe>     Nautilus.exe with the -backstagehero CLI. Remembered for next time.
 

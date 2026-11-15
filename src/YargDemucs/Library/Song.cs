@@ -43,6 +43,9 @@ public sealed class Song
     /// <summary>Rock Band only: mogg channels left for the song stem (not an instrument or crowd).</summary>
     public int[] SongChannels { get; init; } = Array.Empty<int>();
 
+    /// <summary>Rock Band only: released in an official Rock Band or Guitar Hero game or DLC.</summary>
+    public bool IsOfficial { get; init; }
+
     /// <summary>True when the song lists no vocals, bass, or drums at all.</summary>
     public bool ListsNoStems { get; init; }
 

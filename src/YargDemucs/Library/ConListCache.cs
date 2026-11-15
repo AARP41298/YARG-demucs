@@ -15,9 +15,13 @@ public sealed class ConListCache
     /// </summary>
     private const int SilenceCheckVersion = 3;
 
+    /// <summary>Version 2 stores game_origin, so older package lists are read again.</summary>
+    private const int PackagesVersion = 2;
+
     private sealed class Data
     {
         public int SilenceVersion { get; set; }
+        public int PackageVersion { get; set; }
         public Dictionary<string, List<Dta.RbSong>> Packages { get; set; } = new(StringComparer.OrdinalIgnoreCase);
         public Dictionary<string, bool> SilentStems { get; set; } = new(StringComparer.OrdinalIgnoreCase);
     }
@@ -25,7 +29,7 @@ public sealed class ConListCache
     private static readonly JsonSerializerOptions Json = new() { IncludeFields = true };
     private readonly string _path;
     private readonly object _gate = new();
-    private Data _data = new() { SilenceVersion = SilenceCheckVersion };
+    private Data _data = new() { SilenceVersion = SilenceCheckVersion, PackageVersion = PackagesVersion };
 
     public ConListCache(string path)
     {
@@ -46,7 +50,10 @@ public sealed class ConListCache
                     _data = new Data
                     {
                         SilenceVersion = SilenceCheckVersion,
-                        Packages = new(loaded.Packages, StringComparer.OrdinalIgnoreCase),
+                        PackageVersion = PackagesVersion,
+                        Packages = loaded.PackageVersion < PackagesVersion
+                            ? new(StringComparer.OrdinalIgnoreCase)
+                            : new(loaded.Packages, StringComparer.OrdinalIgnoreCase),
                         SilentStems = silent,
                     };
                 }

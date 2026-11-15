@@ -30,7 +30,7 @@ if (options.NautilusPath != null)
     settings.Save();
 }
 
-var roots = options.Folders.Count > 0 ? options.Folders : YargSettings.FindSongFolders(options.Profile, options.DataPath);
+var roots = options.Folders.Count > 0 ? options.Folders : YargSettings.FindSongFolders(options.Profile, options.DataPath, settings);
 if (options.Folders.Count == 0)
 {
     Console.WriteLine("YARG settings: " + (YargSettings.LastSource ?? "not found"));
@@ -70,9 +70,17 @@ Directory.CreateDirectory(workDir);
 var runner = new ProcessRunner { Priority = options.Priority };
 Console.CancelKeyPress += (_, e) =>
 {
+    if (runner.IsStopRequested)
+    {
+        // Second Ctrl+C: quit now.
+        Console.WriteLine();
+        Console.WriteLine("Exiting.");
+        return;
+    }
+
     e.Cancel = true;
     Console.WriteLine();
-    Console.WriteLine("Stopping...");
+    Console.WriteLine("Stopping after the current step (press Ctrl+C again to quit now)...");
     runner.Stop();
 };
 
@@ -82,9 +90,21 @@ try
     var watch = Stopwatch.StartNew();
     Console.WriteLine();
     Console.WriteLine("Scanning song folders...");
-    var scanner = new LibraryScanner(nautilus, workDir, cache);
+    var scanProgress = new ProgressLine();
+    var scanner = new LibraryScanner(nautilus, workDir, cache)
+    {
+        IsStopRequested = () => runner.IsStopRequested,
+        Progress = (found, cons, path) => scanProgress.Update(
+            $"  {found} songs, {cons} CON files read - {Path.GetFileName(path.TrimEnd(Path.DirectorySeparatorChar))}"),
+    };
     var songs = scanner.Scan(roots);
+    scanProgress.Done();
     cache.Save();
+    if (runner.IsStopRequested)
+    {
+        return 130;
+    }
+
     foreach (var warning in scanner.Warnings.Take(20))
     {
         Console.WriteLine("  " + warning);
@@ -103,15 +123,23 @@ try
         Device = options.Device,
         Model = options.Model,
     };
+    Console.WriteLine($"Demucs:        shifts {options.Shifts}, device {options.Device ?? "auto"}, model {options.Model ?? "default"}; " +
+        $"output {options.Format}{(options.Format == "wav" ? "" : " " + options.Bitrate + " kbps")}");
+    int official = songs.Count(s => s.IsOfficial);
+    if (official > 0 && !options.CheckOfficial)
+    {
+        Console.WriteLine($"Skipping {official} official Rock Band / Guitar Hero songs (--check-official to include them).");
+    }
     var audio = new SongAudio(nautilus);
 
-    CheckSilence(songs, cache, audio, separator, runner, workDir, options.Recheck);
+    var toCheck = options.CheckOfficial ? songs : songs.Where(s => !s.IsOfficial).ToList();
+    CheckSilence(toCheck, cache, audio, separator, runner, workDir, options.Recheck);
     if (runner.IsStopRequested)
     {
         return 130;
     }
 
-    WriteMissingLists(songs, cache, roots);
+    WriteMissingLists(songs, cache, options.CheckOfficial);
 
     var pending = FindPending(songs, cache, options);
     Console.WriteLine();
@@ -157,13 +185,17 @@ static void CheckSilence(List<Song> songs, ConListCache cache, SongAudio audio, 
         return;
     }
 
-    Console.WriteLine($"Checking {pending.Count} Rock Band songs for silent stem channels...");
+    Console.WriteLine($"Checking {pending.Count} Rock Band songs for silent stem channels (once; results are cached)...");
+    var progress = new ProgressLine();
+    var started = Stopwatch.StartNew();
     int done = 0;
     int sinceSave = 0;
     void Check(Song song, string? ogg)
     {
         done++;
-        Console.Write($"\r  {done}/{pending.Count}");
+        double rate = done / Math.Max(started.Elapsed.TotalSeconds, 0.001);
+        var left = TimeSpan.FromSeconds((pending.Count - done) / Math.Max(rate, 0.001));
+        progress.Update($"  {done}/{pending.Count}  {rate:0.0} songs/s, about {ProgressLine.Format(left)} left - {song.Label}");
         if (ogg == null)
         {
             return;
@@ -184,7 +216,7 @@ static void CheckSilence(List<Song> songs, ConListCache cache, SongAudio audio, 
         }
         catch (StemException ex)
         {
-            Console.WriteLine();
+            progress.Done();
             Console.WriteLine("  " + song.Label + ": " + ex.Message);
         }
         finally
@@ -220,7 +252,7 @@ static void CheckSilence(List<Song> songs, ConListCache cache, SongAudio audio, 
                 }
                 catch (Exception ex) when (ex is NautilusException or StemException or IOException)
                 {
-                    Console.WriteLine();
+                    progress.Done();
                     Console.WriteLine("  " + pack.Key + ": " + ex.Message);
                     mixes = new Dictionary<Song, string>();
                 }
@@ -250,7 +282,7 @@ static void CheckSilence(List<Song> songs, ConListCache cache, SongAudio audio, 
             }
             catch (Exception ex) when (ex is NautilusException or StemException or IOException)
             {
-                Console.WriteLine();
+                progress.Done();
                 Console.WriteLine("  " + song.Label + ": " + ex.Message);
             }
 
@@ -264,16 +296,16 @@ static void CheckSilence(List<Song> songs, ConListCache cache, SongAudio audio, 
     finally
     {
         cache.Save();
-        Console.WriteLine();
+        progress.Done();
     }
 }
 
-static void WriteMissingLists(List<Song> songs, ConListCache cache, List<string> roots)
+static void WriteMissingLists(List<Song> songs, ConListCache cache, bool checkOfficial)
 {
     foreach (var group in songs.GroupBy(s => s.Root, StringComparer.OrdinalIgnoreCase))
     {
         var names = group
-            .Where(s => s.NeedsSilenceCheck && cache.TryGetSilent(s, out bool silent) && silent)
+            .Where(s => (checkOfficial || !s.IsOfficial) && s.NeedsSilenceCheck && cache.TryGetSilent(s, out bool silent) && silent)
             .Select(s => s.StemId)
             .Distinct(StringComparer.OrdinalIgnoreCase)
             .OrderBy(n => n, StringComparer.OrdinalIgnoreCase)
@@ -302,7 +334,9 @@ static List<Song> FindPending(List<Song> songs, ConListCache cache, Options opti
     var seen = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
     foreach (var song in songs.OrderBy(s => s.Artist, StringComparer.OrdinalIgnoreCase).ThenBy(s => s.Name, StringComparer.OrdinalIgnoreCase))
     {
-        bool missing = song.ListsNoStems || (song.NeedsSilenceCheck && cache.TryGetSilent(song, out bool silent) && silent);
+        bool checkedSilent = (options.CheckOfficial || !song.IsOfficial) &&
+            song.NeedsSilenceCheck && cache.TryGetSilent(song, out bool silent) && silent;
+        bool missing = song.ListsNoStems || checkedSilent;
         // Copies of a Rock Band song share one stem folder.
         if (!missing || song.HasStems || !seen.Add(song.StemDirectory))
         {

@@ -103,6 +103,11 @@ public static class Dta
         public int[] Bass = Array.Empty<int>();
         public int[] Vocals = Array.Empty<int>();
         public int[] SongChannels = Array.Empty<int>();
+        /// <summary>Every symbol in (game_origin ...), lowercase. RB3DX files hold two:
+        /// (game_origin #ifdef CUSTOMSOURCE gh5 #else ugc_plus #endif).</summary>
+        public string[] Origins = Array.Empty<string>();
+
+        public bool IsOfficial => Origins.Any(OfficialOrigins.IsOfficial);
 
         public int[] CoreChannels => Drums.Concat(Bass).Concat(Vocals).Distinct().OrderBy(c => c).ToArray();
         public bool ListsNoStems => Drums.Length == 0 && Bass.Length == 0 && Vocals.Length == 0;
@@ -130,8 +135,14 @@ public static class Dta
                 continue;
             }
 
+            var origin = entry.Child("game_origin");
             var rb = new RbSong
             {
+                Origins = origin == null
+                    ? Array.Empty<string>()
+                    : origin.Items.Skip(1).OfType<string>()
+                        .Where(t => !t.StartsWith('#') && !t.Equals("CUSTOMSOURCE", StringComparison.OrdinalIgnoreCase))
+                        .Select(t => t.ToLowerInvariant()).ToArray(),
                 Name = entry.Text("name"),
                 Artist = entry.Text("artist"),
                 Location = location,

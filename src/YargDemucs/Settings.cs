@@ -12,6 +12,9 @@ public sealed class ToolSettings
 
     public string? NautilusPath { get; set; }
 
+    /// <summary>The YARG profile picked last time (release, nightly, or dev).</summary>
+    public string? LastProfile { get; set; }
+
     public static ToolSettings Load()
     {
         try
@@ -43,37 +46,97 @@ public static class YargSettings
 
     public static string? LastSource { get; private set; }
 
-    public static List<string> FindSongFolders(string? profile, string? dataPath)
+    /// <summary>Unity's persistentDataPath for YARG on Windows; each build keeps a profile folder in it.</summary>
+    public static string BaseDir => Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile),
+        "AppData", "LocalLow", "YARC", "YARG");
+
+    /// <summary>
+    /// Song folders of the chosen YARG profile. With several profiles and no --profile, asks which
+    /// one (Enter keeps the last choice). Runs without a console use the last choice, or the
+    /// profile used most recently.
+    /// </summary>
+    public static List<string> FindSongFolders(string? profile, string? dataPath, ToolSettings settings)
     {
-        string? folder = dataPath;
-        if (folder == null)
+        if (dataPath != null)
         {
-            // Unity's persistentDataPath on Windows.
-            string baseDir = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile),
-                "AppData", "LocalLow", "YARC", "YARG");
-            if (profile != null)
+            return ReadSongFolders(Path.Combine(dataPath, "settings.json"));
+        }
+
+        if (profile == null)
+        {
+            var available = Profiles
+                .Where(p => File.Exists(SettingsFile(p)))
+                .OrderByDescending(p => File.GetLastWriteTimeUtc(SettingsFile(p)))
+                .ToList();
+            if (available.Count == 0)
             {
-                folder = Path.Combine(baseDir, profile);
+                return new List<string>();
             }
-            else
+
+            string fallback = settings.LastProfile != null && available.Contains(settings.LastProfile)
+                ? settings.LastProfile
+                : available[0];
+            profile = available.Count > 1 && !Console.IsInputRedirected
+                ? AskProfile(available, fallback)
+                : fallback;
+            if (settings.LastProfile != profile)
             {
-                // The profile whose settings changed last is the YARG build in use.
-                folder = Profiles
-                    .Select(p => Path.Combine(baseDir, p))
-                    .Where(p => File.Exists(Path.Combine(p, "settings.json")))
-                    .OrderByDescending(p => File.GetLastWriteTimeUtc(Path.Combine(p, "settings.json")))
-                    .FirstOrDefault();
+                settings.LastProfile = profile;
+                settings.Save();
             }
         }
 
+        return ReadSongFolders(SettingsFile(profile));
+    }
+
+    private static string SettingsFile(string profile) => Path.Combine(BaseDir, profile, "settings.json");
+
+    private static string AskProfile(List<string> available, string fallback)
+    {
+        Console.WriteLine("YARG profiles in " + BaseDir + ":");
+        for (int i = 0; i < available.Count; i++)
+        {
+            string p = available[i];
+            var folders = ReadSongFolders(SettingsFile(p), quiet: true);
+            string used = File.GetLastWriteTime(SettingsFile(p)).ToString("yyyy-MM-dd HH:mm");
+            string summary = folders.Count == 0 ? "no song folders" : string.Join(", ", folders);
+            Console.WriteLine($"  {i + 1}. {p,-8} last used {used}  {summary}{(p == fallback ? "  (default)" : "")}");
+        }
+
+        while (true)
+        {
+            Console.Write($"Which profile? [1-{available.Count}, Enter = {fallback}]: ");
+            string? answer = Console.ReadLine()?.Trim();
+            if (string.IsNullOrEmpty(answer))
+            {
+                return fallback;
+            }
+
+            if (int.TryParse(answer, out int n) && n >= 1 && n <= available.Count)
+            {
+                return available[n - 1];
+            }
+
+            var named = available.FirstOrDefault(p => p.Equals(answer, StringComparison.OrdinalIgnoreCase));
+            if (named != null)
+            {
+                return named;
+            }
+        }
+    }
+
+    private static List<string> ReadSongFolders(string file, bool quiet = false)
+    {
         var folders = new List<string>();
-        string? file = folder == null ? null : Path.Combine(folder, "settings.json");
-        if (file == null || !File.Exists(file))
+        if (!File.Exists(file))
         {
             return folders;
         }
 
-        LastSource = file;
+        if (!quiet)
+        {
+            LastSource = file;
+        }
         try
         {
             using var document = JsonDocument.Parse(File.ReadAllText(file), new JsonDocumentOptions
