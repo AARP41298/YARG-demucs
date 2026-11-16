@@ -135,28 +135,38 @@ public sealed class Separator
     public bool TryCheckSilence(string audio, int[] channels, string workDir, out bool silent)
     {
         silent = false;
-        int heard = 0;
         channels = VorbisChannels.ToFfmpegOrder(audio, channels);
-        string slice = Path.Combine(workDir, "slice.wav");
+
+        // One ffmpeg run decodes every point: each is its own input, seeked, with its own output.
+        var args = new List<string> { "-y", "-hide_banner", "-loglevel", "error" };
         foreach (double seconds in ProbeSeconds)
         {
-            var result = _runner.Run("ffmpeg", new[]
-            {
-                "-y", "-hide_banner", "-loglevel", "error",
-                "-ss", seconds.ToString(CultureInfo.InvariantCulture), "-t", "1",
-                "-i", audio, "-c:a", "pcm_f32le", slice,
-            });
-            if (_runner.IsStopRequested)
-            {
-                throw new OperationCanceledException();
-            }
+            args.AddRange(new[] { "-ss", seconds.ToString(CultureInfo.InvariantCulture), "-t", "1", "-i", audio });
+        }
 
-            if (!result.Started)
-            {
-                throw new StemException("ffmpeg was not found. It is required to read the audio.");
-            }
+        var slices = new string[ProbeSeconds.Length];
+        for (int i = 0; i < slices.Length; i++)
+        {
+            slices[i] = Path.Combine(workDir, $"slice{i}.wav");
+            args.AddRange(new[] { "-map", i + ":a", "-c:a", "pcm_f32le", slices[i] });
+        }
 
-            if (result.ExitCode != 0 || !WavAudio.TryReadPeaks(slice, out var peaks, out _) ||
+        var result = _runner.Run("ffmpeg", args);
+        if (_runner.IsStopRequested)
+        {
+            throw new OperationCanceledException();
+        }
+
+        if (!result.Started)
+        {
+            throw new StemException("ffmpeg was not found. It is required to read the audio.");
+        }
+
+        // Points past the end of a short song come out empty and are skipped.
+        int heard = 0;
+        foreach (var slice in slices)
+        {
+            if (!File.Exists(slice) || !WavAudio.TryReadPeaks(slice, out var peaks, out _) ||
                 !peaks.Any(p => p >= WavAudio.SilentPeak))
             {
                 continue;

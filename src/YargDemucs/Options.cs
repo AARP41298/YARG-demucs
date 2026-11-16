@@ -9,6 +9,7 @@ public sealed class Options
     public bool CheckOnly;
     public bool Recheck;
     public bool CheckOfficial;
+    public int Jobs = 4;
     public int Limit;
     public string? Match;
     public int Shifts = 1;
@@ -66,6 +67,9 @@ public sealed class Options
                     break;
                 case "--recheck":
                     options.Recheck = true;
+                    break;
+                case "--jobs":
+                    options.Jobs = NextInt(1, 16);
                     break;
                 case "--check-official":
                     options.CheckOfficial = true;
@@ -144,6 +148,8 @@ public sealed class Options
               --check-only         Only check Rock Band songs for silent stems and update
                                    missing-stems.txt (YARG's "no stems" tag).
               --recheck            Check Rock Band songs again even if they were checked before.
+              --jobs <n>           CON files checked at the same time. Default 4; on an SSD more can
+                                   help, on a slow HDD fewer.
               --check-official     Also check songs from official Rock Band / Guitar Hero games and
                                    DLC (game_origin rb1, rb3_dlc, gh5, beatles, ...). They ship with
                                    stems, so they are skipped by default.

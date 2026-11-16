@@ -133,7 +133,7 @@ try
     var audio = new SongAudio(nautilus);
 
     var toCheck = options.CheckOfficial ? songs : songs.Where(s => !s.IsOfficial).ToList();
-    CheckSilence(toCheck, cache, audio, separator, runner, workDir, options.Recheck);
+    CheckSilence(toCheck, cache, audio, separator, runner, workDir, options.Recheck, options.Jobs);
     if (runner.IsStopRequested)
     {
         return 130;
@@ -177,7 +177,7 @@ finally
 }
 
 static void CheckSilence(List<Song> songs, ConListCache cache, SongAudio audio, Separator separator,
-    ProcessRunner runner, string workDir, bool recheck)
+    ProcessRunner runner, string workDir, bool recheck, int jobs)
 {
     var pending = songs.Where(s => s.NeedsSilenceCheck && !s.HasStems && (recheck || !cache.TryGetSilent(s, out _))).ToList();
     if (pending.Count == 0)
@@ -185,118 +185,169 @@ static void CheckSilence(List<Song> songs, ConListCache cache, SongAudio audio, 
         return;
     }
 
-    Console.WriteLine($"Checking {pending.Count} Rock Band songs for silent stem channels (once; results are cached)...");
+    Console.WriteLine($"Checking {pending.Count} Rock Band songs for silent stem channels, {jobs} at a time (once; results are cached)...");
     var progress = new ProgressLine();
     var started = Stopwatch.StartNew();
+    var gate = new object();
     int done = 0;
     int sinceSave = 0;
-    void Check(Song song, string? ogg)
-    {
-        done++;
-        double rate = done / Math.Max(started.Elapsed.TotalSeconds, 0.001);
-        var left = TimeSpan.FromSeconds((pending.Count - done) / Math.Max(rate, 0.001));
-        progress.Update($"  {done}/{pending.Count}  {rate:0.0} songs/s, about {ProgressLine.Format(left)} left - {song.Label}");
-        if (ogg == null)
-        {
-            return;
-        }
 
-        string probeDir = Path.Combine(workDir, "probe");
-        Directory.CreateDirectory(probeDir);
-        try
-        {
-            if (separator.TryCheckSilence(ogg, song.CoreChannels, probeDir, out bool silent))
-            {
-                cache.SetSilent(song, silent);
-            }
-            else
-            {
-                cache.SetSilent(song, false);
-            }
-        }
-        catch (StemException ex)
+    void Report(string message)
+    {
+        lock (gate)
         {
             progress.Done();
-            Console.WriteLine("  " + song.Label + ": " + ex.Message);
-        }
-        finally
-        {
-            File.Delete(ogg);
-        }
-
-        if (++sinceSave >= 25)
-        {
-            sinceSave = 0;
-            cache.Save();
+            Console.WriteLine("  " + message);
         }
     }
 
-    try
+    void Check(Song song, string? ogg, string probeDir)
     {
-        // CON packs: extract their moggs together, a few at a time to bound temp space.
-        foreach (var pack in pending.Where(s => s.Kind == SongKind.Con).GroupBy(s => s.Location))
+        if (ogg != null)
         {
-            foreach (var batch in pack.Chunk(16))
+            try
             {
-                if (runner.IsStopRequested)
-                {
-                    return;
-                }
-
-                string batchDir = Path.Combine(workDir, "batch");
-                Directory.CreateDirectory(batchDir);
-                Dictionary<Song, string> mixes;
-                try
-                {
-                    mixes = audio.ExportConMixes(pack.Key, batch, batchDir);
-                }
-                catch (Exception ex) when (ex is NautilusException or StemException or IOException)
-                {
-                    progress.Done();
-                    Console.WriteLine("  " + pack.Key + ": " + ex.Message);
-                    mixes = new Dictionary<Song, string>();
-                }
-
-                foreach (var song in batch)
-                {
-                    Check(song, mixes.TryGetValue(song, out var ogg) ? ogg : null);
-                }
-
-                Directory.Delete(batchDir, true);
+                // A song that could not be measured is treated as having stems.
+                bool silent = separator.TryCheckSilence(ogg, song.CoreChannels, probeDir, out bool quiet) && quiet;
+                cache.SetSilent(song, silent);
+            }
+            catch (StemException ex)
+            {
+                Report(song.Label + ": " + ex.Message);
+            }
+            finally
+            {
+                File.Delete(ogg);
             }
         }
 
-        foreach (var song in pending.Where(s => s.Kind == SongKind.RbFolder))
+        lock (gate)
+        {
+            done++;
+            double rate = done / Math.Max(started.Elapsed.TotalSeconds, 0.001);
+            var left = TimeSpan.FromSeconds((pending.Count - done) / Math.Max(rate, 0.001));
+            progress.Update($"  {done}/{pending.Count}  {rate:0.0} songs/s, about {ProgressLine.Format(left)} left - {song.Label}");
+            if (++sinceSave >= 50)
+            {
+                sinceSave = 0;
+                cache.Save();
+            }
+        }
+    }
+
+    // Work items: CON packs in chunks (to bound temp space), or one extracted song.
+    // Big packs (several chunks) are read one after another in their own lane: on a hard drive,
+    // several readers on the same multi-GB file make it seek instead of read. Small CONs are
+    // mostly process start-up time, so several of them run at once next to that lane.
+    const int ChunkSize = 24;
+    var heavy = new List<(string? Con, Song[] Songs)>();
+    var items = new List<(string? Con, Song[] Songs)>();
+    foreach (var pack in pending.Where(s => s.Kind == SongKind.Con).GroupBy(s => s.Location))
+    {
+        var target = pack.Count() > ChunkSize ? heavy : items;
+        foreach (var chunk in pack.Chunk(ChunkSize))
+        {
+            target.Add((pack.Key, chunk));
+        }
+    }
+
+    foreach (var song in pending.Where(s => s.Kind == SongKind.RbFolder))
+    {
+        items.Add((null, new[] { song }));
+    }
+
+    int next = 0;
+    try
+    {
+        void ProcessItem((string? Con, Song[] Songs) item)
         {
             if (runner.IsStopRequested)
             {
                 return;
             }
 
-            string songDir = Path.Combine(workDir, "rb");
-            Directory.CreateDirectory(songDir);
-            string? ogg = null;
+            string itemDir = Path.Combine(workDir, "check" + Interlocked.Increment(ref next));
+            string probeDir = Path.Combine(itemDir, "probe");
+            Directory.CreateDirectory(probeDir);
             try
             {
-                ogg = audio.ExportMix(song, songDir);
-            }
-            catch (Exception ex) when (ex is NautilusException or StemException or IOException)
-            {
-                progress.Done();
-                Console.WriteLine("  " + song.Label + ": " + ex.Message);
-            }
+                if (item.Con != null)
+                {
+                    Dictionary<Song, string> mixes;
+                    try
+                    {
+                        mixes = audio.ExportConMixes(item.Con, item.Songs, itemDir);
+                    }
+                    catch (Exception ex) when (ex is NautilusException or StemException or IOException)
+                    {
+                        Report(item.Con + ": " + ex.Message);
+                        mixes = new Dictionary<Song, string>();
+                    }
 
-            Check(song, ogg);
-            Directory.Delete(songDir, true);
+                    foreach (var song in item.Songs)
+                    {
+                        if (runner.IsStopRequested)
+                        {
+                            return;
+                        }
+
+                        Check(song, mixes.TryGetValue(song, out var ogg) ? ogg : null, probeDir);
+                    }
+                }
+                else
+                {
+                    var song = item.Songs[0];
+                    string? ogg = null;
+                    try
+                    {
+                        ogg = audio.ExportMix(song, itemDir);
+                    }
+                    catch (Exception ex) when (ex is NautilusException or StemException or IOException)
+                    {
+                        Report(song.Label + ": " + ex.Message);
+                    }
+
+                    Check(song, ogg, probeDir);
+                }
+            }
+            catch (OperationCanceledException)
+            {
+            }
+            finally
+            {
+                try
+                {
+                    Directory.Delete(itemDir, true);
+                }
+                catch (IOException)
+                {
+                }
+            }
         }
-    }
-    catch (OperationCanceledException)
-    {
+
+        var heavyLane = Task.Run(() =>
+        {
+            foreach (var item in heavy)
+            {
+                if (runner.IsStopRequested)
+                {
+                    break;
+                }
+
+                ProcessItem(item);
+            }
+        });
+        int lightJobs = heavy.Count > 0 ? Math.Max(1, jobs - 1) : jobs;
+        Parallel.ForEach(items, new ParallelOptions { MaxDegreeOfParallelism = lightJobs }, ProcessItem);
+        heavyLane.Wait();
     }
     finally
     {
         cache.Save();
-        progress.Done();
+        lock (gate)
+        {
+            progress.Done();
+        }
     }
 }
 

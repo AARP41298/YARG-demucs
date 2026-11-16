@@ -10,7 +10,7 @@ namespace YargDemucs.Audio;
 public sealed class ProcessRunner
 {
     private readonly object _gate = new();
-    private Process? _active;
+    private readonly HashSet<Process> _active = new();
     private volatile bool _stop;
 
     public ProcessPriorityClass Priority { get; set; } = ProcessPriorityClass.BelowNormal;
@@ -19,14 +19,17 @@ public sealed class ProcessRunner
 
     public void Stop()
     {
-        Process? active;
+        List<Process> active;
         lock (_gate)
         {
             _stop = true;
-            active = _active;
+            active = _active.ToList();
         }
 
-        Kill(active);
+        foreach (var process in active)
+        {
+            Kill(process);
+        }
     }
 
     public readonly record struct Result(bool Started, int ExitCode, string Output);
@@ -73,7 +76,7 @@ public sealed class ProcessRunner
 
             lock (_gate)
             {
-                _active = process;
+                _active.Add(process);
                 if (_stop)
                 {
                     Kill(process);
@@ -86,10 +89,7 @@ public sealed class ProcessRunner
             string output = Combine(stderr.Result, stdout.Result);
             lock (_gate)
             {
-                if (ReferenceEquals(_active, process))
-                {
-                    _active = null;
-                }
+                _active.Remove(process);
             }
 
             return new Result(true, process.ExitCode, output);

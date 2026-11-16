@@ -16,9 +16,8 @@ YARG only reads the result: songs show **(no stems)** until they're separated an
 
 ## Build
 
-```
-dotnet build -c Release
-```
+Double-click `build.bat` (or run it from a terminal; `build.bat debug` for a Debug build).
+It needs the [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0), not Visual Studio.
 
 The exe is `src/YargDemucs/bin/Release/net8.0/yarg-demucs.exe`.
 
@@ -58,6 +57,12 @@ audible difference. `--format wav|ogg|mp3` and `--bitrate` change that.
 The first run reads every CON and listens to every custom Rock Band song, which can take a
 while on a big library; a progress line shows how far along it is. Later runs only read new
 or changed files. Press Ctrl+C once to stop after the current step, twice to quit at once.
+
+The check reads each song's whole mogg (about 25 MB), so on a hard drive it is limited by how
+fast the drive reads. Several small CON files are checked at once (`--jobs`, default 4), since
+those spend most of their time starting Nautilus and ffmpeg. Big packs are read one at a time,
+straight through, because several readers on one multi-GB file make a hard drive seek instead
+of read.
 
 ## Stem layout (read by YARG)
 
