@@ -25,7 +25,8 @@ public sealed class StemInstaller
 
     public string Extension { get; set; } = ".wav";
     public int BitrateKbps { get; set; } = 160;
-    public string Generator { get; set; } = "demucs";
+    public int Shifts { get; set; } = 1;
+    public string Model { get; set; } = "htdemucs";
 
     public void Install(Song song, string separatedDir, string workDir)
     {
@@ -70,7 +71,15 @@ public sealed class StemInstaller
             File.Copy(Path.Combine(encoded, "vocals" + Extension), Path.Combine(target, "vocal" + Extension), true);
         }
 
-        StemLayout.WriteMarker(target, Generator);
+        // YARG only checks that the marker exists; the details are for people.
+        string format = Extension.TrimStart('.') + (Extension == ".wav" ? "" : $" {BitrateKbps} kbps");
+        StemLayout.WriteMarker(target, string.Join(Environment.NewLine,
+            "generator=yarg-demucs " + typeof(StemInstaller).Assembly.GetName().Version?.ToString(3),
+            "model=" + Model,
+            "shifts=" + Shifts,
+            "format=" + format,
+            "date=" + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"),
+            "source=" + song.Location + (song.Kind is SongKind.Con or SongKind.RbFolder ? " (" + song.StemId + ")" : "")));
     }
 
     /// <summary>

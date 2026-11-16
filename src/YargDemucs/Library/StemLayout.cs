@@ -34,10 +34,11 @@ public static class StemLayout
         return false;
     }
 
-    public static void WriteMarker(string directory, string generator)
+    /// <summary>Writes the marker; its text is informational (generator, shifts, date...).</summary>
+    public static void WriteMarker(string directory, string details)
     {
         Directory.CreateDirectory(directory);
-        File.WriteAllText(Path.Combine(directory, MarkerName), generator + Environment.NewLine);
+        File.WriteAllText(Path.Combine(directory, MarkerName), details + Environment.NewLine);
     }
 
     /// <summary>Creates {root}/demucs with its marker so YARG's song scan skips it.</summary>

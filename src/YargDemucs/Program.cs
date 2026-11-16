@@ -161,7 +161,8 @@ try
     {
         Extension = "." + options.Format,
         BitrateKbps = options.Bitrate,
-        Generator = "yarg-demucs " + (options.Model ?? "htdemucs"),
+        Shifts = options.Shifts,
+        Model = options.Model ?? "htdemucs",
     };
     return Generate(pending, audio, separator, installer, runner, workDir);
 }
@@ -383,7 +384,12 @@ static List<Song> FindPending(List<Song> songs, ConListCache cache, Options opti
 {
     var pending = new List<Song>();
     var seen = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
-    foreach (var song in songs.OrderBy(s => s.Artist, StringComparer.OrdinalIgnoreCase).ThenBy(s => s.Name, StringComparer.OrdinalIgnoreCase))
+    var ordered = songs
+        .OrderBy(FolderOf, StringComparer.OrdinalIgnoreCase)
+        .ThenBy(s => s.Location, StringComparer.OrdinalIgnoreCase)
+        .ThenBy(s => s.Artist, StringComparer.OrdinalIgnoreCase)
+        .ThenBy(s => s.Name, StringComparer.OrdinalIgnoreCase);
+    foreach (var song in ordered)
     {
         bool checkedSilent = (options.CheckOfficial || !song.IsOfficial) &&
             song.NeedsSilenceCheck && cache.TryGetSilent(song, out bool silent) && silent;
@@ -411,16 +417,31 @@ static List<Song> FindPending(List<Song> songs, ConListCache cache, Options opti
     return pending;
 }
 
+/// <summary>The folder a song is listed under: the folder holding its song folder, .sng, or CON.</summary>
+static string FolderOf(Song song) => Path.GetDirectoryName(song.Location) ?? song.Location;
+
 static int Generate(List<Song> pending, SongAudio audio, Separator separator, StemInstaller installer,
     ProcessRunner runner, string workDir)
 {
     int generated = 0;
     int failed = 0;
     var total = Stopwatch.StartNew();
+    var perFolder = pending.GroupBy(FolderOf, StringComparer.OrdinalIgnoreCase)
+        .ToDictionary(g => g.Key, g => g.Count(), StringComparer.OrdinalIgnoreCase);
+    string? folder = null;
     for (int i = 0; i < pending.Count && !runner.IsStopRequested; i++)
     {
         var song = pending[i];
-        Console.Write($"[{i + 1}/{pending.Count}] {song.Label} ... ");
+        string songFolder = FolderOf(song);
+        if (!string.Equals(folder, songFolder, StringComparison.OrdinalIgnoreCase))
+        {
+            folder = songFolder;
+            int count = perFolder[songFolder];
+            Console.WriteLine();
+            Console.WriteLine($"{songFolder}  ({count} song{(count == 1 ? "" : "s")})");
+        }
+
+        Console.Write($"  [{i + 1}/{pending.Count}] {song.Label} ... ");
         var watch = Stopwatch.StartNew();
         string songDir = Path.Combine(workDir, "song" + i);
         Directory.CreateDirectory(songDir);
@@ -432,7 +453,7 @@ static int Generate(List<Song> pending, SongAudio audio, Separator separator, St
             string separated = separator.Separate(stereo, Path.Combine(songDir, "out"));
             installer.Install(song, separated, songDir);
             generated++;
-            Console.WriteLine($"done ({watch.Elapsed:m\\:ss})");
+            Console.WriteLine($"done ({watch.Elapsed:m\\:ss}, shifts {separator.Shifts})");
         }
         catch (OperationCanceledException)
         {
