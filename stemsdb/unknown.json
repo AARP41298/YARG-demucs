@@ -1,0 +1,5341 @@
+{
+  "source": "unknown",
+  "songs": [
+    {
+      "con_id": "attack",
+      "artist": "30 Seconds to Mars",
+      "title": "Attack",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thekill",
+      "artist": "30 Seconds to Mars",
+      "title": "The Kill",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thedownfallofusall",
+      "artist": "A Day to Remember",
+      "title": "The Downfall of Us All",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "backinblack_live",
+      "artist": "AC/DC",
+      "title": "Back in Black (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dirtydeeds_live",
+      "artist": "AC/DC",
+      "title": "Dirty Deeds Done Dirt Cheap (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fireyourguns_live",
+      "artist": "AC/DC",
+      "title": "Fire Your Guns (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "forthoseabouttorock_live",
+      "artist": "AC/DC",
+      "title": "For Those About to Rock (We Salute You) (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heatseeker_live",
+      "artist": "AC/DC",
+      "title": "Heatseeker (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hellaintabadplace_live",
+      "artist": "AC/DC",
+      "title": "Hell Ain't a Bad Place to Be (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hellsbells_live",
+      "artist": "AC/DC",
+      "title": "Hells Bells (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "highvoltage_live",
+      "artist": "AC/DC",
+      "title": "High Voltage (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "highwaytohell_live",
+      "artist": "AC/DC",
+      "title": "Highway to Hell (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jailbreak_live",
+      "artist": "AC/DC",
+      "title": "Jailbreak (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "letthereberock_live",
+      "artist": "AC/DC",
+      "title": "Let There Be Rock (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "moneytalks_live",
+      "artist": "AC/DC",
+      "title": "Moneytalks (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shoottothrill_live",
+      "artist": "AC/DC",
+      "title": "Shoot to Thrill (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tnt_live",
+      "artist": "AC/DC",
+      "title": "T.N.T. (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thejack_live",
+      "artist": "AC/DC",
+      "title": "The Jack (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thunderstruck_live",
+      "artist": "AC/DC",
+      "title": "Thunderstruck (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wholelottarosie_live",
+      "artist": "AC/DC",
+      "title": "Whole Lotta Rosie (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "youshookme_live",
+      "artist": "AC/DC",
+      "title": "You Shook Me All Night Long (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "trainkeptarollin",
+      "artist": "Aerosmith",
+      "title": "Train Kept A Rollin'",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stop",
+      "artist": "Against Me!",
+      "title": "Stop!",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thrashunreal",
+      "artist": "Against Me!",
+      "title": "Thrash Unreal",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "runningwild",
+      "artist": "Airbourne",
+      "title": "Runnin' Wild",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "goodtime",
+      "artist": "Alan Jackson",
+      "title": "Good Time",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "billiondollarlive",
+      "artist": "Alice Cooper",
+      "title": "Billion Dollar Babies (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "imeighteenlive",
+      "artist": "Alice Cooper",
+      "title": "I'm Eighteen (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "poison",
+      "artist": "Alice Cooper",
+      "title": "Poison",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "schoolsoutlive",
+      "artist": "Alice Cooper",
+      "title": "School's Out (Live)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "undermywheelslive",
+      "artist": "Alice Cooper",
+      "title": "Under My Wheels (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "vengeanceismine",
+      "artist": "Alice Cooper",
+      "title": "Vengeance Is Mine",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "smoothcriminalaaf",
+      "artist": "Alien Ant Farm",
+      "title": "Smooth Criminal",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "chiron",
+      "artist": "All That Remains",
+      "title": "Chiron",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thiscalling",
+      "artist": "All That Remains",
+      "title": "This Calling",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "twoweeks",
+      "artist": "All That Remains",
+      "title": "Two Weeks",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dirtylittlesecret",
+      "artist": "All-American Rejects",
+      "title": "Dirty Little Secret",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "movealong",
+      "artist": "All-American Rejects",
+      "title": "Move Along",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "realworld",
+      "artist": "All-American Rejects",
+      "title": "Real World",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blooddoll",
+      "artist": "Anarchy Club",
+      "title": "Blood Doll",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ithurts",
+      "artist": "Angels & Airwaves",
+      "title": "It Hurts",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blindedbyfear",
+      "artist": "At the Gates",
+      "title": "Blinded By Fear",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "noregrets",
+      "artist": "Authority Zero",
+      "title": "No Regrets",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "afterlife",
+      "artist": "Avenged Sevenfold",
+      "title": "Afterlife",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "criticalacclaim",
+      "artist": "Avenged Sevenfold",
+      "title": "Critical Acclaim",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pickupthepieces",
+      "artist": "Average White Band",
+      "title": "Pick Up the Pieces",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "21stcentdigiboy",
+      "artist": "Bad Religion",
+      "title": "21st Century (Digital Boy)",
+      "layout": "d0,1,2,3,4 b5 v8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sorrow",
+      "artist": "Bad Religion",
+      "title": "Sorrow",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pleasure",
+      "artist": "Bang Camaro",
+      "title": "Pleasure (Pleasure)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rockrebellion",
+      "artist": "Bang Camaro",
+      "title": "Rock Rebellion",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hanukkahblessings",
+      "artist": "Barenaked Ladies",
+      "title": "Hanukkah Blessings",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sabotage",
+      "artist": "Beastie Boys",
+      "title": "Sabotage",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "feedthetree",
+      "artist": "Belly",
+      "title": "Feed the Tree",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shimmerandshine",
+      "artist": "Ben Harper and Relentless7",
+      "title": "Shimmer & Shine",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prequeltothesequel",
+      "artist": "Between the Buried and Me",
+      "title": "Prequel to the Sequel",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "christmasisthetime",
+      "artist": "Billy Squier",
+      "title": "Christmas Is the Time to Say I Love You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nib",
+      "artist": "Black Sabbath",
+      "title": "N.I.B.",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "paranoid",
+      "artist": "Black Sabbath",
+      "title": "Paranoid",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sweetleaf",
+      "artist": "Black Sabbath",
+      "title": "Sweet Leaf",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "warpigs",
+      "artist": "Black Sabbath",
+      "title": "War Pigs",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shockwave",
+      "artist": "Black Tide",
+      "title": "Shockwave",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "warriorsoftime",
+      "artist": "Black Tide",
+      "title": "Warriors of Time",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "allthesmallthings",
+      "artist": "Blink-182",
+      "title": "All the Small Things",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dammit",
+      "artist": "Blink-182",
+      "title": "Dammit",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "callme",
+      "artist": "Blondie",
+      "title": "Call Me",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hangingonthetelephone",
+      "artist": "Blondie",
+      "title": "Hanging on the Telephone",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dontfearthereaper",
+      "artist": "Blue Öyster Cult",
+      "title": "(Don't Fear) The Reaper",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "transmaniaconmc",
+      "artist": "Blue Öyster Cult",
+      "title": "Transmaniacon MC",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "beetlebum",
+      "artist": "Blur",
+      "title": "Beetlebum",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wanteddeadoralive",
+      "artist": "Bon Jovi",
+      "title": "Wanted Dead or Alive",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "foreplaylongtime",
+      "artist": "Boston",
+      "title": "Foreplay/Long Time",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hitcharide",
+      "artist": "Boston",
+      "title": "Hitch A Ride",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "morethanafeeling",
+      "artist": "Boston",
+      "title": "More Than A Feeling",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "peaceofmind",
+      "artist": "Boston",
+      "title": "Peace of Mind",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rockandrollband",
+      "artist": "Boston",
+      "title": "Rock and Roll Band",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "smokin",
+      "artist": "Boston",
+      "title": "Smokin'",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "somethingaboutyou",
+      "artist": "Boston",
+      "title": "Something About You",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mudonthetires",
+      "artist": "Brad Paisley",
+      "title": "Mud on the Tires",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hillbillydeluxe",
+      "artist": "Brooks & Dunn",
+      "title": "Hillbilly Deluxe",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rescueme",
+      "artist": "Buckcherry",
+      "title": "Rescue Me",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wakingthedemon",
+      "artist": "Bullet For My Valentine",
+      "title": "Waking the Demon",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "everfalleninlove",
+      "artist": "Buzzcocks",
+      "title": "Ever Fallen in Love",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "areyoudeadyet",
+      "artist": "Children of Bodom",
+      "title": "Are You Dead Yet?",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ididntsayiwas",
+      "artist": "Chiodos",
+      "title": "I Didn't Say I Was Powerful, I Said I Was a Wizard",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "giveittome",
+      "artist": "Cocktail Slippers",
+      "title": "Give It to Me",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "afavorhouseatlantic",
+      "artist": "Coheed and Cambria",
+      "title": "A Favor House Atlantic",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tenspeed",
+      "artist": "Coheed and Cambria",
+      "title": "Ten Speed (Of God's Blood & Burial)",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "therunningfree",
+      "artist": "Coheed and Cambria",
+      "title": "The Running Free",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "welcomehome",
+      "artist": "Coheed and Cambria",
+      "title": "Welcome Home",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shake",
+      "artist": "Count Zero",
+      "title": "Shake",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fortunateson",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Fortunate Son",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gone",
+      "artist": "Crooked X",
+      "title": "Gone",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nightmare",
+      "artist": "Crooked X",
+      "title": "Nightmare",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rocknrolldream",
+      "artist": "Crooked X",
+      "title": "Rock 'n' Roll Dream",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "crylonely",
+      "artist": "Cross Canadian Ragweed",
+      "title": "Cry Lonely",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "handsdown",
+      "artist": "Dashboard Confessional",
+      "title": "Hands Down",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heroes",
+      "artist": "David Bowie",
+      "title": "Heroes",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "moonagedaydream",
+      "artist": "David Bowie",
+      "title": "Moonage Daydream",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "queenbitch",
+      "artist": "David Bowie",
+      "title": "Queen Bitch",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "suffragettecity",
+      "artist": "David Bowie",
+      "title": "Suffragette City",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "californiauberalles",
+      "artist": "Dead Kennedys",
+      "title": "California Über Alles",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "holidayincambodia",
+      "artist": "Dead Kennedys",
+      "title": "Holiday in Cambodia",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "policetruck",
+      "artist": "Dead Kennedys",
+      "title": "Police Truck",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "databasecorrupted",
+      "artist": "Dealership",
+      "title": "Database Corrupted",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cantletgo",
+      "artist": "Death of the Cool",
+      "title": "Can't Let Go",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "highwaystar",
+      "artist": "Deep Purple",
+      "title": "Highway Star",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "spacetruckin",
+      "artist": "Deep Purple",
+      "title": "Space Truckin'",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cloudsovercalifornia",
+      "artist": "DevilDriver",
+      "title": "Clouds Over California",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "girluwant",
+      "artist": "Devo",
+      "title": "Girl U Want",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "throughbeingcool",
+      "artist": "Devo",
+      "title": "Through Being Cool",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hierkommtalex",
+      "artist": "Die Toten Hosen",
+      "title": "Hier Kommt Alex",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "freeandeasy",
+      "artist": "Dierks Bentley",
+      "title": "Free and Easy (Down the Road I Go)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "indestructible",
+      "artist": "Disturbed",
+      "title": "Indestructible",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "insidethefire",
+      "artist": "Disturbed",
+      "title": "Inside the Fire",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "perfectinsanity",
+      "artist": "Disturbed",
+      "title": "Perfect Insanity",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stricken",
+      "artist": "Disturbed",
+      "title": "Stricken",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stupify",
+      "artist": "Disturbed",
+      "title": "Stupify",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sinwagon",
+      "artist": "Dixie Chicks",
+      "title": "Sin Wagon",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "constantmotion",
+      "artist": "Dream Theater",
+      "title": "Constant Motion",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "3dimesdown",
+      "artist": "Drive-By Truckers",
+      "title": "3 Dimes Down",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "girlsonfilm",
+      "artist": "Duran Duran",
+      "title": "Girls on Film",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rio",
+      "artist": "Duran Duran",
+      "title": "Rio",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shiningstar",
+      "artist": "Earth, Wind & Fire",
+      "title": "Shining Star",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "radioradio",
+      "artist": "Elvis Costello",
+      "title": "Radio Radio",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iwannabeyourman",
+      "artist": "Endeverafter",
+      "title": "I Wanna Be Your Man",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theflood",
+      "artist": "Escape the Fate",
+      "title": "The Flood",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bringmetolife",
+      "artist": "Evanescence",
+      "title": "Bring Me to Life",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "callmewhenyouresober",
+      "artist": "Evanescence",
+      "title": "Call Me When You're Sober",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "weightoftheworld",
+      "artist": "Evanescence",
+      "title": "Weight of the World",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thrasher",
+      "artist": "Evile",
+      "title": "Thrasher",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "epic",
+      "artist": "Faith No More",
+      "title": "Epic",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wecarealot",
+      "artist": "Faith No More",
+      "title": "We Care A Lot",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "deadonarrival",
+      "artist": "Fall Out Boy",
+      "title": "Dead on Arrival",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "idontcare",
+      "artist": "Fall Out Boy",
+      "title": "I Don't Care",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thisaintascene",
+      "artist": "Fall Out Boy",
+      "title": "This Ain't A Scene, It's An Arms Race",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tuttoepossibile",
+      "artist": "Finley",
+      "title": "Tutto è Possibile",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "imsosick",
+      "artist": "Flyleaf",
+      "title": "I'm So Sick",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "doa_foos",
+      "artist": "Foo Fighters",
+      "title": "DOA",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "doll",
+      "artist": "Foo Fighters",
+      "title": "Doll",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "enoughspace",
+      "artist": "Foo Fighters",
+      "title": "Enough Space",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "februarystars",
+      "artist": "Foo Fighters",
+      "title": "February Stars",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heyjohnnypark",
+      "artist": "Foo Fighters",
+      "title": "Hey, Johnny Park!",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "learntofly",
+      "artist": "Foo Fighters",
+      "title": "Learn to Fly",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "monkeywrench",
+      "artist": "Foo Fighters",
+      "title": "Monkey Wrench",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "myhero",
+      "artist": "Foo Fighters",
+      "title": "My Hero",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mypoorbrain",
+      "artist": "Foo Fighters",
+      "title": "My Poor Brain",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "newwayhome",
+      "artist": "Foo Fighters",
+      "title": "New Way Home",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "seeyou",
+      "artist": "Foo Fighters",
+      "title": "See You",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thisisacall",
+      "artist": "Foo Fighters",
+      "title": "This Is a Call",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "timeslikethese",
+      "artist": "Foo Fighters",
+      "title": "Times Like These",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "upinarms",
+      "artist": "Foo Fighters",
+      "title": "Up in Arms",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "walkingafteryou",
+      "artist": "Foo Fighters",
+      "title": "Walking After You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "windup",
+      "artist": "Foo Fighters",
+      "title": "Wind Up",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jukeboxhero",
+      "artist": "Foreigner",
+      "title": "Juke Box Hero",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "doyouwantto",
+      "artist": "Franz Ferdinand",
+      "title": "Do You Want To",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "luciddreams",
+      "artist": "Franz Ferdinand",
+      "title": "Lucid Dreams",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "takemeout",
+      "artist": "Franz Ferdinand",
+      "title": "Take Me Out",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "allrightnow",
+      "artist": "Free",
+      "title": "All Right Now",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "brainpower",
+      "artist": "Freezepop",
+      "title": "Brainpower",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sprode",
+      "artist": "Freezepop",
+      "title": "Sprode",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ithinkimparanoid",
+      "artist": "Garbage",
+      "title": "I Think I'm Paranoid",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whydoyouloveme",
+      "artist": "Garbage",
+      "title": "Why Do You Love Me?",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "badtothebone",
+      "artist": "George Thorogood & the Destroyers",
+      "title": "Bad to the Bone",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ashestofire",
+      "artist": "Ghost Hounds",
+      "title": "Ashes to Fire",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "windmeup",
+      "artist": "Ghost Hounds",
+      "title": "Wind Me Up",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stillalive",
+      "artist": "GLaDOS",
+      "title": "Still Alive",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "geraldine",
+      "artist": "Glasvegas",
+      "title": "Geraldine",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "istandalone",
+      "artist": "Godsmack",
+      "title": "I Stand Alone",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "better",
+      "artist": "Guns N' Roses",
+      "title": "Better",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "catcherintherye",
+      "artist": "Guns N' Roses",
+      "title": "Catcher in the Rye",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "chinesedemocracy",
+      "artist": "Guns N' Roses",
+      "title": "Chinese Democracy",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "irs",
+      "artist": "Guns N' Roses",
+      "title": "I.R.S.",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iftheworld",
+      "artist": "Guns N' Roses",
+      "title": "If the World",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "madagascar",
+      "artist": "Guns N' Roses",
+      "title": "Madagascar",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prostitute",
+      "artist": "Guns N' Roses",
+      "title": "Prostitute",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "riadnthebedouins",
+      "artist": "Guns N' Roses",
+      "title": "Riad N' the Bedouins",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "scraped",
+      "artist": "Guns N' Roses",
+      "title": "Scraped",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sorry",
+      "artist": "Guns N' Roses",
+      "title": "Sorry",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "streetofdreams",
+      "artist": "Guns N' Roses",
+      "title": "Street of Dreams",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "therewasatime",
+      "artist": "Guns N' Roses",
+      "title": "There Was a Time",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thisilove",
+      "artist": "Guns N' Roses",
+      "title": "This I Love",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "countdowntoinsanity",
+      "artist": "H-Blockx",
+      "title": "Countdown to Insanity",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "creamandbastards",
+      "artist": "Harvey Danger",
+      "title": "Cream and Bastards Rise",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aloneinmyhead",
+      "artist": "Hautewerk",
+      "title": "Alone in My Head",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iknowwhereyou",
+      "artist": "Hautewerk",
+      "title": "I Know Where You Came From",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stopstartagain",
+      "artist": "Hautewerk",
+      "title": "Stop Start Again",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mastersoftheuniverse",
+      "artist": "Hawkwind",
+      "title": "Master of the Universe",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "useme",
+      "artist": "Hinder",
+      "title": "Use Me",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "celebrityskin",
+      "artist": "Hole",
+      "title": "Celebrity Skin",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "young",
+      "artist": "Hollywood Undead",
+      "title": "Young",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "entangled",
+      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
+      "title": "Entangled",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "igetby",
+      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
+      "title": "I Get By",
+      "layout": "d0,1,2,3 b4,5 v8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bandages",
+      "artist": "Hot Hot Heat",
+      "title": "Bandages",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "levitate",
+      "artist": "I Mother Earth",
+      "title": "Levitate",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "forever",
+      "artist": "In This Moment",
+      "title": "Forever",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "2minutestomidnight",
+      "artist": "Iron Maiden",
+      "title": "2 Minutes to Midnight",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aceshigh_live",
+      "artist": "Iron Maiden",
+      "title": "Aces High (Live)",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "caniplaywithmadness",
+      "artist": "Iron Maiden",
+      "title": "Can I Play with Madness",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fearofthedarklive",
+      "artist": "Iron Maiden",
+      "title": "Fear of the Dark (Live)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hallowedbethyname",
+      "artist": "Iron Maiden",
+      "title": "Hallowed Be Thy Name (Live)",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ironmaidenlive",
+      "artist": "Iron Maiden",
+      "title": "Iron Maiden (Live)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "powerslave",
+      "artist": "Iron Maiden",
+      "title": "Powerslave",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "runtothehills",
+      "artist": "Iron Maiden",
+      "title": "Run to the Hills",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "runtothehills2",
+      "artist": "Iron Maiden",
+      "title": "Run to the Hills (Original Version)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theclairvoyant",
+      "artist": "Iron Maiden",
+      "title": "The Clairvoyant",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "numberofthebeast",
+      "artist": "Iron Maiden",
+      "title": "The Number of the Beast",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "numberofthebeast2",
+      "artist": "Iron Maiden",
+      "title": "The Number of the Beast (Original Version)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thetrooper",
+      "artist": "Iron Maiden",
+      "title": "The Trooper",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wastedyears",
+      "artist": "Iron Maiden",
+      "title": "Wasted Years",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "getup",
+      "artist": "James Brown",
+      "title": "Get Up (I Feel Like Being a) Sex Machine - Pt 1",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "funk49",
+      "artist": "James Gang",
+      "title": "Funk #49",
+      "layout": "d0,1 b2,3 v6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hadadad",
+      "artist": "Jane's Addiction",
+      "title": "Had a Dad",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "idiotsrule",
+      "artist": "Jane's Addiction",
+      "title": "Idiots Rule",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "janesays",
+      "artist": "Jane's Addiction",
+      "title": "Jane Says",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "oceansize",
+      "artist": "Jane's Addiction",
+      "title": "Ocean Size",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pigsinzen",
+      "artist": "Jane's Addiction",
+      "title": "Pig's in Zen",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "standingintheshower",
+      "artist": "Jane's Addiction",
+      "title": "Standing in the Shower... Thinking",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "summertimerolls",
+      "artist": "Jane's Addiction",
+      "title": "Summertime Rolls",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tedjustadmitit",
+      "artist": "Jane's Addiction",
+      "title": "Ted, Just Admit It...",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thankyouboys",
+      "artist": "Jane's Addiction",
+      "title": "Thank You Boys",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "upthebeach",
+      "artist": "Jane's Addiction",
+      "title": "Up the Beach",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shescountry",
+      "artist": "Jason Aldean",
+      "title": "She's Country",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "areyougonnabemygirl",
+      "artist": "Jet",
+      "title": "Are You Gonna Be My Girl",
+      "layout": "d0,1,2,3,4 b5 v8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hymn43",
+      "artist": "Jethro Tull",
+      "title": "Hymn 43",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cheeseburgerinparadise",
+      "artist": "Jimmy Buffett",
+      "title": "Cheeseburger in Paradise",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "margaritaville",
+      "artist": "Jimmy Buffett",
+      "title": "Margaritaville",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "volcano",
+      "artist": "Jimmy Buffett",
+      "title": "Volcano",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "futures",
+      "artist": "Jimmy Eat World",
+      "title": "Futures",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "luckydenvermint",
+      "artist": "Jimmy Eat World",
+      "title": "Lucky Denver Mint",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sweetness",
+      "artist": "Jimmy Eat World",
+      "title": "Sweetness",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "skullcrushermt",
+      "artist": "Jonathan Coulton",
+      "title": "Skullcrusher Mountain",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dontstopbelieving",
+      "artist": "Journey",
+      "title": "Don't Stop Believing",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "takethesechains",
+      "artist": "Judas Priest",
+      "title": "(Take These) Chains",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bloodstone",
+      "artist": "Judas Priest",
+      "title": "Bloodstone",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "devilschild",
+      "artist": "Judas Priest",
+      "title": "Devil's Child",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fever",
+      "artist": "Judas Priest",
+      "title": "Fever",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "painandpleasure",
+      "artist": "Judas Priest",
+      "title": "Pain And Pleasure",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ridingonthewind",
+      "artist": "Judas Priest",
+      "title": "Riding on the Wind",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "screamingfor",
+      "artist": "Judas Priest",
+      "title": "Screaming For Vengeance",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hellionelectriceye",
+      "artist": "Judas Priest",
+      "title": "The Hellion/Electric Eye",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yougotanotherthingcoming",
+      "artist": "Judas Priest",
+      "title": "You've Got Another Thing Comin'",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "perfektewelle",
+      "artist": "Juli",
+      "title": "Perfekte Welle",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shoottherunner",
+      "artist": "Kasabian",
+      "title": "Shoot the Runner",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "itoldyouso",
+      "artist": "Keith Urban",
+      "title": "I Told You So",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shethinksmytractorssexy",
+      "artist": "Kenny Chesney",
+      "title": "She Thinks My Tractor's Sexy",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thegambler",
+      "artist": "Kenny Rogers",
+      "title": "The Gambler",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mycurse",
+      "artist": "Killswitch Engage",
+      "title": "My Curse",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "callingdrlove",
+      "artist": "KISS",
+      "title": "Calling Dr. Love",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "detroitrockcity",
+      "artist": "KISS",
+      "title": "Detroit Rock City",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thefeeling",
+      "artist": "Kutless",
+      "title": "The Feeling",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "closer",
+      "artist": "Lacuna Coil",
+      "title": "Closer",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "swamped",
+      "artist": "Lacuna Coil",
+      "title": "Swamped",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "laidtorest",
+      "artist": "Lamb of God",
+      "title": "Laid to Rest",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "areyougonnagomyway",
+      "artist": "Lenny Kravitz",
+      "title": "Are You Gonna Go My Way",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "freedomtrain",
+      "artist": "Lenny Kravitz",
+      "title": "Freedom Train",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "letloverule",
+      "artist": "Lenny Kravitz",
+      "title": "Let Love Rule",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mrcabdriver",
+      "artist": "Lenny Kravitz",
+      "title": "Mr. Cab Driver",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "manuchao",
+      "artist": "Les Wampas",
+      "title": "Manu Chao",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "imgoneimgoing",
+      "artist": "Lesley Roy",
+      "title": "I'm Gone, I'm Going",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alloveragain",
+      "artist": "Locksley",
+      "title": "All Over Again",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dontmakemewait",
+      "artist": "Locksley",
+      "title": "Don't Make Me Wait",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shedoes",
+      "artist": "Locksley",
+      "title": "She Does",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cantletgo_lucinda",
+      "artist": "Lucinda Williams",
+      "title": "Can't Let Go",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nakedeye",
+      "artist": "Luscious Jackson",
+      "title": "Naked Eye",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gimmethreesteps",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Gimme Three Steps",
+      "layout": "d0,1,2 b3 v6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "simpleman",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Simple Man",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aestheticsofhate",
+      "artist": "Machine Head",
+      "title": "Aesthetics of Hate",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "littleofyourtime",
+      "artist": "Maroon 5",
+      "title": "Little of Your Time",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "makesmewonder",
+      "artist": "Maroon 5",
+      "title": "Makes Me Wonder",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wakeupcall",
+      "artist": "Maroon 5",
+      "title": "Wake Up Call",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thisonesforthegirls",
+      "artist": "Martina McBride",
+      "title": "This One's for the Girls",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "girlswhoplayguitars",
+      "artist": "Maxïmo Park",
+      "title": "Girls Who Play Guitars",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "livinatthecorner",
+      "artist": "MC Frontalot feat. Brad Sucks",
+      "title": "Livin' at the Corner of Dude & Catastrophe",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "badomen",
+      "artist": "Megadeth",
+      "title": "Bad Omen",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "devilsisland",
+      "artist": "Megadeth",
+      "title": "Devil's Island",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "goodmorningblackfriday",
+      "artist": "Megadeth",
+      "title": "Good Mourning/Black Friday",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iaintsuperstitious",
+      "artist": "Megadeth",
+      "title": "I Ain't Superstitious",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mylastwords",
+      "artist": "Megadeth",
+      "title": "My Last Words",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sleepwalker",
+      "artist": "Megadeth",
+      "title": "Sleepwalker",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theconjuring",
+      "artist": "Megadeth",
+      "title": "The Conjuring",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wakeupdead",
+      "artist": "Megadeth",
+      "title": "Wake Up Dead",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "megasus",
+      "artist": "Megasus",
+      "title": "Megasus",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "andjusticeforall",
+      "artist": "Metallica",
+      "title": "...And Justice for All",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blackened",
+      "artist": "Metallica",
+      "title": "Blackened",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "entersandman",
+      "artist": "Metallica",
+      "title": "Enter Sandman",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ridethelightning",
+      "artist": "Metallica",
+      "title": "Ride the Lightning",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cuzurnext",
+      "artist": "Ministry",
+      "title": "Cuz U R Next",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lieslieslies",
+      "artist": "Ministry",
+      "title": "LiesLiesLies",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thegreatsatan",
+      "artist": "Ministry",
+      "title": "The Great Satan",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "headphoneson",
+      "artist": "Miranda Cosgrove",
+      "title": "Headphones On",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gunpowderandlead",
+      "artist": "Miranda Lambert",
+      "title": "Gunpowder & Lead",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mica",
+      "artist": "Mission of Burma",
+      "title": "Mica",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thatshowiescaped",
+      "artist": "Mission of Burma",
+      "title": "That's How I Escaped My Certain Fate",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thatswhenireach",
+      "artist": "Mission of Burma",
+      "title": "That's When I Reach for My Revolver",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "flirtinwithdisaster",
+      "artist": "Molly Hatchet",
+      "title": "Flirtin' with Disaster",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gone_mg",
+      "artist": "Montgomery Gentry",
+      "title": "Gone",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "killedbydeath",
+      "artist": "Motörhead",
+      "title": "Killed by Death '08",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "missqueen",
+      "artist": "Mountain",
+      "title": "Mississippi Queen",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hysteria",
+      "artist": "Muse",
+      "title": "Hysteria",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "typical",
+      "artist": "Mute Math",
+      "title": "Typical",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dontgoawaymad",
+      "artist": "Mötley Crüe",
+      "title": "Don't Go Away Mad (Just Go Away)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "downatthewhiskey",
+      "artist": "Mötley Crüe",
+      "title": "Down at the Whisky",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "drfeelgood",
+      "artist": "Mötley Crüe",
+      "title": "Dr. Feelgood",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "facedowninthedirt",
+      "artist": "Mötley Crüe",
+      "title": "Face Down in the Dirt",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kickstartmyheart",
+      "artist": "Mötley Crüe",
+      "title": "Kickstart My Heart",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rattlesnakeshake",
+      "artist": "Mötley Crüe",
+      "title": "Rattlesnake Shake",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "saintsoflosangeles",
+      "artist": "Mötley Crüe",
+      "title": "Saints of Los Angeles",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sameolsituation",
+      "artist": "Mötley Crüe",
+      "title": "Same Ol' Situation (S.O.S.)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shegoesdown",
+      "artist": "Mötley Crüe",
+      "title": "She Goes Down",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sliceofyourpie",
+      "artist": "Mötley Crüe",
+      "title": "Slice of Your Pie",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stickysweet",
+      "artist": "Mötley Crüe",
+      "title": "Sticky Sweet",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "timeforchange",
+      "artist": "Mötley Crüe",
+      "title": "Time For Change",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "withoutyou",
+      "artist": "Mötley Crüe",
+      "title": "Without You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hairofthedog",
+      "artist": "Nazareth",
+      "title": "Hair of the Dog",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "peoplegotalotofnerve",
+      "artist": "Neko Case",
+      "title": "People Got a Lotta Nerve",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "breakmyheart",
+      "artist": "Nikko",
+      "title": "Break My Heart",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "donttellme",
+      "artist": "Nikko",
+      "title": "Don't Tell Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "burn",
+      "artist": "Nine Inch Nails",
+      "title": "Burn",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "capitalg",
+      "artist": "Nine Inch Nails",
+      "title": "Capital G",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "last",
+      "artist": "Nine Inch Nails",
+      "title": "Last",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "marchofthepigs",
+      "artist": "Nine Inch Nails",
+      "title": "March Of The Pigs",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "collector",
+      "artist": "Nine Inch Nails",
+      "title": "The Collector",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thehandthatfeeds",
+      "artist": "Nine Inch Nails",
+      "title": "The Hand That Feeds",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "perfectdrug",
+      "artist": "Nine Inch Nails",
+      "title": "The Perfect Drug",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "breed",
+      "artist": "Nirvana",
+      "title": "Breed",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "inbloom",
+      "artist": "Nirvana",
+      "title": "In Bloom",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "loungeact",
+      "artist": "Nirvana",
+      "title": "Lounge Act",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "onaplain",
+      "artist": "Nirvana",
+      "title": "On A Plain",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "polly",
+      "artist": "Nirvana",
+      "title": "Polly",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "somethingintheway",
+      "artist": "Nirvana",
+      "title": "Something In The Way",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stayaway",
+      "artist": "Nirvana",
+      "title": "Stay Away",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "territorialpissing",
+      "artist": "Nirvana",
+      "title": "Territorial Pissings",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bathwater",
+      "artist": "No Doubt",
+      "title": "Bathwater",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dontspeak",
+      "artist": "No Doubt",
+      "title": "Don't Speak",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "exgirlfriend",
+      "artist": "No Doubt",
+      "title": "Ex-Girlfriend",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "excusememr",
+      "artist": "No Doubt",
+      "title": "Excuse Me Mr.",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hellagood",
+      "artist": "No Doubt",
+      "title": "Hella Good",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heybaby",
+      "artist": "No Doubt",
+      "title": "Hey Baby",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "itsmylife",
+      "artist": "No Doubt",
+      "title": "It's My Life",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "justagirl",
+      "artist": "No Doubt",
+      "title": "Just a Girl",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "new",
+      "artist": "No Doubt",
+      "title": "New",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "running",
+      "artist": "No Doubt",
+      "title": "Running",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "simplekindoflife",
+      "artist": "No Doubt",
+      "title": "Simple Kind of Life",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "spiderwebs",
+      "artist": "No Doubt",
+      "title": "Spiderwebs",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sundaymorning",
+      "artist": "No Doubt",
+      "title": "Sunday Morning",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "underneathitall",
+      "artist": "No Doubt",
+      "title": "Underneath It All",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dontlookbackinanger",
+      "artist": "Oasis",
+      "title": "Don't Look Back In Anger",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "liveforever",
+      "artist": "Oasis",
+      "title": "Live Forever",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rockandrollstar",
+      "artist": "Oasis",
+      "title": "Rock 'n' Roll Star",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wonderwall",
+      "artist": "Oasis",
+      "title": "Wonderwall",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hereitgoesagain",
+      "artist": "OK Go",
+      "title": "Here It Goes Again",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "timebomb",
+      "artist": "Old 97's",
+      "title": "Time Bomb (Live)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "burnyoudown",
+      "artist": "Opiate for the Masses",
+      "title": "Burn You Down",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheisahandsomewoman",
+      "artist": "Panic at the Disco",
+      "title": "She's a Handsome Woman",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lastresort",
+      "artist": "Papa Roach",
+      "title": "Last Resort",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lifeline",
+      "artist": "Papa Roach",
+      "title": "Lifeline",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "timeisrunningout",
+      "artist": "Papa Roach",
+      "title": "Time Is Running Out",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "crushcrushcrush",
+      "artist": "Paramore",
+      "title": "Crushcrushcrush",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heartbreaker",
+      "artist": "Pat Benatar",
+      "title": "Heartbreaker",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hitmewithyourbestshot",
+      "artist": "Pat Benatar",
+      "title": "Hit Me With Your Best Shot",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alivelive",
+      "artist": "Pearl Jam",
+      "title": "Alive (Live: Drop in the Park)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "black",
+      "artist": "Pearl Jam",
+      "title": "Black",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "brother",
+      "artist": "Pearl Jam",
+      "title": "Brother",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "deep",
+      "artist": "Pearl Jam",
+      "title": "Deep",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "evenflow",
+      "artist": "Pearl Jam",
+      "title": "Even Flow",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "garden",
+      "artist": "Pearl Jam",
+      "title": "Garden",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jeremy",
+      "artist": "Pearl Jam",
+      "title": "Jeremy",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "masterslave",
+      "artist": "Pearl Jam",
+      "title": "Master/Slave",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "oceans",
+      "artist": "Pearl Jam",
+      "title": "Oceans",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "once",
+      "artist": "Pearl Jam",
+      "title": "Once",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "porch",
+      "artist": "Pearl Jam",
+      "title": "Porch",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "release",
+      "artist": "Pearl Jam",
+      "title": "Release",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stateofloveandtrustlive",
+      "artist": "Pearl Jam",
+      "title": "State of Love and Trust (Live: Drop in the Park)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whygo",
+      "artist": "Pearl Jam",
+      "title": "Why Go",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wilsonlive",
+      "artist": "Phish",
+      "title": "Wilson (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "crackityjones",
+      "artist": "Pixies",
+      "title": "Crackity Jones",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dead",
+      "artist": "Pixies",
+      "title": "Dead",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "debaser",
+      "artist": "Pixies",
+      "title": "Debaser",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gougeaway",
+      "artist": "Pixies",
+      "title": "Gouge Away",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "herecomesyourman",
+      "artist": "Pixies",
+      "title": "Here Comes Your Man",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hey",
+      "artist": "Pixies",
+      "title": "Hey",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ibleed",
+      "artist": "Pixies",
+      "title": "I Bleed",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lalaloveyou",
+      "artist": "Pixies",
+      "title": "La La Love You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "monkeygonetoheaven",
+      "artist": "Pixies",
+      "title": "Monkey Gone to Heaven",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mrgrieves",
+      "artist": "Pixies",
+      "title": "Mr. Grieves",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "no13baby",
+      "artist": "Pixies",
+      "title": "No. 13 Baby",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "silver",
+      "artist": "Pixies",
+      "title": "Silver",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tame",
+      "artist": "Pixies",
+      "title": "Tame",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theregoesmygun",
+      "artist": "Pixies",
+      "title": "There Goes My Gun",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "waveofmutilation",
+      "artist": "Pixies",
+      "title": "Wave of Mutilation",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "naturaldisaster",
+      "artist": "Plain White T's",
+      "title": "Natural Disaster",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "haypocorockandroll",
+      "artist": "Platero y Tú",
+      "title": "Hay Poco Rock & Roll",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "newwave",
+      "artist": "Pleymo",
+      "title": "New Wave",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "idealistictypes",
+      "artist": "Prong",
+      "title": "Idealistic Types",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thebanishment",
+      "artist": "Prong",
+      "title": "The Banishment",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "3sand7s",
+      "artist": "Queens of the Stone Age",
+      "title": "3's & 7's",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gowiththeflow",
+      "artist": "Queens of the Stone Age",
+      "title": "Go with the Flow",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "littlesister",
+      "artist": "Queens of the Stone Age",
+      "title": "Little Sister",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sicksicksick",
+      "artist": "Queens of the Stone Age",
+      "title": "Sick, Sick, Sick",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "losingmyreligion",
+      "artist": "R.E.M.",
+      "title": "Losing My Religion",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "orangecrush",
+      "artist": "R.E.M.",
+      "title": "Orange Crush",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "creep",
+      "artist": "Radiohead",
+      "title": "Creep",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "myironlung",
+      "artist": "Radiohead",
+      "title": "My Iron Lung",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blitzkriegbop",
+      "artist": "Ramones",
+      "title": "Blitzkrieg Bop",
+      "layout": "d0,1,2,3 b4 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rockawaybeach",
+      "artist": "Ramones",
+      "title": "Rockaway Beach",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "teenagelobotomy",
+      "artist": "Ramones",
+      "title": "Teenage Lobotomy",
+      "layout": "d0,1,2,3 b4 v7,8 s9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "meandmygang",
+      "artist": "Rascal Flatts",
+      "title": "Me and My Gang",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "apacherosepeacock",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Apache Rose Peacock",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bloodsugarsexmagik",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Blood Sugar Sex Magik",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "breakingthegirl",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Breaking the Girl",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "danicalifornia",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Dani California",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "funkymonks",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Funky Monks",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "icouldhavelied",
+      "artist": "Red Hot Chili Peppers",
+      "title": "I Could Have Lied",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ifyouhavetoask",
+      "artist": "Red Hot Chili Peppers",
+      "title": "If You Have to Ask",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mellowshipslinkyinbmajor",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Mellowship Slinky in B Major",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mylovelyman",
+      "artist": "Red Hot Chili Peppers",
+      "title": "My Lovely Man",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nakedintherain",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Naked in the Rain",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sirpsychosexy",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Sir Psycho Sexy",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "snowheyoh",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Snow ((Hey Oh))",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "suckmykiss",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Suck My Kiss",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tellmebaby",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Tell Me Baby",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thegreetingsong",
+      "artist": "Red Hot Chili Peppers",
+      "title": "The Greeting Song",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thepowerofequality",
+      "artist": "Red Hot Chili Peppers",
+      "title": "The Power of Equality",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "therighteousandthewicked",
+      "artist": "Red Hot Chili Peppers",
+      "title": "The Righteous and the Wicked",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theyreredhot",
+      "artist": "Red Hot Chili Peppers",
+      "title": "They're Red Hot",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "underthebridge",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under the Bridge",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ridinthestormout",
+      "artist": "REO Speedwagon",
+      "title": "Ridin' the Storm Out",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rollwiththechanges",
+      "artist": "REO Speedwagon",
+      "title": "Roll with the Changes",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "takeitontherun",
+      "artist": "REO Speedwagon",
+      "title": "Take It on the Run",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thewaythatitshows",
+      "artist": "Richard Thompson",
+      "title": "The Way That It Shows",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "warzone",
+      "artist": "Rob Zombie",
+      "title": "War Zone",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "claudette",
+      "artist": "Roy Orbison",
+      "title": "Claudette",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "indreams",
+      "artist": "Roy Orbison",
+      "title": "In Dreams",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "meanwomanblues",
+      "artist": "Roy Orbison",
+      "title": "Mean Woman Blues",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ohprettywoman",
+      "artist": "Roy Orbison",
+      "title": "Oh, Pretty Woman",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "oobydooby",
+      "artist": "Roy Orbison",
+      "title": "Ooby Dooby",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yougotit",
+      "artist": "Roy Orbison",
+      "title": "You Got It",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "closertotheheart",
+      "artist": "Rush",
+      "title": "Closer to the Heart",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "limelight",
+      "artist": "Rush",
+      "title": "Limelight",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "limelight2",
+      "artist": "Rush",
+      "title": "Limelight (Original Version)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "redbarchetta",
+      "artist": "Rush",
+      "title": "Red Barchetta",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cameraeye",
+      "artist": "Rush",
+      "title": "The Camera Eye",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tomsawyer",
+      "artist": "Rush",
+      "title": "Tom Sawyer",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tomsawyer2",
+      "artist": "Rush",
+      "title": "Tom Sawyer (Original Version)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "vitalsigns",
+      "artist": "Rush",
+      "title": "Vital Signs",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "witchhunt",
+      "artist": "Rush",
+      "title": "Witch Hunt (Part III of Fear)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "workingman",
+      "artist": "Rush",
+      "title": "Working Man",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "workingman2",
+      "artist": "Rush",
+      "title": "Working Man (Vault Edition)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yyz",
+      "artist": "Rush",
+      "title": "YYZ",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sudsinabucket",
+      "artist": "Sara Evans",
+      "title": "Suds in the Bucket",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theysay",
+      "artist": "Scars on Broadway",
+      "title": "They Say",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nearlylostyou",
+      "artist": "Screaming Trees",
+      "title": "Nearly Lost You",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "magneticbaby",
+      "artist": "Semi Precious Weapons",
+      "title": "Magnetic Baby",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "beethovensc",
+      "artist": "Serj Tankian",
+      "title": "Beethoven's C***",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "likeafool",
+      "artist": "Shaimus",
+      "title": "Like a Fool",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "anymanofmine",
+      "artist": "Shania Twain",
+      "title": "Any Man of Mine",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "devour",
+      "artist": "Shinedown",
+      "title": "Devour",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "junkiesforfame",
+      "artist": "Shinedown",
+      "title": "Junkies for Fame",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "steadyatthewheel",
+      "artist": "Shooter Jennings",
+      "title": "Steady at the Wheel",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "melatonin",
+      "artist": "Silversun Pickups",
+      "title": "Melatonin",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wellthoughtouttwinkles",
+      "artist": "Silversun Pickups",
+      "title": "Well Thought Out Twinkles",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hongkonggarden",
+      "artist": "Siouxsie and The Banshees",
+      "title": "Hong Kong Garden",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kissthemforme",
+      "artist": "Siouxsie and The Banshees",
+      "title": "Kiss Them for Me",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "killingjar",
+      "artist": "Siouxsie and The Banshees",
+      "title": "The Killing Jar",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lifeisbeautiful",
+      "artist": "Sixx:A.M.",
+      "title": "Life is Beautiful",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yourenorocknrollfun",
+      "artist": "Sleater-Kinney",
+      "title": "You're No Rock N' Roll Fun",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cherubrock",
+      "artist": "Smashing Pumpkins",
+      "title": "Cherub Rock",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "siva",
+      "artist": "Smashing Pumpkins",
+      "title": "Siva",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "zero",
+      "artist": "Smashing Pumpkins",
+      "title": "Zero",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "takebackthecity",
+      "artist": "Snow Patrol",
+      "title": "Take Back the City",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "badluck",
+      "artist": "Social Distortion",
+      "title": "Bad Luck",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ringoffire",
+      "artist": "Social Distortion",
+      "title": "Ring of Fire",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "storyofmylife",
+      "artist": "Social Distortion",
+      "title": "Story of My Life",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "koolthing",
+      "artist": "Sonic Youth",
+      "title": "Kool Thing",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blackholesun",
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jesuschristpose",
+      "artist": "Soundgarden",
+      "title": "Jesus Christ Pose",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prettynoose",
+      "artist": "Soundgarden",
+      "title": "Pretty Noose",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "backfromthedead",
+      "artist": "Spinal Tap",
+      "title": "Back From The Dead",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rocknrollnightmare",
+      "artist": "Spinal Tap",
+      "title": "Rock 'n' Roll Nightmare",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "saucyjack",
+      "artist": "Spinal Tap",
+      "title": "Saucy Jack",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "warmerthanhell",
+      "artist": "Spinal Tap",
+      "title": "Warmer Than Hell",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "icanttakemyeyes",
+      "artist": "SpongeBob SquarePants",
+      "title": "I Can't Keep My Eyes Off of You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bestdayever",
+      "artist": "SpongeBob SquarePants",
+      "title": "The Best Day Ever",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wheresgary",
+      "artist": "SpongeBob SquarePants",
+      "title": "Where's Gary?",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tempted",
+      "artist": "Squeeze",
+      "title": "Tempted",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thisisit",
+      "artist": "Staind",
+      "title": "This Is It",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pushit",
+      "artist": "Static-X",
+      "title": "Push It",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blackfriday",
+      "artist": "Steely Dan",
+      "title": "Black Friday",
+      "layout": "d0,1,2,3 b4 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "myoldschool",
+      "artist": "Steely Dan",
+      "title": "My Old School",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "charlene",
+      "artist": "Stephen and the Colberts",
+      "title": "Charlene (I'm Right Behind You)",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "satelliteradio",
+      "artist": "Steve Earle",
+      "title": "Satellite Radio",
+      "layout": "d0,1,2,3,4,5 b6 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "spacecowboy",
+      "artist": "Steve Miller Band",
+      "title": "Space Cowboy",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "takethemoney",
+      "artist": "Steve Miller Band",
+      "title": "Take the Money and Run",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thejoker",
+      "artist": "Steve Miller Band",
+      "title": "The Joker",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dirtypool",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Dirty Pool",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "imcryin",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "I'm Cryin'",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lenny",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Lenny",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lovestruckbaby",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Love Struck Baby",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "maryhadalittlelamb",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Mary Had a Little Lamb",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prideandjoy",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Pride and Joy",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rudemood",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Rude Mood",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tellme",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Tell Me",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "testify_srv",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Testify",
+      "layout": "d0,1,2,3,4,5 b6 v s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "texasflood",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "Texas Flood",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "interstatelovesong",
+      "artist": "Stone Temple Pilots",
+      "title": "Interstate Love Song",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sextypething",
+      "artist": "Stone Temple Pilots",
+      "title": "Sex Type Thing",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "vasoline",
+      "artist": "Stone Temple Pilots",
+      "title": "Vasoline",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bluecollarman",
+      "artist": "Styx",
+      "title": "Blue Collar Man (Long Nights)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "renegade",
+      "artist": "Styx",
+      "title": "Renegade",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "toomuchtimeonmyhands",
+      "artist": "Styx",
+      "title": "Too Much Time on My Hands",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cantstoprockin",
+      "artist": "Styx/REO Speedwagon",
+      "title": "Can't Stop Rockin'",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "action",
+      "artist": "Sweet",
+      "title": "Action",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ballroomblitz",
+      "artist": "Sweet",
+      "title": "Ballroom Blitz",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "byob",
+      "artist": "System of a Down",
+      "title": "B.Y.O.B.",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "toxicity",
+      "artist": "System of a Down",
+      "title": "Toxicity",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bangagong",
+      "artist": "T. Rex",
+      "title": "Bang a Gong",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "liar",
+      "artist": "Taking Back Sunday",
+      "title": "Liar (It Takes One to Know One)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "makedamnsure",
+      "artist": "Taking Back Sunday",
+      "title": "MakeDamnSure",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whatsitfeellike",
+      "artist": "Taking Back Sunday",
+      "title": "What's It Feel Like to Be a Ghost?",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "electriccrown",
+      "artist": "Testament",
+      "title": "Electric Crown",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sonsanddaughters",
+      "artist": "The 88",
+      "title": "Sons and Daughters",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "daylatedollarshort",
+      "artist": "The Acro-brats",
+      "title": "Day Late, Dollar Short",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bluesky",
+      "artist": "The Allman Brothers Band",
+      "title": "Blue Sky",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "midnightrider",
+      "artist": "The Allman Brothers Band",
+      "title": "Midnight Rider",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "roam",
+      "artist": "The B-52's",
+      "title": "Roam",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hardtohandle",
+      "artist": "The Black Crowes",
+      "title": "Hard To Handle",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bounce",
+      "artist": "The Cab",
+      "title": "Bounce",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "oneofthosenights",
+      "artist": "The Cab",
+      "title": "One of THOSE Nights",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "allmixedup",
+      "artist": "The Cars",
+      "title": "All Mixed Up",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "byebyelove",
+      "artist": "The Cars",
+      "title": "Bye Bye Love",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dontchastop",
+      "artist": "The Cars",
+      "title": "Don't Cha Stop",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "goodtimesroll",
+      "artist": "The Cars",
+      "title": "Good Times Roll",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "intouch",
+      "artist": "The Cars",
+      "title": "I'm in Touch with Your World",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "justwhatineeded",
+      "artist": "The Cars",
+      "title": "Just What I Needed",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "movinginstereo",
+      "artist": "The Cars",
+      "title": "Moving in Stereo",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mybestfriendsgirl",
+      "artist": "The Cars",
+      "title": "My Best Friend's Girl",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yourealligot",
+      "artist": "The Cars",
+      "title": "You're All I've Got Tonight",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "getiton",
+      "artist": "The Chevelles",
+      "title": "Get It On",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "completecontrol",
+      "artist": "The Clash",
+      "title": "Complete Control",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ifoughtthelaw",
+      "artist": "The Clash",
+      "title": "I Fought the Law",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shouldistay",
+      "artist": "The Clash",
+      "title": "Should I Stay or Should I Go",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "traininvain",
+      "artist": "The Clash",
+      "title": "Train in Vain (Stand by Me)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "linger",
+      "artist": "The Cranberries",
+      "title": "Linger",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shesellssanctuary",
+      "artist": "The Cult",
+      "title": "She Sells Sanctuary",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shhh",
+      "artist": "The Darkest of the Hillside Thickets",
+      "title": "Shhh....",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "draintheblood",
+      "artist": "The Distillers",
+      "title": "Drain the Blood",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "creepinupthebackstairs",
+      "artist": "The Fratellis",
+      "title": "Creepin' Up the Backstairs",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "flathead",
+      "artist": "The Fratellis",
+      "title": "Flathead",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "henrietta",
+      "artist": "The Fratellis",
+      "title": "Henrietta",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "caseyjones",
+      "artist": "The Grateful Dead",
+      "title": "Casey Jones",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "chinacatsunflower",
+      "artist": "The Grateful Dead",
+      "title": "China Cat Sunflower",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "coldrainandsnow",
+      "artist": "The Grateful Dead",
+      "title": "Cold Rain and Snow",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dointhatrag",
+      "artist": "The Grateful Dead",
+      "title": "Doin' That Rag",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "donteasemein",
+      "artist": "The Grateful Dead",
+      "title": "Don't Ease Me In",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fireonthemountain",
+      "artist": "The Grateful Dead",
+      "title": "Fire on the Mountain",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "franklinstower",
+      "artist": "The Grateful Dead",
+      "title": "Franklin's Tower",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hellinabucket",
+      "artist": "The Grateful Dead",
+      "title": "Hell in a Bucket",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ineedamiracle",
+      "artist": "The Grateful Dead",
+      "title": "I Need A Miracle",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sugarmagnolia",
+      "artist": "The Grateful Dead",
+      "title": "Sugar Magnolia",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "truckin",
+      "artist": "The Grateful Dead",
+      "title": "Truckin'",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "unclejohnsband",
+      "artist": "The Grateful Dead",
+      "title": "Uncle John's Band",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "doa",
+      "artist": "The Haunted",
+      "title": "D.O.A.",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dieallright",
+      "artist": "The Hives",
+      "title": "Die, All Right!",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mainoffender",
+      "artist": "The Hives",
+      "title": "Main Offender",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "getyourrockon",
+      "artist": "The Janitors",
+      "title": "Get Your Rock On",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mrbrightside",
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "smilelikeyoumeanit",
+      "artist": "The Killers",
+      "title": "Smile Like You Mean It",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "spaceman",
+      "artist": "The Killers",
+      "title": "Spaceman",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whenyouwereyoung",
+      "artist": "The Killers",
+      "title": "When You Were Young",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mysharona",
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "29fingers",
+      "artist": "The Konks",
+      "title": "29 Fingers",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ifiaintgotyou",
+      "artist": "The Len Price 3",
+      "title": "If I Ain't Got You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "movingtoseattle",
+      "artist": "The Material",
+      "title": "Moving to Seattle",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lasttraintoclarksville",
+      "artist": "The Monkees",
+      "title": "Last Train to Clarksville",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "redtandy",
+      "artist": "The Mother Hips",
+      "title": "Red Tandy",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "timewehad",
+      "artist": "The Mother Hips",
+      "title": "Time We Had",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "timesickson",
+      "artist": "The Mother Hips",
+      "title": "Time-Sick Son of a Grizzly Bear",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "acleanshot",
+      "artist": "The Myriad",
+      "title": "A Clean Shot",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bodyioccupy",
+      "artist": "The Naked Brothers Band",
+      "title": "Body I Occupy",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "idontwanttogotoschool",
+      "artist": "The Naked Brothers Band",
+      "title": "I Don't Want to Go to School",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "allthethingsthatgo",
+      "artist": "The New Pornographers",
+      "title": "All the Things That Go to Make Heaven and Earth",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "electricversion",
+      "artist": "The New Pornographers",
+      "title": "Electric Version",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "useit",
+      "artist": "The New Pornographers",
+      "title": "Use It",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alliwant",
+      "artist": "The Offspring",
+      "title": "All I Want",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "goneaway",
+      "artist": "The Offspring",
+      "title": "Gone Away",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hammerhead",
+      "artist": "The Offspring",
+      "title": "Hammerhead",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prettyflyforawhiteguy",
+      "artist": "The Offspring",
+      "title": "Pretty Fly (For a White Guy)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "selfesteem",
+      "artist": "The Offspring",
+      "title": "Self Esteem",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thekidsarentalright",
+      "artist": "The Offspring",
+      "title": "The Kids Aren't Alright",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "greengrass",
+      "artist": "The Outlaws",
+      "title": "Green Grass and High Tides",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cantstandlosingyou",
+      "artist": "The Police",
+      "title": "Can't Stand Losing You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "messageinabottle",
+      "artist": "The Police",
+      "title": "Message In A Bottle",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nexttoyou",
+      "artist": "The Police",
+      "title": "Next to You",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "roxanne",
+      "artist": "The Police",
+      "title": "Roxanne",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "synchronicity2",
+      "artist": "The Police",
+      "title": "Synchronicity II",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "truthhitseverybody",
+      "artist": "The Police",
+      "title": "Truth Hits Everybody",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dunebuggy",
+      "artist": "The Presidents of the United States of America",
+      "title": "Dune Buggy",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "featherpluckn",
+      "artist": "The Presidents of the United States of America",
+      "title": "Feather Pluckn",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ladybug",
+      "artist": "The Presidents of the United States of America",
+      "title": "Ladybug",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bluechristmas",
+      "artist": "The Pretenders",
+      "title": "Blue Christmas",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "brassinpocket",
+      "artist": "The Pretenders",
+      "title": "Brass In Pocket",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "precious",
+      "artist": "The Pretenders",
+      "title": "Precious",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prettyinpink",
+      "artist": "The Psychedelic Furs",
+      "title": "Pretty in Pink",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kidsdontfollow",
+      "artist": "The Replacements",
+      "title": "Kids Don't Follow",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gimmeshelter",
+      "artist": "The Rolling Stones",
+      "title": "Gimme Shelter",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cherrybomb",
+      "artist": "The Runaways",
+      "title": "Cherry Bomb",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "newslang",
+      "artist": "The Shins",
+      "title": "New Slang",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "songwithamission",
+      "artist": "The Sounds",
+      "title": "Song with a Mission",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lovespreads",
+      "artist": "The Stone Roses",
+      "title": "Love Spreads",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "reptilia",
+      "artist": "The Strokes",
+      "title": "Reptilia",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cmoncmon",
+      "artist": "The Von Bondies",
+      "title": "C'mon C'mon",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "amazingjourney",
+      "artist": "The Who",
+      "title": "Amazing Journey",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "babaoriley",
+      "artist": "The Who",
+      "title": "Baba O'Riley",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "behindblueeyes",
+      "artist": "The Who",
+      "title": "Behind Blue Eyes",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "eminencefront",
+      "artist": "The Who",
+      "title": "Eminence Front",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "goingmobile",
+      "artist": "The Who",
+      "title": "Going Mobile",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "leavinghere",
+      "artist": "The Who",
+      "title": "Leaving Here",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mygeneration",
+      "artist": "The Who",
+      "title": "My Generation (Live at Leeds)",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "realgoodlooking",
+      "artist": "The Who",
+      "title": "Real Good Looking Boy",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "seaandsand",
+      "artist": "The Who",
+      "title": "Sea and Sand",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "summertimeblues",
+      "artist": "The Who",
+      "title": "Summertime Blues (Live at Leeds)",
+      "layout": "d0,1,2 b3 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whoareyou",
+      "artist": "The Who",
+      "title": "Who Are You",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wontgetfooled",
+      "artist": "The Who",
+      "title": "Won't Get Fooled Again",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "youngmanblues",
+      "artist": "The Who",
+      "title": "Young Man Blues (Live at Leeds)",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shesnotthere",
+      "artist": "The Zombies",
+      "title": "She's Not There",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tellherno",
+      "artist": "The Zombies",
+      "title": "Tell Her No",
+      "layout": "d0,1 b2 v4,5 s6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bulletsandguns",
+      "artist": "Them Terribles",
+      "title": "Bullets & Guns",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "crazytuesday",
+      "artist": "thenewno2",
+      "title": "Crazy Tuesday",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yomp",
+      "artist": "thenewno2",
+      "title": "Yomp",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cowboysong_live",
+      "artist": "Thin Lizzy",
+      "title": "Cowboy Song (Live)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jailbreak_lizzy",
+      "artist": "Thin Lizzy",
+      "title": "Jailbreak (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "boysarebackintown",
+      "artist": "Thin Lizzy",
+      "title": "The Boys Are Back in Town (Live)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thetimeiswrong",
+      "artist": "Tickle Me Pink",
+      "title": "The Time Is Wrong",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "timmy",
+      "artist": "Timmy & the Lords of the Underworld",
+      "title": "Timmy & the Lords of the Underworld",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "beerformyhorses",
+      "artist": "Toby Keith",
+      "title": "Beer for My Horses",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "howdoyoulikemenow",
+      "artist": "Toby Keith",
+      "title": "How Do You Like Me Now?!",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ilovethisbar",
+      "artist": "Toby Keith",
+      "title": "I Love This Bar",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shesahottie",
+      "artist": "Toby Keith",
+      "title": "She's a Hottie",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shouldvebeenacowboy",
+      "artist": "Toby Keith",
+      "title": "Should've Been a Cowboy",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whosyourdaddy",
+      "artist": "Toby Keith",
+      "title": "Who's Your Daddy?",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "monsoon",
+      "artist": "Tokio Hotel",
+      "title": "Monsoon",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "readysetgo",
+      "artist": "Tokio Hotel",
+      "title": "Ready, Set, Go!",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "swing",
+      "artist": "Trace Adkins",
+      "title": "Swing",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whosgoinghome",
+      "artist": "Trapt",
+      "title": "Who's Going Home with You Tonight?",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "outside",
+      "artist": "Tribe",
+      "title": "Outside",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wastedagain",
+      "artist": "Turbonegro",
+      "title": "Wasted Again",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wolflikeme",
+      "artist": "TV on the Radio",
+      "title": "Wolf Like Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "desperatetimes",
+      "artist": "Underoath",
+      "title": "Desperate Times, Desperate Measures",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "reinventingyourexit",
+      "artist": "Underoath",
+      "title": "Reinventing Your Exit",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "seven",
+      "artist": "VAGIANT",
+      "title": "Seven",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "promisedland",
+      "artist": "Vesuvius",
+      "title": "Promised Land",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "buddyholly",
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dreamin",
+      "artist": "Weezer",
+      "title": "Dreamin'",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elscorcho",
+      "artist": "Weezer",
+      "title": "El Scorcho",
+      "layout": "d0,1,2,3,4 b5 v8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sayitaintso",
+      "artist": "Weezer",
+      "title": "Say It Ain't So",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thegreatestman",
+      "artist": "Weezer",
+      "title": "The Greatest Man That Ever Lived",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "troublemaker",
+      "artist": "Weezer",
+      "title": "Troublemaker",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blacksunshine",
+      "artist": "White Zombie",
+      "title": "Black Sunshine",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "morehumanthanhuman",
+      "artist": "White Zombie",
+      "title": "More Human Than Human",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ontheroadagain",
+      "artist": "Willie Nelson",
+      "title": "On the Road Again",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jokerandthe",
+      "artist": "Wolfmother",
+      "title": "Joker & The Thief",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iv",
+      "artist": "X Japan",
+      "title": "I.V.",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "datewiththenight",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Date with the Night",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "maps",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Maps",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "capricididiablo",
+      "artist": "Yngwie Malmsteen's Rising Force",
+      "title": "Caprici di Diablo",
+      "layout": "d0,1,2,3,4,5 b6 v s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "damnationgame",
+      "artist": "Yngwie Malmsteen's Rising Force",
+      "title": "Damnation Game",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "reddevil",
+      "artist": "Yngwie Malmsteen's Rising Force",
+      "title": "Red Devil",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

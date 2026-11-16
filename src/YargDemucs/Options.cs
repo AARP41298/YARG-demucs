@@ -22,6 +22,9 @@ public sealed class Options
     public string? Profile;
     public string? DataPath;
     public string? NautilusPath;
+    public string? Contributor;
+    public readonly List<string> MergeFiles = new();
+    public bool Write;
 
     private static readonly string[] Formats = { "opus", "ogg", "mp3", "wav" };
 
@@ -121,6 +124,19 @@ public sealed class Options
                 case "--data":
                     options.DataPath = Next();
                     break;
+                case "--contributor":
+                    options.Contributor = Next().Trim();
+                    break;
+                case "--merge":
+                    options.MergeFiles.Add(Next());
+                    while (i + 1 < args.Length && !args[i + 1].StartsWith("--", StringComparison.Ordinal))
+                    {
+                        options.MergeFiles.Add(args[++i]);
+                    }
+                    break;
+                case "--write":
+                    options.Write = true;
+                    break;
                 case "--nautilus":
                     options.NautilusPath = Next();
                     if (!File.Exists(options.NautilusPath))
@@ -174,6 +190,11 @@ public sealed class Options
                                    several (Enter keeps the last choice).
               --data <path>        YARG data folder, if it is somewhere else.
               --nautilus <exe>     Nautilus.exe with the -backstagehero CLI. Remembered for next time.
+
+            Shared database (stemsdb/)
+              --contributor <name> Name saved in contributions.json. Remembered for next time.
+              --merge <files...>   Merge contributions files into the repository's stemsdb/.
+                                   Reports only; add --write to save.
 
             Press Ctrl+C to stop. Songs already finished are kept.
             Requires ffmpeg and demucs on PATH.

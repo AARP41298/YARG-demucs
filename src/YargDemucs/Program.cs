@@ -23,10 +23,21 @@ if (options.Help)
     return 0;
 }
 
+if (options.MergeFiles.Count > 0)
+{
+    return Contributions.Merge(options.MergeFiles, options.Write);
+}
+
 var settings = ToolSettings.Load();
 if (options.NautilusPath != null)
 {
     settings.NautilusPath = Path.GetFullPath(options.NautilusPath);
+    settings.Save();
+}
+
+if (options.Contributor != null)
+{
+    settings.Contributor = options.Contributor;
     settings.Save();
 }
 
@@ -86,7 +97,12 @@ Console.CancelKeyPress += (_, e) =>
 
 try
 {
-    var cache = new ConListCache(Path.Combine(ToolSettings.Folder, "cache.json"));
+    var cache = new ConListCache(Path.Combine(ToolSettings.Folder, "cache.json"))
+    {
+        Shared = StemsDb.Load(StemsDb.FindNextToExe()),
+    };
+    Console.WriteLine($"Shared stems database: {cache.Shared.Count} songs already checked" +
+        (cache.Shared.Directory == null ? " (stemsdb folder not found next to the exe)" : ""));
     var watch = Stopwatch.StartNew();
     Console.WriteLine();
     Console.WriteLine("Scanning song folders...");
@@ -140,6 +156,7 @@ try
     }
 
     WriteMissingLists(songs, cache, options.CheckOfficial);
+    Contributions.Write(songs, cache, settings.Contributor);
 
     var pending = FindPending(songs, cache, options);
     Console.WriteLine();

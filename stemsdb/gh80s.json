@@ -1,0 +1,21 @@
+{
+  "source": "gh80s",
+  "songs": [
+    {
+      "con_id": "becauseitsmidnite_gh80s",
+      "artist": "Limozeen",
+      "title": "Because, It's Midnite",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "18andlife_gh80s",
+      "artist": "Skid Row",
+      "title": "18 and Life (Cover)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

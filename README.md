@@ -64,6 +64,57 @@ those spend most of their time starting Nautilus and ffmpeg. Big packs are read 
 straight through, because several readers on one multi-GB file make a hard drive seek instead
 of read.
 
+## Shared database (`stemsdb/`)
+
+Listening to every custom Rock Band song takes a while, and everyone has many of the same songs.
+`stemsdb/` holds the songs already checked, one JSON file per `game_origin`, and the tool reads
+it before listening: only songs nobody has checked yet are analyzed. It is copied next to the
+exe when you build.
+
+```json
+{
+  "source": "ugc_plus",
+  "songs": [
+    {
+      "con_id": "highwaytohell",
+      "artist": "AC/DC",
+      "title": "Highway to Hell",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    }
+  ]
+}
+```
+
+| field | meaning |
+|---|---|
+| `con_id` | the song's short name in the CON (`songs/<con_id>/...`) |
+| `layout` | mogg channels of drums (`d`), bass (`b`), vocals (`v`), and the song stem (`s`) |
+| `stems` | `silent`: drums, bass, and vocals are silent, so the song needs stems; `present`: it has them |
+| `checked_by` | who checked it |
+
+A song matches when its source, `con_id`, and `layout` are all the same, so a custom and an
+official copy of a song (or a re-release with different audio) don't share a result. Your own
+results win over the database.
+
+### Contributing
+
+1. Run the tool as usual (`--contributor <name>` once, to be credited).
+2. At the end it says how many songs it checked that the database doesn't have, and writes
+   them to `%LOCALAPPDATA%\YARG Demucs\contributions.json`.
+3. Attach that file to an issue or pull request.
+
+To merge submissions (from inside the repository):
+
+```
+yarg-demucs --merge contributions.json [more.json ...]           # dry run: report only
+yarg-demucs --merge contributions.json [more.json ...] --write   # save into stemsdb/
+```
+
+It prints `+` for new songs and `!` for conflicts (the database disagrees; kept as is, fix by
+hand if the submission is right). Review `git diff stemsdb/` before committing.
+
 ## Stem layout (read by YARG)
 
 Under each song folder added to YARG (the library root):

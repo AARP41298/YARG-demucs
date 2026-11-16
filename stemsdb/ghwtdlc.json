@@ -1,0 +1,765 @@
+{
+  "source": "ghwtdlc",
+  "songs": [
+    {
+      "con_id": "lycanthrope_wtdlc",
+      "artist": "+44",
+      "title": "Lycanthrope",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "njlegionicedtea_wtdlc",
+      "artist": "A Day to Remember",
+      "title": "NJ Legion Iced Tea",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "newwave_wtdlc",
+      "artist": "Against Me!",
+      "title": "New Wave",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "youngcardinals_wtdlc",
+      "artist": "Alexisonfire",
+      "title": "Young Cardinals",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "everythingsmagic_wtdlc",
+      "artist": "Angels & Airwaves",
+      "title": "Everything's Magic",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "silenceisdeafening_wtdlc",
+      "artist": "Awaken",
+      "title": "The Silence Is Deafening",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "degenerated_wtdlc",
+      "artist": "Backyard Babies",
+      "title": "Degenerated",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "flyonetime_wtdlc",
+      "artist": "Ben Harper and Relentless7",
+      "title": "Fly One Time",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nonamenumber_wtdlc",
+      "artist": "Ben Harper and Relentless7",
+      "title": "Number with No Name",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "getoutofdenver_wtdlc",
+      "artist": "Bob Seger",
+      "title": "Get Out of Denver",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "herstrut_wtdlc",
+      "artist": "Bob Seger & the Silver Bullet Band",
+      "title": "Her Strut",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "oldtimernr_wtdlc",
+      "artist": "Bob Seger & the Silver Bullet Band",
+      "title": "Old Time Rock and Roll",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ticks_wtdlc",
+      "artist": "Brad Paisley",
+      "title": "Ticks",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "borntorun_wtdlc",
+      "artist": "Bruce Springsteen",
+      "title": "Born to Run (WTDLC version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "onbrokenglass_wtdlc",
+      "artist": "Chimaira",
+      "title": "On Broken Glass",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lookgoodinleather_wtdlc",
+      "artist": "Cody ChesnuTT",
+      "title": "Look Good in Leather",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "commotion_wtdlc",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Commotion",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "johnny_wtdlc",
+      "artist": "DI-RECT",
+      "title": "Johnny",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "frailgrasp_wtdlc",
+      "artist": "Eagles",
+      "title": "Frail Grasp on the Big Picture",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lifeinthefastline_wtdlc",
+      "artist": "Eagles",
+      "title": "Life in the Fast Lane",
+      "layout": "d0,1,2,3,4 b5 v8,9 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "oneofthesenights_wtdlc",
+      "artist": "Eagles",
+      "title": "One of These Nights",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "anythingceptthetruth_wtdlc",
+      "artist": "Eagles of Death Metal",
+      "title": "Anything 'Cept the Truth",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cherrycola_wtdlc",
+      "artist": "Eagles of Death Metal",
+      "title": "Cherry Cola",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "camelsnightout_wtdlc",
+      "artist": "Eric Johnson",
+      "title": "Camel's Night Out",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "adrenalina_wtdlc",
+      "artist": "Finley",
+      "title": "Adrenalina",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "porlabocaviveelpez_wtdlc",
+      "artist": "Fito & Fitipaldis",
+      "title": "Por la Boca Vive el Pez",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "low_wtdlc",
+      "artist": "Flo Rida",
+      "title": "Low (ft. T-Pain) (Travis Barker Remix)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nothingallthetime_wtdlc",
+      "artist": "H is Orange",
+      "title": "Nothing All the Time",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ohyeah_wtdlc",
+      "artist": "Housse de Racket",
+      "title": "Oh Yeah!",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "illneverknow_wtdlc",
+      "artist": "Hundred Reasons",
+      "title": "I'll Never Know",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "disconnected_wtdlc",
+      "artist": "In Flames",
+      "title": "Disconnected",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "anotherwaytodie_wtdlc",
+      "artist": "Jack White and Alicia Keys",
+      "title": "Another Way to Die",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cestcommeca_wtdlc",
+      "artist": "Les Rita Mitsouko",
+      "title": "C'est Comme Ça",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cadillacsolitario_wtdlc",
+      "artist": "Loquillo Y Trogloditas",
+      "title": "Cadillac Solitario (En Vivo)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "carolina_wtdlc",
+      "artist": "M-Clan",
+      "title": "Carolina (En Vivo)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ironfist_wtdlc",
+      "artist": "Motörhead",
+      "title": "Iron Fist",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jailbait_wtdlc",
+      "artist": "Motörhead",
+      "title": "Jailbait",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lovemelikeareptile_wtdlc",
+      "artist": "Motörhead",
+      "title": "Love Me Like a Reptile",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mamamae_wtdlc",
+      "artist": "Negrita",
+      "title": "Mama Maè",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "becauseofyou_wtdlc",
+      "artist": "Nickelback",
+      "title": "Because of You",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "negativecreep_wtdlc",
+      "artist": "Nirvana",
+      "title": "Negative Creep",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sappy_wtdlc",
+      "artist": "Nirvana",
+      "title": "Sappy",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sliver_wtdlc",
+      "artist": "Nirvana",
+      "title": "Sliver",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "veryape_wtdlc",
+      "artist": "Nirvana",
+      "title": "Very Ape",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "linoleum_wtdlc",
+      "artist": "NOFX",
+      "title": "Linoleum",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "highhorselady_wtdlc",
+      "artist": "Oasis",
+      "title": "(Get Off Your) High Horse Lady",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aintgotnothin_wtdlc",
+      "artist": "Oasis",
+      "title": "Ain't Got Nothin'",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bagitup_wtdlc",
+      "artist": "Oasis",
+      "title": "Bag It Up",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fallingdown_wtdlc",
+      "artist": "Oasis",
+      "title": "Falling Down",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "imouttatime_wtdlc",
+      "artist": "Oasis",
+      "title": "I'm Outta Time",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "soldieron_wtdlc",
+      "artist": "Oasis",
+      "title": "Soldier On",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shockofthelightning_wtdlc",
+      "artist": "Oasis",
+      "title": "The Shock of the Lightning",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theturning_wtdlc",
+      "artist": "Oasis",
+      "title": "The Turning",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tobewherethereslife_wtdlc",
+      "artist": "Oasis",
+      "title": "To Be Where There's Life",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hihihi_wtdlc",
+      "artist": "Paul McCartney & Wings",
+      "title": "Hi, Hi, Hi",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jet_wtdlc",
+      "artist": "Paul McCartney & Wings",
+      "title": "Jet",
+      "layout": "d0,1,2,3 b4 v7,8 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "juniorsfarm_wtdlc",
+      "artist": "Paul McCartney & Wings",
+      "title": "Junior's Farm",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yourface_wtdlc",
+      "artist": "Pepper",
+      "title": "Your Face",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "chalkdusttorture_wtdlc",
+      "artist": "Phish",
+      "title": "Chalk Dust Torture (Live)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thesadpunk_wtdlc",
+      "artist": "Pixies",
+      "title": "The Sad Punk",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thebitterend_wtdlc",
+      "artist": "Placebo",
+      "title": "The Bitter End",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bloodmeat_wtdlc",
+      "artist": "Protest the Hero",
+      "title": "Bloodmeat",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "modernhitstheme_wtdlc",
+      "artist": "ProtoShredanoid",
+      "title": "Guitar Hero On Tour: Modern Hits Theme",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "clebrity_wtdlc",
+      "artist": "Queen + Paul Rodgers",
+      "title": "C-lebrity",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "horsetowater_wtdlc",
+      "artist": "R.E.M.",
+      "title": "Horse to Water",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mansizedwreath_wtdlc",
+      "artist": "R.E.M.",
+      "title": "Man-Sized Wreath",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "supernatural_wtdlc",
+      "artist": "R.E.M.",
+      "title": "Supernatural Superserious",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blackbetty_wtdlc",
+      "artist": "Ram Jam",
+      "title": "Black Betty (Cover)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lightitup_wtdlc",
+      "artist": "Rev Theory",
+      "title": "Light It Up",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jamesbondtheme_wtdlc",
+      "artist": "Richard Fortus",
+      "title": "The James Bond Theme",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "deathblossoms_wtdlc",
+      "artist": "Rise Against",
+      "title": "Death Blossoms",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "readytofall_wtdlc",
+      "artist": "Rise Against",
+      "title": "Ready to Fall",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wonderwall_wtdlc",
+      "artist": "Ryan Adams",
+      "title": "Wonderwall",
+      "layout": "d b0,1 v4,5 s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "themartyr_wtdlc",
+      "artist": "Senses Fail",
+      "title": "The Martyr",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iamthearsonist_wtdlc",
+      "artist": "Silverstein",
+      "title": "I Am the Arsonist",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nicetoknow_wtdlc",
+      "artist": "Silversun Pickups",
+      "title": "It's Nice to Know You Work Alone",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jimi_wtdlc",
+      "artist": "Slightly Stoopid",
+      "title": "Jimi",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kidcharlemagne_wtdlc",
+      "artist": "Steely Dan",
+      "title": "Kid Charlemagne",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "duelingbanjos_wtdlc",
+      "artist": "Steve Ouimette",
+      "title": "Dueling Banjos",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "electrorock_wtdlc",
+      "artist": "Sworn",
+      "title": "Electro Rock",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dezmoines_wtdlc",
+      "artist": "The Devil Wears Prada",
+      "title": "Dez Moines",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "human_wtdlc",
+      "artist": "The Killers",
+      "title": "Human",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "losingtouch_wtdlc",
+      "artist": "The Killers",
+      "title": "Losing Touch",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "consolerofthelonely_wtdlc",
+      "artist": "The Raconteurs",
+      "title": "Consoler of the Lonely",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "holdup_wtdlc",
+      "artist": "The Raconteurs",
+      "title": "Hold Up",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "intheshadows_wtdlc",
+      "artist": "The Rasmus",
+      "title": "In the Shadows",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "1979_wtdlc",
+      "artist": "The Smashing Pumpkins",
+      "title": "1979",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13,14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "glow_wtdlc",
+      "artist": "The Smashing Pumpkins",
+      "title": "G.L.O.W.",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "everlastinggaze_wtdlc",
+      "artist": "The Smashing Pumpkins",
+      "title": "The Everlasting Gaze",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alltheworldismad_wtdlc",
+      "artist": "Thrice",
+      "title": "All the World Is Mad",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "graveofopportunity_wtdlc",
+      "artist": "Unearth",
+      "title": "Grave of Opportunity",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "breakitout_wtdlc",
+      "artist": "Vanilla Sky",
+      "title": "Break It Out",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whathaveyoudone_wtdlc",
+      "artist": "Within Temptation",
+      "title": "What Have You Done",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dimension_wtdlc",
+      "artist": "Wolfmother",
+      "title": "Dimension",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gimmeallyourlovin_wtdlc",
+      "artist": "ZZ Top",
+      "title": "Gimme All Your Lovin' (Cover)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

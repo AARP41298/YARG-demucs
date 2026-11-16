@@ -11,4 +11,9 @@
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
+  <ItemGroup>
+    <!-- The shared database of checked songs travels with the exe. -->
+    <None Include="..\..\stemsdb\*.json" LinkBase="stemsdb" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
 </Project>

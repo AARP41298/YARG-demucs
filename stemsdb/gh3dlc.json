@@ -1,0 +1,157 @@
+{
+  "source": "gh3dlc",
+  "songs": [
+    {
+      "con_id": "carcinogencrush_3dlc",
+      "artist": "AFI",
+      "title": "Carcinogen Crush",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "soothsayer_3dlc",
+      "artist": "Buckethead",
+      "title": "Soothsayer",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "godputasmile_3dlc",
+      "artist": "Coldplay",
+      "title": "God Put a Smile Upon Your Face",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "violethill_3dlc",
+      "artist": "Coldplay",
+      "title": "Violet Hill",
+      "layout": "d0,1 b2,3 v6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heroesofourtime_3dlc",
+      "artist": "DragonForce",
+      "title": "Heroes of Our Time",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "revolutiondeathsquad_3dlc",
+      "artist": "DragonForce",
+      "title": "Revolution Deathsquad",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tina_3dlc",
+      "artist": "Flyleaf",
+      "title": "Tina",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iammurloc_3dlc",
+      "artist": "L70ETC",
+      "title": "I Am Murloc",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nomoresorrow_3dlc",
+      "artist": "Linkin Park",
+      "title": "No More Sorrow",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sleepinggiant_3dlc",
+      "artist": "Mastodon",
+      "title": "Sleeping Giant",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "exopolitics_3dlc",
+      "artist": "Muse",
+      "title": "Exo-Politics",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stockholmsyndrome_3dlc",
+      "artist": "Muse",
+      "title": "Stockholm Syndrome (GH3DLC version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "supermassiveblackhole_3dlc",
+      "artist": "Muse",
+      "title": "Supermassive Black Hole",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "halotheme_3dlc",
+      "artist": "O'Donnell/Salvatori/Vai",
+      "title": "Halo Theme MJOLNIR Mix",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "topgunanthem_3dlc",
+      "artist": "Steve Ouimette",
+      "title": "Top Gun Anthem",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wethreekings_3dlc",
+      "artist": "Steve Ouimette",
+      "title": "We Three Kings",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fortheloveofgod_3dlc",
+      "artist": "Steve Vai",
+      "title": "For the Love of God",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prettyhandsomeawkward_3dlc",
+      "artist": "The Used",
+      "title": "Pretty Handsome Awkward",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thearsonist_3dlc",
+      "artist": "Thrice",
+      "title": "The Arsonist",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "source": "ataeaf",
+  "songs": [
+    {
+      "con_id": "ataeaf_lovegun",
+      "artist": "KISS",
+      "title": "Love Gun (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ataeaf_hairofthedogv2",
+      "artist": "Nazareth",
+      "title": "Hair of the Dog (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

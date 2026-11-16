@@ -1,0 +1,69 @@
+{
+  "source": "gh2dlc",
+  "songs": [
+    {
+      "con_id": "exsandohs_2dlc",
+      "artist": "Atreyu",
+      "title": "Ex's & Oh's",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stateofmassachusetts_2dlc",
+      "artist": "Dropkick Murphys",
+      "title": "The State of Massachusetts",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sindocumentos_2dlc",
+      "artist": "Los Rodríguez",
+      "title": "Sin Documentos",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "howidisappear_2dlc",
+      "artist": "My Chemical Romance",
+      "title": "This Is How I Disappear",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sept_2dlc",
+      "artist": "Pleymo",
+      "title": "Sept",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "burythehatchet_2dlc",
+      "artist": "Protest the Hero",
+      "title": "Bury the Hatchet",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "youshouldbeashamed_2dlc",
+      "artist": "The Bled",
+      "title": "You Should Be Ashamed of Myself",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "detonation_2dlc",
+      "artist": "Trivium",
+      "title": "Detonation",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

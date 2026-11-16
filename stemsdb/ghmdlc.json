@@ -1,0 +1,85 @@
+{
+  "source": "ghmdlc",
+  "songs": [
+    {
+      "con_id": "brokenbeatscarred_dmdlc",
+      "artist": "Metallica",
+      "title": "Broken, Beat & Scarred",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cyanide_dmdlc",
+      "artist": "Metallica",
+      "title": "Cyanide",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "myapocalypse_dmdlc",
+      "artist": "Metallica",
+      "title": "My Apocalypse",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "suicideredemptionjh_dmdlc",
+      "artist": "Metallica",
+      "title": "Suicide & Redemption J.H.",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "suicideredemptionkh_dmdlc",
+      "artist": "Metallica",
+      "title": "Suicide & Redemption K.H.",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thatwasjustyourlife_dmdlc",
+      "artist": "Metallica",
+      "title": "That Was Just Your Life",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thedaythatnevercomes_dmdlc",
+      "artist": "Metallica",
+      "title": "The Day That Never Comes",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theendoftheline_dmdlc",
+      "artist": "Metallica",
+      "title": "The End of the Line",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thejudaskiss_dmdlc",
+      "artist": "Metallica",
+      "title": "The Judas Kiss",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theunforgiven3_dmdlc",
+      "artist": "Metallica",
+      "title": "The Unforgiven III",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

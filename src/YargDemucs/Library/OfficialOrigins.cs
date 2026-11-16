@@ -9,7 +9,7 @@ public static class OfficialOrigins
 {
     private static readonly HashSet<string> Names = new(StringComparer.OrdinalIgnoreCase)
     {
-        "rb1", "rb1_dlc", "rb2", "rb2_dlc", "rb3", "rb3_dlc", "rb4", "rb4_dlc", "rbvr", "rb_blitz", "blitz",
+        "rb1", "rb1_dlc", "rb2", "rb2_dlc", "rb3", "rb3_dlc", "rb3_beta", "rb4", "rb4_dlc", "rb4_rivals", "rbvr", "rb_blitz", "blitz",
         "lego", "beatles", "greenday", "gdrb", "bh", "bh2", "bh_dlc",
     };
 

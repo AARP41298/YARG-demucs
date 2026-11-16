@@ -1,0 +1,309 @@
+{
+  "source": "ghm",
+  "songs": [
+    {
+      "con_id": "turnthepage_ghm",
+      "artist": "Bob Seger & the Silver Bullet Band",
+      "title": "Turn the Page (Live)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "albatross_ghm",
+      "artist": "Corrosion of Conformity",
+      "title": "Albatross",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "amievil_ghm",
+      "artist": "Diamond Head",
+      "title": "Am I Evil?",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hellbentforleather_ghm",
+      "artist": "Judas Priest",
+      "title": "Hell Bent for Leather",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "demoncleaner_ghm",
+      "artist": "Kyuss",
+      "title": "Demon Cleaner",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "beautifulmourning_ghm",
+      "artist": "Machine Head",
+      "title": "Beautiful Mourning",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "evil_ghm",
+      "artist": "Mercyful Fate",
+      "title": "Evil (Re-Recorded 2009)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "allnightmarelong_ghm",
+      "artist": "Metallica",
+      "title": "All Nightmare Long",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "creepingdeath_ghm",
+      "artist": "Metallica",
+      "title": "Creeping Death",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "disposableheroes_ghm",
+      "artist": "Metallica",
+      "title": "Disposable Heroes",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dyerseve_ghm",
+      "artist": "Metallica",
+      "title": "Dyers Eve",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fadetoblack_ghm",
+      "artist": "Metallica",
+      "title": "Fade to Black (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fightfirewithfire_ghm",
+      "artist": "Metallica",
+      "title": "Fight Fire with Fire",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "forwhomthebelltolls_ghm",
+      "artist": "Metallica",
+      "title": "For Whom the Bell Tolls (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "frantic_ghm",
+      "artist": "Metallica",
+      "title": "Frantic",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hitthelights_ghm",
+      "artist": "Metallica",
+      "title": "Hit the Lights",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "masterofpuppets_ghm",
+      "artist": "Metallica",
+      "title": "Master of Puppets (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mercyfulfate_ghm",
+      "artist": "Metallica",
+      "title": "Mercyful Fate",
+      "layout": "d0,1,2,3,4,5 b8,9 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "noleafclover_ghm",
+      "artist": "Metallica",
+      "title": "No Leaf Clover",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nothingelsematters_ghm",
+      "artist": "Metallica",
+      "title": "Nothing Else Matters (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "one_ghm",
+      "artist": "Metallica",
+      "title": "One (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "orion_ghm",
+      "artist": "Metallica",
+      "title": "Orion",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sadbuttrue_ghm",
+      "artist": "Metallica",
+      "title": "Sad But True (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "seekanddestroy_ghm",
+      "artist": "Metallica",
+      "title": "Seek & Destroy (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thememoryremains_ghm",
+      "artist": "Metallica",
+      "title": "The Memory Remains (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theshorteststraw_ghm",
+      "artist": "Metallica",
+      "title": "The Shortest Straw",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thethingthat_ghm",
+      "artist": "Metallica",
+      "title": "The Thing That Should Not Be",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theunforgiven_ghm",
+      "artist": "Metallica",
+      "title": "The Unforgiven (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "welcomehomesanitarium_ghm",
+      "artist": "Metallica",
+      "title": "Welcome Home (Sanitarium)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whereverimayroam_ghm",
+      "artist": "Metallica",
+      "title": "Wherever I May Roam (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whiplash_ghm",
+      "artist": "Metallica",
+      "title": "Whiplash",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "armedandready_ghm",
+      "artist": "Michael Schenker Group",
+      "title": "Armed and Ready",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "motherofmercy_ghm",
+      "artist": "Samhain",
+      "title": "Mother of Mercy",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "warensemble_ghm",
+      "artist": "Slayer",
+      "title": "War Ensemble",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mommyslittlemonster_ghm",
+      "artist": "Social Distortion",
+      "title": "Mommy's Little Monster (Live)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "warinsidemyhead_ghm",
+      "artist": "Suicidal Tendencies",
+      "title": "War Inside My Head",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theblackriver_ghm",
+      "artist": "The Sword",
+      "title": "The Black River",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theboysareback_ghm",
+      "artist": "Thin Lizzy",
+      "title": "The Boys Are Back in Town (GHM version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

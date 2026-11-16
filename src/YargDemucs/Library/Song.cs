@@ -37,8 +37,16 @@ public sealed class Song
     /// <summary>Rock Band only: path inside the CON, or file on disk, of the mogg.</summary>
     public string MoggPath { get; init; } = string.Empty;
 
+    /// <summary>Rock Band only: mogg channels of each instrument, from songs.dta.</summary>
+    public int[] Drums { get; init; } = Array.Empty<int>();
+    public int[] Bass { get; init; } = Array.Empty<int>();
+    public int[] Vocals { get; init; } = Array.Empty<int>();
+
     /// <summary>Rock Band only: mogg channels that hold drums, bass, and vocals.</summary>
-    public int[] CoreChannels { get; init; } = Array.Empty<int>();
+    public int[] CoreChannels => Drums.Concat(Bass).Concat(Vocals).Distinct().OrderBy(c => c).ToArray();
+
+    /// <summary>Rock Band only: game_origin (the first value, for RB3DX's #ifdef form).</summary>
+    public string Source { get; init; } = string.Empty;
 
     /// <summary>Rock Band only: mogg channels left for the song stem (not an instrument or crowd).</summary>
     public int[] SongChannels { get; init; } = Array.Empty<int>();

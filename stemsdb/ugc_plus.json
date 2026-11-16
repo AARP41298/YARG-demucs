@@ -1,0 +1,6373 @@
+{
+  "source": "ugc_plus",
+  "songs": [
+    {
+      "con_id": "UGC_5007941",
+      "artist": "A Day to Remember",
+      "title": "2nd Sucks",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007865",
+      "artist": "A Day to Remember",
+      "title": "All Signs Point to Lauderdale",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006290",
+      "artist": "A Day to Remember",
+      "title": "Better Off This Way",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008131",
+      "artist": "A Day to Remember",
+      "title": "If It Means a Lot to You",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010560",
+      "artist": "A Day to Remember",
+      "title": "Sticks & Bricks",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009302",
+      "artist": "A Day to Remember",
+      "title": "The Plot to Bomb the Panhandle",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005778",
+      "artist": "A Silent Film",
+      "title": "You Will Leave a Mark",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006085",
+      "artist": "A Skylit Drive",
+      "title": "Too Little Too Late",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008723",
+      "artist": "A Talking Fish",
+      "title": "(I Want to Go to) Space",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008457",
+      "artist": "A Talking Fish",
+      "title": "Cheesy Pop Song",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dragonballgt",
+      "artist": "Aaron Montalvo",
+      "title": "Mi Corazon Encantado",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dbgtending",
+      "artist": "Aaron Montalvo",
+      "title": "Sola Nunca Estarás",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o945454199_backinblack_acd",
+      "artist": "AC/DC",
+      "title": "Back in Black",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dirtydeeds",
+      "artist": "AC/DC",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mrcoup-forthoseabouttorock",
+      "artist": "AC/DC",
+      "title": "For Those About to Rock (We Salute You)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "acdchellaintabadplace",
+      "artist": "AC/DC",
+      "title": "Hell Ain't a Bad Place to Be",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hellsbells",
+      "artist": "AC/DC",
+      "title": "Hells Bells",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "highvoltage",
+      "artist": "AC/DC",
+      "title": "High Voltage",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "highwaytohell",
+      "artist": "AC/DC",
+      "title": "Highway to Hell",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jailbreak",
+      "artist": "AC/DC",
+      "title": "Jailbreak",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "moneytalks",
+      "artist": "AC/DC",
+      "title": "Moneytalks",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shoottothrill",
+      "artist": "AC/DC",
+      "title": "Shoot to Thrill",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tnt",
+      "artist": "AC/DC",
+      "title": "T.N.T.",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "03thejack",
+      "artist": "AC/DC",
+      "title": "The Jack",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o470553323_thunderstruck_a",
+      "artist": "AC/DC",
+      "title": "Thunderstruck",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wholelottarosie",
+      "artist": "AC/DC",
+      "title": "Whole Lotta Rosie",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "youshookme",
+      "artist": "AC/DC",
+      "title": "You Shook Me All Night Long",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ballstothewall",
+      "artist": "Accept",
+      "title": "Balls to The Wall",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o989847809",
+      "artist": "Adrian Barba",
+      "title": "El Poder Nuestro Es",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "angelesfuimos",
+      "artist": "Adrián Barba",
+      "title": "Ángeles Fuimos",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007076",
+      "artist": "After the Burial",
+      "title": "My Frailty",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006673",
+      "artist": "After the Burial",
+      "title": "Pendulum",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007052",
+      "artist": "After the Burial",
+      "title": "Your Troubles Will Cease and Fortune Will Smile Upon You",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "windv4",
+      "artist": "Akeboshi",
+      "title": "Wind",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "maracas_sky",
+      "artist": "Alberto Vazquez",
+      "title": "Maracas (Ft. Joan Sebastian)",
+      "layout": "d0,1 b2 v5,6 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o93105098_hacerelamorconot",
+      "artist": "Alejandra Guzman",
+      "title": "Hacer El Amor Con Otro",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alejandraguzman",
+      "artist": "Alejandra Guzman",
+      "title": "Verano Peligroso",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "malahierba",
+      "artist": "Alejandra Guzmán",
+      "title": "Mala Hierba",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "estrella",
+      "artist": "Alejandro Fernandez",
+      "title": "Como quien pierde una estrella",
+      "layout": "d b0,1 v4,5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mededique",
+      "artist": "Alejandro Fernandez",
+      "title": "Me dedique a perderte",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "matalas",
+      "artist": "Alejandro Fernández",
+      "title": "Mátalas",
+      "layout": "d b0,1 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dueleelamor",
+      "artist": "Aleks Syntek",
+      "title": "Duele El Amor (ft. Ana Torroja)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o947649727",
+      "artist": "Aleks Syntek",
+      "title": "Intocable (Album Version)",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009265",
+      "artist": "Alestorm",
+      "title": "Back Through Time",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008781",
+      "artist": "Alestorm",
+      "title": "Shipwrecked",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o796426267_sigoaqui_alexub",
+      "artist": "Alex Ubago",
+      "title": "Sigo Aqui",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "imeighteen",
+      "artist": "Alice Cooper",
+      "title": "I'm Eighteen",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "schoolsout",
+      "artist": "Alice Cooper",
+      "title": "School's Out",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007308",
+      "artist": "Alien Ant Farm",
+      "title": "Courage",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006769",
+      "artist": "Alien Ant Farm",
+      "title": "Glow",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007636",
+      "artist": "Alien Ant Farm",
+      "title": "Movies",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005950",
+      "artist": "Amberian Dawn",
+      "title": "Arctica",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005952",
+      "artist": "Amberian Dawn",
+      "title": "Blackbird",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011120",
+      "artist": "Amberian Dawn",
+      "title": "Charnel's Ball",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009991",
+      "artist": "Amberian Dawn",
+      "title": "Circus Black",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006206",
+      "artist": "Amberian Dawn",
+      "title": "City of Corruption",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010394",
+      "artist": "Amberian Dawn",
+      "title": "Cold Kiss",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006067",
+      "artist": "Amberian Dawn",
+      "title": "Come Now Follow",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005750",
+      "artist": "Amberian Dawn",
+      "title": "Dreamchaser",
+      "layout": "d0,1,2,3,4 b5 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006202",
+      "artist": "Amberian Dawn",
+      "title": "Field of Serpents",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006562",
+      "artist": "Amberian Dawn",
+      "title": "Ghostly Echoes",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005757",
+      "artist": "Amberian Dawn",
+      "title": "Lost Soul",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006253",
+      "artist": "Amberian Dawn",
+      "title": "My Only Star",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005747",
+      "artist": "Amberian Dawn",
+      "title": "Passing Bells",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006204",
+      "artist": "Amberian Dawn",
+      "title": "Sampo",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006395",
+      "artist": "Amberian Dawn",
+      "title": "Talisman",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005759",
+      "artist": "Amberian Dawn",
+      "title": "The Curse",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007176",
+      "artist": "Amberian Dawn",
+      "title": "War in Heaven",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005760",
+      "artist": "Amberian Dawn",
+      "title": "Willow of Tears",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "far_horsewithnoname",
+      "artist": "America",
+      "title": "A Horse With No Name",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elembrujo",
+      "artist": "Américo",
+      "title": "El Embrujo",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hoytevas",
+      "artist": "Américo",
+      "title": "Hoy Te Vas",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010004",
+      "artist": "An Endless Sporadic",
+      "title": "Anything",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009992",
+      "artist": "An Endless Sporadic",
+      "title": "From the Blue/Point of No Return",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009678",
+      "artist": "An Endless Sporadic",
+      "title": "Impulse",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010414",
+      "artist": "An Endless Sporadic",
+      "title": "The Triangular Race Through Space",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010203",
+      "artist": "an Unkindness",
+      "title": "A Death",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006652",
+      "artist": "an Unkindness",
+      "title": "Foundation",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010743",
+      "artist": "an Unkindness",
+      "title": "Fragments",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010225",
+      "artist": "an Unkindness",
+      "title": "Words Cannot Express",
+      "layout": "d b v0,1 s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005691",
+      "artist": "Anamanaguchi",
+      "title": "Airbrushed",
+      "layout": "d0,1,2,3,4 b5 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009328",
+      "artist": "Anarchy Club",
+      "title": "A Bullet in the Head",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011115",
+      "artist": "Anarchy Club",
+      "title": "A Single Drop of Red (The Gentleman)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011350",
+      "artist": "Anarchy Club",
+      "title": "All the Fires Burning",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009046",
+      "artist": "Anarchy Club",
+      "title": "Built to Grind",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009885",
+      "artist": "Anarchy Club",
+      "title": "Collide",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008947",
+      "artist": "Anarchy Club",
+      "title": "Für Immer Verloren",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009022",
+      "artist": "Anarchy Club",
+      "title": "King of Everything",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009541",
+      "artist": "Anarchy Club",
+      "title": "Riddle Me This",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009203",
+      "artist": "Anarchy Club",
+      "title": "Rise and Shine",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006120",
+      "artist": "Andromeda",
+      "title": "Another Step",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005828",
+      "artist": "Andromeda",
+      "title": "Chameleon Carneval",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005992",
+      "artist": "Andromeda",
+      "title": "My Star",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005935",
+      "artist": "Andromeda",
+      "title": "Veil of Illumination (Part 1)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005998",
+      "artist": "Andromeda",
+      "title": "Veil of Illumination (Part 2)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iasg14_madh_v21x",
+      "artist": "Anthrax",
+      "title": "Madhouse",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006564",
+      "artist": "Antoine Dodson & The Gregory Brothers",
+      "title": "Bed Intruder Song (feat. Kelly Dodson)",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o112773643",
+      "artist": "Antonio Banderas & Los Lobos",
+      "title": "Cancion Del Mariachi (Rhythm Version)",
+      "layout": "d b0 v2 s3,4",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nuncamefaltes",
+      "artist": "Antonio Rios",
+      "title": "Nunca Me Faltes",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "acartoonheroes",
+      "artist": "Aqua",
+      "title": "Cartoon Heroes",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007403",
+      "artist": "Arch Enemy",
+      "title": "Nemesis",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o991651561_doiwannaknow_ar",
+      "artist": "Arctic Monkeys",
+      "title": "Do I Wanna Know?",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "godisawomanjim",
+      "artist": "Ariana Grande",
+      "title": "god is a woman",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "harukakanata",
+      "artist": "Asian Kung-Fu Generation",
+      "title": "Haruka Kanata",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rewrite",
+      "artist": "Asian Kung-Fu Generation",
+      "title": "Rewrite",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008384",
+      "artist": "Askari Nari",
+      "title": "A Tadg30 Song",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007142",
+      "artist": "Askari Nari",
+      "title": "Cluster #2",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008857",
+      "artist": "Askari Nari",
+      "title": "Generic Techno Song",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007476",
+      "artist": "Askari Nari",
+      "title": "Genuine Penguin",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006234",
+      "artist": "Askari Nari",
+      "title": "Mercury Blooming",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006425",
+      "artist": "Askari Nari",
+      "title": "Reviving a Dead Language",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007485",
+      "artist": "Asking Alexandria",
+      "title": "A Prophecy (RB3 version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aaaloneinaroom",
+      "artist": "Asking Alexandria",
+      "title": "Alone In A Room",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009950",
+      "artist": "Asking Alexandria",
+      "title": "Dear Insanity",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007842",
+      "artist": "Asking Alexandria",
+      "title": "Hey There Mr. Brooks (RB3 version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006622",
+      "artist": "Asking Alexandria",
+      "title": "Morte et Dabo",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009857",
+      "artist": "Asking Alexandria",
+      "title": "Reckless & Relentless",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005922",
+      "artist": "Asking Alexandria",
+      "title": "The Final Episode (Let's Change the Channel) (RB3 version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010262",
+      "artist": "Asking Alexandria",
+      "title": "To the Stage",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007459",
+      "artist": "Attack Attack!",
+      "title": "Last Breath",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "a_cochise_multi",
+      "artist": "Audioslave",
+      "title": "Cochise",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "a7x_alpohv71x",
+      "artist": "Avenged Sevenfold",
+      "title": "A Little Piece of Heaven",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "carryon",
+      "artist": "Avenged Sevenfold",
+      "title": "Carry On",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dilealamorst",
+      "artist": "Aventura",
+      "title": "Dile Al Amor",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elperdedorrm",
+      "artist": "Aventura",
+      "title": "El Perdedor",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ellayyo",
+      "artist": "Aventura",
+      "title": "Ella y Yo (ft. Don Omar)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heybrother",
+      "artist": "Avicii",
+      "title": "Hey Brother",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "avicii_levels",
+      "artist": "Avicii",
+      "title": "Levels",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thenights",
+      "artist": "Avicii",
+      "title": "The Nights",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "waitingforlove",
+      "artist": "Avicii",
+      "title": "Waiting for Love",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alwhenyouregonev2",
+      "artist": "Avril Lavigne",
+      "title": "When You're Gone",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "IjimeDameZettai1x",
+      "artist": "Babymetal",
+      "title": "Ijime, Dame, Zettai",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "Megitsune1x",
+      "artist": "Babymetal",
+      "title": "Megitsune",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o827637035_caraluna_bacilo",
+      "artist": "Bacilos",
+      "title": "Caraluna",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "badomensdeathmind",
+      "artist": "Bad Omens",
+      "title": "THE DEATH OF PEACE OF MIND",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "infected",
+      "artist": "Bad Religion",
+      "title": "Infected",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o427711894_141versionbanda",
+      "artist": "Banda MS",
+      "title": "141 (Version Banda)",
+      "layout": "d0,1 b v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "laninafresa",
+      "artist": "Banda Zeta",
+      "title": "La Niña Fresa",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006194",
+      "artist": "Bayside",
+      "title": "Sick, Sick, Sick",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "beckgarbage",
+      "artist": "Beck",
+      "title": "Garbage Truck",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o779747143",
+      "artist": "Belanova",
+      "title": "Baila Mi Corazon",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o178878686_rosapastel_bela",
+      "artist": "Belanova",
+      "title": "Rosa Pastel",
+      "layout": "d0,1 b2,3 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o718861747_luzsingravedad",
+      "artist": "Belinda",
+      "title": "Luz Sin Gravedad",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006155",
+      "artist": "Between the Buried and Me",
+      "title": "Alaska",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010849",
+      "artist": "Between the Buried and Me",
+      "title": "All Bodies",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "misojoslloranporti",
+      "artist": "Big Boy",
+      "title": "Mis Ojos Lloran Por Ti",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dingo_everythingiwantedv0",
+      "artist": "Billie Eilish",
+      "title": "everything i wanted",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "olvidalabinomio",
+      "artist": "Binomio De Oro De América",
+      "title": "Olvídala",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "meetmehalfwaymagma",
+      "artist": "Black Eyed Peas",
+      "title": "Meet Me Halfway",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "BlackSabbathIronMan",
+      "artist": "Black Sabbath",
+      "title": "Iron Man",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blacksabbath-nibv4",
+      "artist": "Black Sabbath",
+      "title": "N.I.B.",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blacksabbathparanoid",
+      "artist": "Black Sabbath",
+      "title": "Paranoid",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "warpigsremasteredtruce",
+      "artist": "Black Sabbath",
+      "title": "War Pigs",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007421",
+      "artist": "Black Veil Brides",
+      "title": "Children Surrender",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007494",
+      "artist": "Black Veil Brides",
+      "title": "Heaven's Calling",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007499",
+      "artist": "Black Veil Brides",
+      "title": "Perfect Weapon",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ddududdudu",
+      "artist": "Blackpink",
+      "title": "Ddu-Du Ddu-Du",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005746",
+      "artist": "Bloom",
+      "title": "Fight For Greatness",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nswboccitiesv1",
+      "artist": "Blue Öyster Cult",
+      "title": "Cities on Flame with Rock and Roll",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005707",
+      "artist": "Bluefusion",
+      "title": "Andromeda",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009083",
+      "artist": "Bluefusion",
+      "title": "Force",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "beetlebum",
+      "artist": "Blur",
+      "title": "Beetlebum",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "canciondelahoguera",
+      "artist": "Bob Esponja",
+      "title": "Cancion de la Hoguera",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o20781282",
+      "artist": "Bob Esponja",
+      "title": "La Cancion De Gary",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blowmeaway",
+      "artist": "Breaking Benjamin",
+      "title": "Blow Me Away",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011551",
+      "artist": "Brian Kahanek",
+      "title": "Bottle Rocket",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010564",
+      "artist": "Brian Kahanek",
+      "title": "Gemini",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006665",
+      "artist": "Bring Me the Horizon",
+      "title": "Pray for Plagues",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "v2teardropstruce",
+      "artist": "Bring Me the Horizon",
+      "title": "Teardrops",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "m12obswmnzrv1",
+      "artist": "Britney Spears",
+      "title": "Womanizer",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dinothunderv3",
+      "artist": "Bruce Lynch & Douglas Sloan",
+      "title": "Power Rangers Dino Thunder Theme",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mysticforcev4",
+      "artist": "Bruce Lynch, Marco Marinangeu, & Chaka Blackmon",
+      "title": "Power Rangers Mystic Force Theme",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thelazysong_pvh",
+      "artist": "Bruno Mars",
+      "title": "The Lazy Song",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008143",
+      "artist": "Buckner & Garcia",
+      "title": "Do the Donkey Kong",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008235",
+      "artist": "Buckner & Garcia",
+      "title": "Found Me the Bomb",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006419",
+      "artist": "Buckner & Garcia",
+      "title": "Froggy's Lament",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007914",
+      "artist": "Buckner & Garcia",
+      "title": "Goin' Berzerk",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006600",
+      "artist": "Buckner & Garcia",
+      "title": "Hyperspace",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006566",
+      "artist": "Buckner & Garcia",
+      "title": "Mousetrap",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008229",
+      "artist": "Buckner & Garcia",
+      "title": "Ode to a Centipede",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006362",
+      "artist": "Buckner & Garcia",
+      "title": "Pac-Man Fever",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008094",
+      "artist": "Buckner & Garcia",
+      "title": "The Defender",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010566",
+      "artist": "Bumblefoot",
+      "title": "Dash",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006790",
+      "artist": "Bumblefoot",
+      "title": "Turn Around",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "BHS-WWiMRLNV3",
+      "artist": "Butthole Surfers",
+      "title": "Who Was in My Room Last Night?",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ynosfuimosenuna",
+      "artist": "BZRP",
+      "title": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "payasoderodeo",
+      "artist": "Caballo Dorado",
+      "title": "Payaso de Rodeo",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "eresfull",
+      "artist": "Cafe Tacuba",
+      "title": "Eres",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "laingrata",
+      "artist": "Café Tacvba",
+      "title": "La Ingrata",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "afuera",
+      "artist": "Caifanes",
+      "title": "Afuera",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o176859251_lacelulaqueexpl",
+      "artist": "Caifanes",
+      "title": "La Celula Que Explota",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o726927",
+      "artist": "Caifanes",
+      "title": "Viento",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "atrevetete",
+      "artist": "Calle 13",
+      "title": "Atrévete-Te-Te",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "abrazame",
+      "artist": "Camila",
+      "title": "Abrazame",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "colgandoentusmanos",
+      "artist": "Carlos Baute",
+      "title": "Colgando En Tus Manos (feat. Marta Sanchez)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o650846299",
+      "artist": "Cartel De Santa",
+      "title": "Culon Culito",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "todasmuerenpormi",
+      "artist": "Cartel de Santa",
+      "title": "Todas Mueren Por Mi",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gransonador",
+      "artist": "Cesar Franco",
+      "title": "The biggest dreamer",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010133",
+      "artist": "Chaotrope",
+      "title": "Chiasm",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006524",
+      "artist": "Chaotrope",
+      "title": "Diachylon",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007360",
+      "artist": "Chaotrope",
+      "title": "Dystopia",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008609",
+      "artist": "Chaotrope",
+      "title": "Elysian",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008694",
+      "artist": "Chaotrope",
+      "title": "Entropy/Extropy",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007231",
+      "artist": "Chaotrope",
+      "title": "Fading Sacrifice",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011820",
+      "artist": "Chaotrope",
+      "title": "Halcyon",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007733",
+      "artist": "Chaotrope",
+      "title": "Scarred",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011596",
+      "artist": "Chaotrope",
+      "title": "Synesthesia",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007992",
+      "artist": "Chaotrope",
+      "title": "The Cascade Effect",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006801",
+      "artist": "Chaotrope",
+      "title": "The Fall of Psilanthropy",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008695",
+      "artist": "Chaotrope",
+      "title": "The Hourglass Paroxysm - Part I",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010012",
+      "artist": "Chaotrope",
+      "title": "The Hourglass Paroxysm - Part II",
+      "layout": "d0,1 b2 v4,5 s7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010981",
+      "artist": "Chaotrope",
+      "title": "The Singularity",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006678",
+      "artist": "Chaotrope",
+      "title": "The Thief in the Night - Part I",
+      "layout": "d0,1 b2 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o399433732_surrender_cheap",
+      "artist": "Cheap Trick",
+      "title": "Surrender",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "redbone",
+      "artist": "Childish Gambino",
+      "title": "Redbone",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011290",
+      "artist": "Children of Nova",
+      "title": "Impossible Landscape",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010228",
+      "artist": "Children of Nova",
+      "title": "Moments of Clarity",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006724",
+      "artist": "Chiodos",
+      "title": "Caves",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o774262111_dubidubiduchipi",
+      "artist": "Christell",
+      "title": "Dubidubidu (Chipi Chipi Chapa Chapa)",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006721",
+      "artist": "Circa Survive",
+      "title": "The Difference Between Medicine and Poison is in the Dose",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yoteatrapotumeatrapasmgmv0",
+      "artist": "Claudia Bramnfsette",
+      "title": "Yo te Atrapo, Tú me Atrapas",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cocoomoidegaippai",
+      "artist": "CoCo",
+      "title": "Omoide ga Ippai",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tenspeedoriginalversion",
+      "artist": "Coheed and Cambria",
+      "title": "Ten Speed (Of God's Blood and Burial)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "necesitodecirtecp",
+      "artist": "Conjunto Primavera",
+      "title": "Necesito Decirte",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010340",
+      "artist": "Counterfeit Pennies",
+      "title": "Say What You Want",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iamsadpleasediev1",
+      "artist": "Crash and the Boys",
+      "title": "I Am Sad, So Very, Very Sad/We Hate You Please Die",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "axelf",
+      "artist": "Crazy Frog",
+      "title": "Axel F",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wf10crossroads",
+      "artist": "Cream",
+      "title": "Crossroads",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "far_sunshineofyourlove",
+      "artist": "Cream",
+      "title": "Sunshine Of Your Love",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "digimonadventure",
+      "artist": "César Franco",
+      "title": "Butter-Fly (Si tu lo Deseas)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dancewiththedevil",
+      "artist": "D-Devils",
+      "title": "The 6th Gate (Dance With The Devil)",
+      "layout": "d0,1 b2,3 v4,5 s7,8",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dragonscreamermgmv1",
+      "artist": "Da Pump",
+      "title": "Dragon Screamer",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "DPDigitalLove",
+      "artist": "Daft Punk",
+      "title": "Digital Love",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "DPHarderBetter",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ic",
+      "artist": "Daft Punk",
+      "title": "Instant crush",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "loseyourself34",
+      "artist": "Daft Punk",
+      "title": "Lose Yourself To Dance (Feat. Pharrell Williams)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "DPOneMoreTime",
+      "artist": "Daft Punk",
+      "title": "One More Time (ft. Romanthony)",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "somethingaboutC3",
+      "artist": "Daft Punk",
+      "title": "Something About Us",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007352",
+      "artist": "Damone",
+      "title": "Conquer Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009725",
+      "artist": "Dance for the Dying",
+      "title": "Death in the Garden",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007676",
+      "artist": "Dance for the Dying",
+      "title": "Echo",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008260",
+      "artist": "Dance for the Dying",
+      "title": "El Monstro",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009223",
+      "artist": "Dance for the Dying",
+      "title": "Kitty Fight Song",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011119",
+      "artist": "Dance for the Dying",
+      "title": "Mannequin",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011411",
+      "artist": "Dance for the Dying",
+      "title": "Ordinary Objects",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008835",
+      "artist": "Dance for the Dying",
+      "title": "Thug Love",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007601",
+      "artist": "Dance Gavin Dance",
+      "title": "Heat Seeking Ghost of Sex",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "uchiagehanabijrb",
+      "artist": "Daoko x Kenshi Yonezu",
+      "title": "Uchiage Hanabi",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepqueen_dejavu",
+      "artist": "Dave Rodgers",
+      "title": "Déjà Vu",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heroesoriginal_07sep2018",
+      "artist": "David Bowie",
+      "title": "Heroes",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "themanwhosoldtheworld_pv1",
+      "artist": "David Bowie",
+      "title": "The Man Who Sold the World",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sv6",
+      "artist": "David Glen Eisley",
+      "title": "Sweet Victory",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006336",
+      "artist": "dB soundworks",
+      "title": "Betus Blues (Retro Remix)",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008271",
+      "artist": "dB soundworks",
+      "title": "Can o' Salt (Remix)",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006363",
+      "artist": "dB soundworks",
+      "title": "The Battle of Lil' Slugger (Remix)",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hsaddy_dkhic",
+      "artist": "Dead Kennedys",
+      "title": "Holiday in Cambodia (Album Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010358",
+      "artist": "Death of the Cool",
+      "title": "Everything I Hate About Myself",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dl_animal",
+      "artist": "Def Leppard",
+      "title": "Animal",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "poursomesugaronme",
+      "artist": "Def Leppard",
+      "title": "Pour Some Sugar On Me",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dannyphantomintro",
+      "artist": "Deric Battistean",
+      "title": "Danny Phantom Intro/Outro (Español Latino)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006783",
+      "artist": "Devin Townsend",
+      "title": "By Your Command",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009209",
+      "artist": "Devin Townsend",
+      "title": "Color Your World",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007414",
+      "artist": "Devin Townsend",
+      "title": "Hyperdrive",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008366",
+      "artist": "Devin Townsend",
+      "title": "N9",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008642",
+      "artist": "Devin Townsend",
+      "title": "Planet Smasher",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007661",
+      "artist": "Devin Townsend",
+      "title": "Solar Winds",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009208",
+      "artist": "Devin Townsend",
+      "title": "The Greys",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006660",
+      "artist": "Devin Townsend",
+      "title": "Ziltoidia Attaxx!!",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "misirlou_v1",
+      "artist": "Dick Dale and His Del-Tones",
+      "title": "Misirlou",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "didothankyourb3",
+      "artist": "Dido",
+      "title": "Thank You",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pasarela",
+      "artist": "DJ Nelson/ Dálmata",
+      "title": "Pasarela",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o839775808",
+      "artist": "DLD",
+      "title": "Arsénico",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o512305871",
+      "artist": "DLD",
+      "title": "Mi Vida",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "xgongiveitf",
+      "artist": "DMX",
+      "title": "X Gon' Give It To Ya",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "virtualdiva",
+      "artist": "Don Omar",
+      "title": "Virtual Diva",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011533",
+      "artist": "Down June",
+      "title": "More",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "smokeweedeveryday",
+      "artist": "Dr. Dre ft. Snoop Dogg",
+      "title": "The Next Episode",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepqueen_hotlinebling",
+      "artist": "Drake",
+      "title": "Hotline Bling",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "em_shakin_pv1",
+      "artist": "Eddie Money",
+      "title": "Shakin'",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "eels_mybelovedmonster",
+      "artist": "Eels",
+      "title": "My Beloved Monster",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005633",
+      "artist": "Eiffel 65",
+      "title": "Blue (Da Ba Dee)",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010461",
+      "artist": "Eiffel 65",
+      "title": "Move Your Body",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o347480729_tristecancion_e",
+      "artist": "El Tri",
+      "title": "Triste Cancion",
+      "layout": "d0,1 b2,3 v6,7 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "asieslavida",
+      "artist": "Elefante",
+      "title": "Asi es la vida",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "loseyourself",
+      "artist": "Eminem",
+      "title": "Lose Yourself",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lovetheway",
+      "artist": "Eminem",
+      "title": "Love The Way You Lie (featuring Rihanna)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o498720680_lovethewayyouli",
+      "artist": "Eminem",
+      "title": "Love The Way You Lie (featuring Rihanna)",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rapgodeminem",
+      "artist": "Eminem",
+      "title": "Rap God",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bp_stanv3",
+      "artist": "Eminem",
+      "title": "Stan (feat. Dido)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepqueen_realslimshady",
+      "artist": "Eminem",
+      "title": "The Real Slim Shady",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tillicollapsetruce",
+      "artist": "Eminem",
+      "title": "Till I Collapse (ft. Nate Dogg)",
+      "layout": "d0,1 b v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "withoutme",
+      "artist": "Eminem",
+      "title": "Without Me",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "chicadehumov2",
+      "artist": "Emmanuel",
+      "title": "La chica de humo",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "innoasatana",
+      "artist": "Emperor",
+      "title": "Inno A Satana",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "amoreslejanosv2",
+      "artist": "Enanitos Verdes",
+      "title": "Amores lejanos",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "murallaverdev2",
+      "artist": "Enanitos Verdes",
+      "title": "La Muralla Verde",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "milhoraselivev1",
+      "artist": "Enanitos Verdes",
+      "title": "Mil Horas (live)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aya_godknows",
+      "artist": "ENOZ",
+      "title": "God knows...",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elperdedorpop",
+      "artist": "Enrique Iglesias",
+      "title": "El Perdedor (Pop) (Ft. Marco Antonio Solís)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011638",
+      "artist": "Esprit D'Air",
+      "title": "Shizuku",
+      "layout": "d0,1,2,3,4,5 b6,7 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010213",
+      "artist": "Eurobeat Brony",
+      "title": "Discord (The Living Tombstone Remix)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011627",
+      "artist": "Eurobeat Brony ft. Odyssey",
+      "title": "Discord (EuroChaos Mix)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008546",
+      "artist": "FantomenK",
+      "title": "The Massacre (Rock Band Mix)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pepasv1",
+      "artist": "Farruko",
+      "title": "Pepas",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fp_bathroomwall_full",
+      "artist": "Faster Pussycat",
+      "title": "Bathroom Wall",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pfc_jukeboxhero",
+      "artist": "Foreigner",
+      "title": "Juke Box Hero",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007460",
+      "artist": "Free Spirit",
+      "title": "Cry of an Eagle",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007455",
+      "artist": "Free Spirit",
+      "title": "Easy Days",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006869",
+      "artist": "Free Spirit",
+      "title": "Far Away from Heaven (RB3 version)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006746",
+      "artist": "Free Spirit",
+      "title": "Heroes Don't Cry",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006745",
+      "artist": "Free Spirit",
+      "title": "Moonlight Ride",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006903",
+      "artist": "Free Spirit",
+      "title": "Pale Sister of Light (RB3 version)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008344",
+      "artist": "Free Spirit",
+      "title": "Preacher Man",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010204",
+      "artist": "Free Spirit",
+      "title": "Radiant Light",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006744",
+      "artist": "Free Spirit",
+      "title": "Shadow of a Man",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008307",
+      "artist": "Free Spirit",
+      "title": "Strangers",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007493",
+      "artist": "Free Spirit",
+      "title": "Until the Night (RB3 version)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009942",
+      "artist": "Freen in Green",
+      "title": "Frontier Factory: Remanufactured",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007873",
+      "artist": "Freen in Green",
+      "title": "Grocery Party",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006176",
+      "artist": "Freen in Green",
+      "title": "Halftime",
+      "layout": "d b v0,1 s2,3",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011473",
+      "artist": "Freen in Green",
+      "title": "Level 1 - Winter City",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011783",
+      "artist": "Freen in Green",
+      "title": "Neighbors Ate My Zombies!",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007563",
+      "artist": "Freen in Green",
+      "title": "Ramp Truck (RB3 version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006152",
+      "artist": "Freen in Green",
+      "title": "Riptide Resort",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011280",
+      "artist": "Freen in Green",
+      "title": "The Final Battle",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007242",
+      "artist": "Freezepop",
+      "title": "Doppelgänger",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o397279738_takeme_gdragon",
+      "artist": "G-DRAGON",
+      "title": "TAKE ME",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mihistoriaentretusdedos",
+      "artist": "Gianluca Grignani",
+      "title": "Mi Historia Entre Tus Dedos",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008471",
+      "artist": "Gigakoops",
+      "title": "Death In General",
+      "layout": "d0,1,2 b3,4 v7,8 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008773",
+      "artist": "Gigakoops",
+      "title": "Night",
+      "layout": "d0,1,2 b3,4 v s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009224",
+      "artist": "Giraffes? Giraffes!",
+      "title": "I am S/H(im)e[r] as You am S/H(im)e[r] as You are Me and We am I and I are All Our Together",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010897",
+      "artist": "Giraffes? Giraffes!",
+      "title": "Werewolf Grandma With Knives (Part Two: Don't Die)",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007617",
+      "artist": "Go Radio",
+      "title": "Any Other Heart",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010791",
+      "artist": "God Forbid",
+      "title": "Don't Tell Me What to Dream",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepq_gori_192000",
+      "artist": "Gorillaz",
+      "title": "19/2000",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "andromedafinal",
+      "artist": "Gorillaz",
+      "title": "Andromeda (feat. D.R.A.M.)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ascensionfinal2vox",
+      "artist": "Gorillaz",
+      "title": "Ascension (feat. Vince Staples)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gbabyqueenv2",
+      "artist": "Gorillaz",
+      "title": "Baby Queen",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sots_dare",
+      "artist": "Gorillaz",
+      "title": "DARE",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gdoncamatic",
+      "artist": "Gorillaz",
+      "title": "Doncamatic (feat. Daley)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gdesolev3",
+      "artist": "Gorillaz",
+      "title": "Désolé",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "empireants_gor",
+      "artist": "Gorillaz",
+      "title": "Empire Ants (ft. Little Dragon)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gfireflies",
+      "artist": "Gorillaz",
+      "title": "Fire Flies",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sots_melancholyhill",
+      "artist": "Gorillaz",
+      "title": "On Melancholy Hill",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ud_rhinestoneyes",
+      "artist": "Gorillaz",
+      "title": "Rhinestone Eyes",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "grockthehousev2",
+      "artist": "Gorillaz",
+      "title": "Rock the House",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "saturnzbarzfinal",
+      "artist": "Gorillaz",
+      "title": "Saturnz Barz (feat. Popcaan)",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gsilentrunning",
+      "artist": "Gorillaz",
+      "title": "Silent Running (featuring Adeleye Omotayo)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gravityfv2",
+      "artist": "Gorillaz",
+      "title": "Sound Check (Gravity)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "strobelitejim",
+      "artist": "Gorillaz",
+      "title": "Strobelite (feat. Peven Everett)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "um_stylov3",
+      "artist": "Gorillaz",
+      "title": "Stylo",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gthelostchord",
+      "artist": "Gorillaz",
+      "title": "The Lost Chord (feat. Leee John)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tomorrowcomestoday",
+      "artist": "Gorillaz",
+      "title": "Tomorrow Comes Today",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o338182213_somebodythatius",
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (ft. Kimbra)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "somebodythatiused",
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (ft. Kimbra)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006511",
+      "artist": "Graveyard BBQ",
+      "title": "By the Grace of the Grill",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o247463068",
+      "artist": "Grupo Marrano",
+      "title": "El Ansioso",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "WhatIsLoveC3",
+      "artist": "Haddaway",
+      "title": "What Is Love",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006867",
+      "artist": "Halfbrick Studios",
+      "title": "Pirats 'Til We Die",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepqueen_elsonidito",
+      "artist": "Hechizeros Band",
+      "title": "El Sonidito",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "RX_Unsung_Harms_V1",
+      "artist": "Helmet",
+      "title": "Unsung",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007139",
+      "artist": "Heywood Banks",
+      "title": "Toast (Live)",
+      "layout": "d0,1 b v2,3 s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fugg_facemyfears1x",
+      "artist": "Hikaru Utada & Skrillex",
+      "title": "Face My Fears",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wegottapower",
+      "artist": "Hironobu Kageyama",
+      "title": "We Gotta Power",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "devuelveme",
+      "artist": "Hombres G",
+      "title": "Devuélveme a mi chica",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elataquedelaschicascocodri",
+      "artist": "Hombres G",
+      "title": "el ataque de las chicas cocodrilo",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "martatieneunmarcapasos",
+      "artist": "Hombres G",
+      "title": "Marta Tiene Un Marcapasos",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "notepuedobesar",
+      "artist": "Hombres G",
+      "title": "No Te Puedo Besar",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tqhgrb3esp",
+      "artist": "Hombres G",
+      "title": "Te Quiero",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "unpardepalabras",
+      "artist": "Hombres G",
+      "title": "Un Par De Palabras",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "unpardepalabraslive",
+      "artist": "Hombres G - Enanitos Verdes",
+      "title": "Un Par De Palabras Live",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007443",
+      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
+      "title": "Hey",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007283",
+      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
+      "title": "I Don't Want to Hear About Your Crappy Boyfriend",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007278",
+      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
+      "title": "Soy Bomb",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o774935701_golden_huntrx",
+      "artist": "HUNTR/X",
+      "title": "Golden",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011488",
+      "artist": "Hushpuppies",
+      "title": "You're Gonna Say Yeah!",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "entredostierras",
+      "artist": "Héroes del Silencio",
+      "title": "Entre Dos Tierras",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "malditoduende",
+      "artist": "Héroes del Silencio",
+      "title": "Maldito Duende",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ninjastormv2",
+      "artist": "Ian Nichols",
+      "title": "Power Rangers Ninja Storm Theme",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cmere",
+      "artist": "Interpol",
+      "title": "C'mere",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mydesire",
+      "artist": "Interpol",
+      "title": "My Desire",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "obstacle2",
+      "artist": "Interpol",
+      "title": "Obstacle 2",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cruise",
+      "artist": "Interpol",
+      "title": "Take You on a Cruise",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sideaceshighv1",
+      "artist": "Iron Maiden",
+      "title": "Aces High",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sidefearofdarkv1",
+      "artist": "Iron Maiden",
+      "title": "Fear of the Dark",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sidehallowbtnv1",
+      "artist": "Iron Maiden",
+      "title": "Hallowed Be Thy Name",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ironmaiden_v1",
+      "artist": "Iron Maiden",
+      "title": "Iron Maiden",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sidewrathchildv1",
+      "artist": "Iron Maiden",
+      "title": "Wrathchild",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o975045396_olvidalaamargur",
+      "artist": "Jade",
+      "title": "Olvida La Amargura (TV Size)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jadepequenacitatvsize",
+      "artist": "Jade",
+      "title": "Pequeña Cita (TV Size)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ifeelgoodkris2",
+      "artist": "James Brown",
+      "title": "I Got You (I Feel Good) (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "zoey101theme",
+      "artist": "Jamie Lynn Spears",
+      "title": "Follow Me",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jeanette_frenteafrente_bya",
+      "artist": "Jeanette",
+      "title": "Frente a Frente",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "porquetevas",
+      "artist": "Jeanette",
+      "title": "Porque te vas",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "holdingoutforashrek",
+      "artist": "Jennifer Saunders",
+      "title": "Holding Out for a Hero",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "holdingoutforahero",
+      "artist": "Jennifer Saunders",
+      "title": "Holding Out For A Hero (Shrek 2 Version)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lightspeedrescuev3",
+      "artist": "Jeremy Sweet",
+      "title": "Power Rangers Lightspeed Rescue Theme",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lostgalaxyprov2",
+      "artist": "Jeremy Sweet",
+      "title": "Power Rangers Lost Galaxy Theme",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "zeorb3",
+      "artist": "Jeremy Sweet & Ron Wasserman",
+      "title": "Power Rangers Zeo Theme",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011373",
+      "artist": "Jerry Lee Lewis",
+      "title": "Great Balls of Fire",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o503159034_esoymas_joanseb",
+      "artist": "Joan Sebastian",
+      "title": "Eso Y Mas",
+      "layout": "d b0,1 v4,5 s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o530043638_megustas_joanse",
+      "artist": "Joan Sebastian",
+      "title": "Me Gustas",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o789400598_megustas_joanse",
+      "artist": "Joan Sebastian",
+      "title": "Me Gustas",
+      "layout": "d0,1 b2,3 v6,7 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "secretodeamor",
+      "artist": "Joan Sebastian",
+      "title": "Secreto De Amor",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o479093577_unidiota_joanse",
+      "artist": "Joan Sebastian",
+      "title": "Un Idiota",
+      "layout": "d0,1 b2,3 v6,7 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "meteor",
+      "artist": "John",
+      "title": "Meteor (ft. Hatsune Miku & IA)(Remix)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011590",
+      "artist": "John Parr",
+      "title": "At the Cathedral",
+      "layout": "d b v2,3 s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010935",
+      "artist": "John Parr",
+      "title": "Monday Night Football",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011153",
+      "artist": "John Parr",
+      "title": "Naughty Naughty",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011069",
+      "artist": "John Parr",
+      "title": "St. Elmo's Fire (Man in Motion)",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011070",
+      "artist": "John Parr",
+      "title": "Tim Tebow's Fire",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010650",
+      "artist": "John Parr",
+      "title": "Under a Raging Moon",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o877126882",
+      "artist": "Jose Jose",
+      "title": "Amor Amor",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o849505162_desesperado_mks",
+      "artist": "Jose Jose",
+      "title": "Desesperado",
+      "layout": "d b v1 s2,3",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o120217977_gracias_mks",
+      "artist": "Jose Jose",
+      "title": "Gracias",
+      "layout": "d b v1 s2,3",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o722992045_vamosadarnostie",
+      "artist": "Jose Jose",
+      "title": "Vamos A Darnos Tiempo",
+      "layout": "d b0 v2 s3,4",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o694192759_eltriste_josjos",
+      "artist": "José José",
+      "title": "El Triste",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gavilanopalomarb3",
+      "artist": "José José",
+      "title": "Gavilán o Paloma",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "loquenofuenosera",
+      "artist": "José José",
+      "title": "Lo Que No Fue No Sera",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yquienpuedeser",
+      "artist": "José José",
+      "title": "¿Y quién puede ser?",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "unvelerolibertad",
+      "artist": "José Luis Perales",
+      "title": "Un Velero Llamado Libertad",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elnoanoa",
+      "artist": "Juan Gabriel",
+      "title": "El Noa-Noa",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "juanga",
+      "artist": "Juan Gabriel",
+      "title": "Porque me haces llorar",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "querida",
+      "artist": "Juan Gabriel",
+      "title": "Querida",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o12866974_fotografiaftnell",
+      "artist": "Juanes",
+      "title": "Fotografia (Ft. Nelly Furtado)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nada_valgo_sin_tu_amor",
+      "artist": "Juanes",
+      "title": "Nada Valgo Sin Tu Amor",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "breakingthelawv3",
+      "artist": "Judas Priest",
+      "title": "Breaking the Law",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "livingaftermidnight1x",
+      "artist": "Judas Priest",
+      "title": "Living After Midnight",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nswjpgods",
+      "artist": "Judas Priest",
+      "title": "Metal Gods",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nswjpunited",
+      "artist": "Judas Priest",
+      "title": "United",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006195",
+      "artist": "Jukebox the Ghost",
+      "title": "Empire",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005762",
+      "artist": "Jukebox the Ghost",
+      "title": "Half Crazy",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006114",
+      "artist": "Jukebox the Ghost",
+      "title": "Schizophrenia",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007450",
+      "artist": "Jukebox the Ghost",
+      "title": "So Let Us Create",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006788",
+      "artist": "Jukebox the Ghost",
+      "title": "The Stars",
+      "layout": "d0,1 b v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o28058779",
+      "artist": "Julieta Venegas",
+      "title": "Me Voy",
+      "layout": "d0,1 b2,3 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wavinflag",
+      "artist": "K'naan",
+      "title": "Wavin' Flag (ft David Bisbal)",
+      "layout": "d0,1 b2,3 v4,5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sky_popstars_down",
+      "artist": "K/DA",
+      "title": "PopStars (ft Madison Beer, (G)I-DLE, Jaira Burns)",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lacalledelassirenas",
+      "artist": "Kabah",
+      "title": "La calle de las sirenas",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010159",
+      "artist": "Kaipa",
+      "title": "In the Wake of Evolution",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "renaicirculationv2",
+      "artist": "Kana Hanazawa",
+      "title": "Renai Circulation",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "SomewhereOnlyWeKnow",
+      "artist": "Keane",
+      "title": "Somewhere Only We Know",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "vrey_kkbonito_flamingo2",
+      "artist": "Kero Kero Bonito",
+      "title": "Flamingo",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pursuit_alldif",
+      "artist": "Kid Cudi feat. MGMT and Ratatat",
+      "title": "Pursuit of Happiness",
+      "layout": "d0,1 b v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kidsinamerica",
+      "artist": "Kim Wilde",
+      "title": "Kids in America",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "oty",
+      "artist": "KISS",
+      "title": "100,000 Years",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iwasmadeforlovinyou(og)",
+      "artist": "KISS",
+      "title": "I Was Made for Lovin' You (Original Version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kisslickitupv6",
+      "artist": "KISS",
+      "title": "Lick It Up (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kissparasitev2",
+      "artist": "KISS",
+      "title": "Parasite",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kissstrutterv1",
+      "artist": "KISS",
+      "title": "Strutter",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rosaslodvbyaldoenv",
+      "artist": "La Oreja de Van Gogh",
+      "title": "Rosas",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alejandrov2",
+      "artist": "Lady Gaga",
+      "title": "Alejandro",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sefuelp",
+      "artist": "Laura Pausini",
+      "title": "Se Fue",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008681",
+      "artist": "Lemon Demon",
+      "title": "BRODYQUEST",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ctebyaenv",
+      "artist": "Leo Dan",
+      "title": "Como Te Extraño",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009675",
+      "artist": "Less Than Jake",
+      "title": "Goodbye, Mr. Personality",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009514",
+      "artist": "Less Than Jake",
+      "title": "Younger Lungs",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "brillas",
+      "artist": "León Larregui",
+      "title": "Brillas",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010008",
+      "artist": "Lil Deuce Deuce",
+      "title": "I Like Trains",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o882964560_inpieces_linkin",
+      "artist": "Linkin Park",
+      "title": "In Pieces",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tltgya",
+      "artist": "Linkin Park",
+      "title": "The Little Things Give You Away",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wildforce",
+      "artist": "Lior Rosner, D. DeAscentis, & P.C. Gordon",
+      "title": "Power Rangers Wild Force Theme",
+      "layout": "d0,1 b v3 s4,5",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "timeforce",
+      "artist": "Lior Rosner, Jeremy Sweet, & Shuki Levi",
+      "title": "Power Rangers Time Force Theme",
+      "layout": "d0,1 b v3 s4,5",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010530",
+      "artist": "Look Left",
+      "title": "But Then I Fell in Love",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009560",
+      "artist": "Look Left",
+      "title": "Crack My Head and Let the People Out",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008987",
+      "artist": "Look Left",
+      "title": "Put Out the Fire",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009757",
+      "artist": "Look Left",
+      "title": "Top",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o943604480",
+      "artist": "Los Acosta",
+      "title": "Como Una Novela",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o650691655",
+      "artist": "Los Bukis",
+      "title": "Navidad Sin Ti",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cantina",
+      "artist": "los cardenales de nuevo leon",
+      "title": "compre una cantina",
+      "layout": "d0,1 b2,3 v s4,5",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tucarcel",
+      "artist": "Los Enanitos Verdes",
+      "title": "Tu Cárcel",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o851588148_miamigoeldearri",
+      "artist": "Los Inquietos Del Norte",
+      "title": "Mi Amigo El De Arriba",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ltjuroqtamo",
+      "artist": "Los Terricolas",
+      "title": "Juro Que Te Amo",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nunca",
+      "artist": "Los Ángeles Azules",
+      "title": "Nunca Es Suficiente ft. Natalia Lafourcade (Live)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o740798473_lafantasticaave",
+      "artist": "Luis de Lille",
+      "title": "La Fantastica Aventura (TV Size)",
+      "layout": "d0,1 b2,3 v6,7 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ahoratepuedes_luis",
+      "artist": "Luis Miguel",
+      "title": "Ahora te Puedes Marchar",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "espos",
+      "artist": "Luis Miguel",
+      "title": "Como es posible",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "culpableono",
+      "artist": "Luis Miguel",
+      "title": "Culpable o no",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hastaquemeolvides",
+      "artist": "Luis Miguel",
+      "title": "Hasta Que Me Olvides",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "inolvidablefbo",
+      "artist": "Luis Miguel",
+      "title": "Inolvidable",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "labarca",
+      "artist": "Luis Miguel",
+      "title": "La Barca",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o887523064_lachicadelbikin",
+      "artist": "Luis Miguel",
+      "title": "La Chica del Bikini Azul",
+      "layout": "d0,1 b2,3 v6,7 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "laincodicionalv1",
+      "artist": "Luis Miguel",
+      "title": "La incondicional",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nomeplatiquesmas",
+      "artist": "Luis Miguel",
+      "title": "No me platiques mas",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pordebajodelamesa",
+      "artist": "Luis Miguel",
+      "title": "Por Debajo De La Mesa",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "santaclausllegoala",
+      "artist": "Luis Miguel",
+      "title": "Santa Claus Llego A La Ciudad",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "seraquenomeamas",
+      "artist": "Luis Miguel",
+      "title": "Será Que No Me Amas (Blame It on the Boogie)",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "suave",
+      "artist": "Luis Miguel",
+      "title": "Suave",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tenecesito",
+      "artist": "Luis Miguel",
+      "title": "Te Necesito",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bp_gamblerumblefv2",
+      "artist": "m.o.v.e",
+      "title": "Gamble Rumble",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bp_rageyourdreamfv2",
+      "artist": "m.o.v.e",
+      "title": "Rage Your Dream",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o412790795",
+      "artist": "Madonna",
+      "title": "Hung Up",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007825",
+      "artist": "Magnus 'SoulEye' Pålsson",
+      "title": "Paced Energy",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006273",
+      "artist": "Magnus 'SoulEye' Pålsson",
+      "title": "Positive Force",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008364",
+      "artist": "Magnus 'SoulEye' Pålsson",
+      "title": "Potential for Anything",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006112",
+      "artist": "Magnus 'SoulEye' Pålsson",
+      "title": "Pressure Cooker",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elatrapasuenos_sky",
+      "artist": "Mago de Oz",
+      "title": "El Atrapasuenos",
+      "layout": "d0,1 b2 v5,6 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elatrapasuenos_skyv2",
+      "artist": "Mago de Oz",
+      "title": "El Atrapasuenos",
+      "layout": "d0,1 b2 v5,6 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o753880553_gaia_magodeoz",
+      "artist": "Mago de Oz",
+      "title": "Gaia",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hastaqueelcuerpoaguante",
+      "artist": "Mago de Oz",
+      "title": "Hasta Que El Cuerpo Aguante",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lacostadelsilencio",
+      "artist": "Mago De Oz",
+      "title": "La Costa Del Silencio",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "satania",
+      "artist": "Mago De Oz",
+      "title": "Satania (2x Bass Pedal)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pegasusfantasy",
+      "artist": "Make-Up",
+      "title": "Pegasus Fantasy",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o74018854_clavadoenunbar_m",
+      "artist": "Mana",
+      "title": "Clavado En Un Bar",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o435479774",
+      "artist": "Mana",
+      "title": "En El Muelle De San Blas (Album Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o878166623_mandaunasenal_m",
+      "artist": "Mana",
+      "title": "Manda Una Senal",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepqueen_megustastu",
+      "artist": "Manu Chao",
+      "title": "Me Gustas Tú",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sky_gasgas_down",
+      "artist": "Manuel Karamori",
+      "title": "Gas Gas Gas",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bendita",
+      "artist": "Maná",
+      "title": "Bendita tu luz (ft Juan Luis Guerra)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elverdaderoamorperdona",
+      "artist": "Maná",
+      "title": "El Verdadero Amor Perdona",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elverdaderoamorperdonapr",
+      "artist": "Maná",
+      "title": "El Verdadero Amor Perdona (ft. Prince Royce)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "eresmireligion",
+      "artist": "Maná",
+      "title": "Eres Mi Religión (ft. Joy)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hueleatristeza",
+      "artist": "Maná",
+      "title": "Huele a tristeza",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "labioscompartidos_shad",
+      "artist": "Maná",
+      "title": "Labios Compartidos",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mariposamana",
+      "artist": "Maná",
+      "title": "Mariposa Traicionera",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mariposatraicionera",
+      "artist": "Maná",
+      "title": "Mariposa Traicionera (ft. Alejandro Fernandéz)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rayandoelsol",
+      "artist": "Maná",
+      "title": "Rayando el Sol",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "soledad",
+      "artist": "Maná",
+      "title": "Soledad",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "telloreunrio",
+      "artist": "Maná",
+      "title": "Te Lloré Un Río (ft. Christian Nodal)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "amornsilencioaenvrb",
+      "artist": "Marco Antonio Solís",
+      "title": "Amor En Silencio",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dondeestaramipri",
+      "artist": "Marco Antonio Solís",
+      "title": "Donde Estará Mi Primavera",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "masquetuamigo",
+      "artist": "Marco Antonio Solís",
+      "title": "Mas Que Tu Amigo",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nadaquemerecuerde",
+      "artist": "Marco Antonio Solís",
+      "title": "Nada Que Me Recuerde A Ti (José Madero)",
+      "layout": "d0,1 b v2,3 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "masvmma",
+      "artist": "Marco Antonio Solís",
+      "title": "Se Va Muriendo Mi Alma",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sitepudieramentirrb3",
+      "artist": "Marco Antonio Solís",
+      "title": "Si Te Pudiera Mentir",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o405931343_adelantecorazon",
+      "artist": "Maria Jose",
+      "title": "Adelante Corazon",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mm_taintedlove_v1",
+      "artist": "Marilyn Manson",
+      "title": "Tainted Love",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o890795666_romancetepuedod",
+      "artist": "Marisa de Lille",
+      "title": "Romance Te Puedo Dar (TV Size)",
+      "layout": "d0,1 b2,3 v4,5 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o221484058_saldeahimagnifi",
+      "artist": "Marisa de Lille",
+      "title": "Sal de Ahi, Magnifico Poder (TV Size)",
+      "layout": "d0,1 b2,3 v6,7 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "neverforget",
+      "artist": "Martin O'Donnell & Michael Salvatori",
+      "title": "Never Forget",
+      "layout": "d0,1 b v4,5 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "martyjohnnybgoodemulti",
+      "artist": "Marty McFly With The Starlighters",
+      "title": "Johnny B. Goode",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o446037973",
+      "artist": "María José",
+      "title": "No Soy Una Señora",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009031",
+      "artist": "Maríafer",
+      "title": "Por Nada",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006888",
+      "artist": "Mastodon",
+      "title": "Megalodon",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mfx_msweet_girlfriend",
+      "artist": "Matthew Sweet",
+      "title": "Girlfriend",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pegasusfantasylatv4",
+      "artist": "Mauren Mendo",
+      "title": "Pegasus Fantasy",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "runningin90s",
+      "artist": "Max Coveri",
+      "title": "Running in the 90's",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o683859159_whatsuppeople_m",
+      "artist": "Maximum the Hormone",
+      "title": "What's Up, People?!",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011179",
+      "artist": "MC Lars",
+      "title": "Lars Attacks!",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009081",
+      "artist": "MC Lars feat. MC Bat Commander and Suburban Legends",
+      "title": "This Gigantic Robot Kills",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kickoutthejams_full",
+      "artist": "MC5",
+      "title": "Kick Out the Jams",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o772709739_lafuerzadeldest",
+      "artist": "Mecano",
+      "title": "La Fuerza Del Destino",
+      "layout": "d0,1 b2,3 v6,7 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008095",
+      "artist": "Mega64",
+      "title": "My Name's Horatio, You Got Me, You Ain't Got Nobody Else, So Deal With It, And Love It",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "elbailedelgorila",
+      "artist": "Melody",
+      "title": "El Baile Del Gorila",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006220",
+      "artist": "Memphis May Fire",
+      "title": "Be Careful What You Wish For",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o405242176_goldgunsgirls_m",
+      "artist": "Metric",
+      "title": "Gold Guns Girls",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "far_billijean",
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "far_dirtydianav3",
+      "artist": "Michael Jackson",
+      "title": "Dirty Diana",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "far_smoothcriminal",
+      "artist": "Michael Jackson",
+      "title": "Smooth Criminal",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "smoothcriminalmj",
+      "artist": "Michael Jackson",
+      "title": "Smooth Criminal",
+      "layout": "d0,1 b2 v5,6 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "far_thrillerv3",
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o977568523_extasisftcartel",
+      "artist": "Millonario & W. Corona",
+      "title": "Extasis (Ft. Cartel de Santa)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kawakiwoameku",
+      "artist": "Minami",
+      "title": "Kawaki wo Ameku",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bp_shikinoutafv2",
+      "artist": "Minmi",
+      "title": "Shiki no Uta",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "corona",
+      "artist": "Minutemen",
+      "title": "Corona",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rbbp_m12o_m_d",
+      "artist": "Miranda!",
+      "title": "Don",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mirandaperfecta",
+      "artist": "Miranda!",
+      "title": "Perfecta (ft. Julieta Venegas)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008339",
+      "artist": "Miss Crazy",
+      "title": "Mow",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "amateur",
+      "artist": "Molotov",
+      "title": "Amateur (Rock Me Amadeus)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "gimmepower",
+      "artist": "Molotov",
+      "title": "Gimme The Power",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o336245558_putoalbumversio",
+      "artist": "Molotov",
+      "title": "Puto (Album Version)",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tu_falta_mon",
+      "artist": "Mon Laferte",
+      "title": "Tu Falta de Querer",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "506",
+      "artist": "Morat",
+      "title": "506 (ft. Juanes)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "motthoopledudesv2",
+      "artist": "Mott the Hoople",
+      "title": "All the Young Dudes",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mississippiqueenmtn",
+      "artist": "Mountain",
+      "title": "Mississippi Queen",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009454",
+      "artist": "Mystakin",
+      "title": "Heroism",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008213",
+      "artist": "Mystakin",
+      "title": "The Consequences",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007988",
+      "artist": "Mystakin",
+      "title": "The End of Progress",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o973205086",
+      "artist": "Mägo de Oz",
+      "title": "Molinos de Viento",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lovehurtsov",
+      "artist": "Nazareth",
+      "title": "Love Hurts (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "personality_alig",
+      "artist": "New York Dolls",
+      "title": "Personality Crisis",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "DontTellMeYouLoveMe_V1",
+      "artist": "Night Ranger",
+      "title": "Don't Tell Me You Love Me (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o904800027_aluminia_nightm",
+      "artist": "Nightmare",
+      "title": "Aluminia",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011602",
+      "artist": "Nightmare Lyre",
+      "title": "Deception",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "byebyebeautiful",
+      "artist": "Nightwish",
+      "title": "Bye Bye Beautiful",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "comeasyouarev2",
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lithium",
+      "artist": "Nirvana",
+      "title": "Lithium",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006197",
+      "artist": "Nonpoint",
+      "title": "Crazy",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006199",
+      "artist": "Nonpoint",
+      "title": "Miracle",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "onlyaladv03",
+      "artist": "Oingo Boingo",
+      "title": "Only A Lad",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lifegoeson",
+      "artist": "Oliver Tree",
+      "title": "Life Goes On",
+      "layout": "d0,1 b2,3 v4,5 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hojaenblanco",
+      "artist": "Omar Geles",
+      "title": "Hoja en blanco",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepqueen_lapluie",
+      "artist": "Orelsan",
+      "title": "La Pluie (ft. Stromae)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006439",
+      "artist": "Otep",
+      "title": "Fists Fall",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dockofthekrisnew",
+      "artist": "Otis Redding",
+      "title": "(Sittin' on the) Dock of the Bay",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ozzyhellraiser1x",
+      "artist": "Ozzy Osbourne",
+      "title": "Hellraiser",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ladosisperfectav3_sky",
+      "artist": "Panteon Rococo",
+      "title": "La Dosis Perfecta",
+      "layout": "d0,1 b2 v5,6 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "far_cowboysfromhellv2",
+      "artist": "Pantera",
+      "title": "Cowboys from Hell",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lacarencia",
+      "artist": "Panteón Rococó",
+      "title": "La Carencia",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rc_pr_tbl",
+      "artist": "Papa Roach",
+      "title": "...To Be Loved",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o511745129_bailandoextende",
+      "artist": "Paradisio",
+      "title": "Bailando (Extended Radio Version)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "decode",
+      "artist": "Paramore",
+      "title": "Decode",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007393",
+      "artist": "Parry Gripp",
+      "title": "Space Unicorn",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005914",
+      "artist": "Parry Gripp",
+      "title": "Spaghetti Cat (I Weep For You)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007552",
+      "artist": "Paul and Storm",
+      "title": "Fuzzy Man (Fuzzy Nation)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007301",
+      "artist": "Paul and Storm",
+      "title": "Nugget Man",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hijodehombre",
+      "artist": "Phil Collins",
+      "title": "Hijo De Hombre (Son of Man)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007293",
+      "artist": "Pierce the Veil",
+      "title": "Caraphernelia",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "addy_pb_dwdtg1x",
+      "artist": "Point Blank",
+      "title": "The Devil Went Down to Georgia",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008951",
+      "artist": "Powerman 5000",
+      "title": "Do Your Thing",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008016",
+      "artist": "Powerman 5000",
+      "title": "Show Me What You've Got",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008608",
+      "artist": "Powerman 5000",
+      "title": "Super Villain",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008873",
+      "artist": "Powerman 5000",
+      "title": "Time Bomb",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008548",
+      "artist": "Powerman 5000",
+      "title": "V is for Vampire",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "7748southparktheme",
+      "artist": "Primus",
+      "title": "South Park Theme",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "purplerainsingle_v1",
+      "artist": "Prince",
+      "title": "Purple Rain (Single Version)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "darteunbesov2",
+      "artist": "Prince Royce",
+      "title": "Darte Un Beso (Rhythm Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "incondicionalpr",
+      "artist": "Prince Royce",
+      "title": "Incondicional",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008312",
+      "artist": "Prototype",
+      "title": "The Way It Ends",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008844",
+      "artist": "Psychostick",
+      "title": "BEER!!",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010162",
+      "artist": "Psychostick",
+      "title": "Political Bum",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011509",
+      "artist": "Psychostick",
+      "title": "This is Not a Song, It's a Sandwich!",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007097",
+      "artist": "Psyguy",
+      "title": "Wha-Chow Theme (Feat. ShadyVox)",
+      "layout": "d0,1 b v4,5 s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "3plus1x",
+      "artist": "PXNDX",
+      "title": "3+1",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "citaenelquirofano1x",
+      "artist": "PXNDX",
+      "title": "Cita En El Quirófano",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cuandonoescomod1x",
+      "artist": "PXNDX",
+      "title": "Cuando No Es Como Debiera Ser",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "disculpalosmalos1x",
+      "artist": "PXNDX",
+      "title": "Disculpa Los Malos Pensamientos",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "soloh",
+      "artist": "PXNDX",
+      "title": "Estoy Más Soloh Que Ayer, Pero Menos Que Mañana",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "laestrategiaperdida",
+      "artist": "PXNDX",
+      "title": "La Estrategia Perdida",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "malaventuradospanda",
+      "artist": "PXNDX",
+      "title": "Los Malaventurados no Lloran",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "miedoalasalturas1x",
+      "artist": "PXNDX",
+      "title": "Miedo a las Alturas",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o111013607_mueca_pxndx",
+      "artist": "PXNDX",
+      "title": "Muñeca",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "narcisistapanda",
+      "artist": "PXNDX",
+      "title": "Narcisista por Excelencia",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pathetica",
+      "artist": "PXNDX",
+      "title": "Pathetica",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "procedimientosparallegar",
+      "artist": "PXNDX",
+      "title": "Procedimientos Para Llegar A Un Común Acuerdo",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "promesasdecepciones",
+      "artist": "PXNDX",
+      "title": "Promesas/Decepciones",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "soviolentosomacabro",
+      "artist": "PXNDX",
+      "title": "So Violento So Macabro",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "untipodeindulgencia",
+      "artist": "PXNDX",
+      "title": "Un Tipo De Indulgencia",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008208",
+      "artist": "Ra Ra Riot",
+      "title": "Boy",
+      "layout": "d0,1 b2 v5,6 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008193",
+      "artist": "Ra Ra Riot",
+      "title": "Can You Tell",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "15stepv3",
+      "artist": "Radiohead",
+      "title": "15 Step",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "225",
+      "artist": "Radiohead",
+      "title": "2+2=5",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "anycanplayguitv1",
+      "artist": "Radiohead",
+      "title": "Anyone Can Play Guitar",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "jigfallinplace",
+      "artist": "Radiohead",
+      "title": "Jigsaw Falling Into Place",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "radioheadnosurprises",
+      "artist": "Radiohead",
+      "title": "No Surprises",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "radioheadparanoidandroid",
+      "artist": "Radiohead",
+      "title": "Paranoid Android",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "radioheadstreetspirit",
+      "artist": "Radiohead",
+      "title": "Street Spirit (Fade Out)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008224",
+      "artist": "Rainbowdragoneyes",
+      "title": "Heavy Weather - The Storm ov The Undead",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011299",
+      "artist": "Rainbowdragoneyes",
+      "title": "Thrashbaath",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "engel",
+      "artist": "Rammstein",
+      "title": "Engel",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o663150041_sonne_rammstein",
+      "artist": "Rammstein",
+      "title": "Sonne",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tequiero",
+      "artist": "Rammstein",
+      "title": "Te Quiero Puta!",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rancid_salvationv6",
+      "artist": "Rancid",
+      "title": "Salvation",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "estecorazon",
+      "artist": "RBD",
+      "title": "Este Corazón",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o759994759",
+      "artist": "RBD",
+      "title": "Sálvame",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o291244726_sendmeanangel_r",
+      "artist": "Real Life",
+      "title": "Send Me an Angel",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "save_me",
+      "artist": "Remy Zero",
+      "title": "Save Me",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ridinthestormout_orig_v1",
+      "artist": "REO Speedwagon",
+      "title": "Ridin' the Storm Out (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "junglefuryv6",
+      "artist": "Rhett Nelson",
+      "title": "Power Rangers Jungle Fury Theme",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "historiadeuntaximt",
+      "artist": "Ricado Arjona",
+      "title": "Historia De Un Taxi",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "chalaheadchalalatino",
+      "artist": "Ricardo Silva",
+      "title": "Cha-La Head-Cha-La (Latino)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o245129962_chalaheadchalat",
+      "artist": "Ricardo Silva",
+      "title": "Cha-La Head-Cha-La (TV Size)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008699",
+      "artist": "Rishloo",
+      "title": "Diamond Eyes",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007643",
+      "artist": "Rishloo",
+      "title": "Downhill",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008859",
+      "artist": "Rishloo",
+      "title": "Feathergun in the Garden of the Sun",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006071",
+      "artist": "Rishloo",
+      "title": "Katsushika",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008712",
+      "artist": "Rishloo",
+      "title": "Keyhole in the Sky",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005816",
+      "artist": "Rishloo",
+      "title": "River of Glass",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008965",
+      "artist": "Rishloo",
+      "title": "Scissorlips",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006075",
+      "artist": "Rishloo",
+      "title": "Turning Sheep Into Goats/Systematomatic",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008980",
+      "artist": "Rishloo",
+      "title": "Weevil Bride",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "amoreternordaenvmx",
+      "artist": "Rocio Durcal",
+      "title": "Amor Eterno",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o398495232",
+      "artist": "Rocio Durcal",
+      "title": "Costumbres",
+      "layout": "d b0 v2 s3,4",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o391967347_pokmonjohtolati",
+      "artist": "Rodrigo Zea",
+      "title": "Pokémon Johto (Latino)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bpn_powerrangers_final",
+      "artist": "Ron Wasserman",
+      "title": "Go Go Power Rangers (Long Version)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mmprtv_v1",
+      "artist": "Ron Wasserman",
+      "title": "Mighty Morphin Power Rangers Theme (TV Version)",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005820",
+      "artist": "Rose of Jericho",
+      "title": "Buried Cold (RB3 version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005933",
+      "artist": "Rose of Jericho",
+      "title": "Find Beauty",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5012040",
+      "artist": "Rose of Jericho",
+      "title": "Free Fall",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006257",
+      "artist": "Rose of Jericho",
+      "title": "Midnight Eyes (RB3 version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010091",
+      "artist": "Rose of Jericho",
+      "title": "Romancing the Ordinary",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006875",
+      "artist": "Rose of Jericho",
+      "title": "These City Lights",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007166",
+      "artist": "Savage Minotaur",
+      "title": "Melted Picks & Broken Sticks",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "scatmanv2v2",
+      "artist": "Scatman John",
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "03noonelikeyou",
+      "artist": "Scorpions",
+      "title": "No One Like You (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "scorprylh",
+      "artist": "Scorpions",
+      "title": "Rock You Like a Hurricane (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006014",
+      "artist": "Seether",
+      "title": "Country Song",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o142481382",
+      "artist": "Selena Gomez & The Scene",
+      "title": "Love You Like A Love Song",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "klop_threshold",
+      "artist": "Sex Bob-Omb",
+      "title": "Threshold",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "anarchyintheuk_full",
+      "artist": "Sex Pistols",
+      "title": "Anarchy in the U.K.",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006741",
+      "artist": "Shylo Elliott",
+      "title": "Cool Concoction",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007895",
+      "artist": "Shylo Elliott",
+      "title": "Dark Escape",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010211",
+      "artist": "Shylo Elliott",
+      "title": "Phantasmal Cruise",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006191",
+      "artist": "Silverstein",
+      "title": "Burning Hearts",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o515644151_addicted_simple",
+      "artist": "Simple Plan",
+      "title": "Addicted",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "HYK-SP-GrowUp",
+      "artist": "Simple Plan",
+      "title": "Grow Up",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "HYKIdDoAnythingSP",
+      "artist": "Simple Plan",
+      "title": "I'd Do Anything",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "imjustakid",
+      "artist": "Simple Plan",
+      "title": "I'm Just a Kid",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "HYKPerfectSP",
+      "artist": "Simple Plan",
+      "title": "Perfect",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "theworstdayever",
+      "artist": "Simple Plan",
+      "title": "The Worst Day Ever",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "youdontmeananything",
+      "artist": "Simple Plan",
+      "title": "You Don't Mean Anything",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o845286693_mientestanbien",
+      "artist": "Sin Bandera",
+      "title": "Mientes Tan Bien",
+      "layout": "d b v1 s2,3",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "quemealcancelavidakr",
+      "artist": "Sin Bandera",
+      "title": "Que Me Alcance La Vida",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "SinBandera_SiTuNoEstas",
+      "artist": "Sin Bandera",
+      "title": "Si Tú No Estás",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o292761627_bangarangftsira",
+      "artist": "Skrillex",
+      "title": "Bangarang (ft. Sirah)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007124",
+      "artist": "Sleeping with Sirens",
+      "title": "If You Can't Hang",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007018",
+      "artist": "SNMT",
+      "title": "PON DE FIOR",
+      "layout": "d0,1 b2,3 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009260",
+      "artist": "SNMT",
+      "title": "SEX",
+      "layout": "d b v2,3 s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blackbettykris",
+      "artist": "Spiderbait",
+      "title": "Black Betty",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thetouch",
+      "artist": "Stan Bush",
+      "title": "The Touch (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o728977389",
+      "artist": "STARSET",
+      "title": "ECHO",
+      "layout": "d0,1 b2 v5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mydemons",
+      "artist": "Starset",
+      "title": "My Demons",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o162431488_alorsondanse_st",
+      "artist": "Stromae",
+      "title": "Alors on danse",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ollie_alorsondanse",
+      "artist": "Stromae",
+      "title": "Alors on danse",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepqueen_papaoutai",
+      "artist": "Stromae",
+      "title": "Papaoutai",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006521",
+      "artist": "Suicide Silence",
+      "title": "Slaves to Substance",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006646",
+      "artist": "Suicide Silence",
+      "title": "You Only Live Once",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "turboprov2",
+      "artist": "Super Power",
+      "title": "Power Rangers Turbo, Go!",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cut_brb",
+      "artist": "Sweet",
+      "title": "Ballroom Blitz",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lonelyday_v2",
+      "artist": "System of a Down",
+      "title": "Lonely Day",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "soadprotecttheland",
+      "artist": "System of a Down",
+      "title": "Protect The Land",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "SugarCCC",
+      "artist": "System of a Down",
+      "title": "Sugar",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "allthethingsshesaid_v1",
+      "artist": "t.A.T.u.",
+      "title": "All the Things She Said",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "talktalkitsmylife",
+      "artist": "Talk Talk",
+      "title": "It's My Life",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tc_standout",
+      "artist": "Tevin Campbell",
+      "title": "Stand Out",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008501",
+      "artist": "Texas in July",
+      "title": "Hook, Line, and Sinner (RB3 version)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006142",
+      "artist": "Texas in July",
+      "title": "Magnolia",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005893",
+      "artist": "The Acro-Brats",
+      "title": "Hair Trigger",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "weightband",
+      "artist": "The Band",
+      "title": "The Weight",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "goodvibrationsog",
+      "artist": "The Beach Boys",
+      "title": "Good Vibrations",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hth_magma",
+      "artist": "The Black Crowes",
+      "title": "Hard to Handle",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "vktrs",
+      "artist": "The Buggles",
+      "title": "Video Killed the Radio Star",
+      "layout": "d0,1 b2,3 v4,5 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "efilbuzzpike",
+      "artist": "The Buzzcocks",
+      "title": "Ever Fallen in Love",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thedevilwentdowntogeorgiat",
+      "artist": "The Charlie Daniels Band",
+      "title": "The Devil Went Down to Georgia",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006370",
+      "artist": "The Cold Goodnight",
+      "title": "Hurricane",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006069",
+      "artist": "The Cold Goodnight",
+      "title": "Revenants",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006785",
+      "artist": "The Dillinger Escape Plan",
+      "title": "Farewell, Mona Lisa",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011053",
+      "artist": "The Dillinger Escape Plan",
+      "title": "Gold Teeth on a Bum",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011316",
+      "artist": "The Dillinger Escape Plan",
+      "title": "Parasitic Twins",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011694",
+      "artist": "The Dillinger Escape Plan",
+      "title": "Widower",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "DrumsSurfing4",
+      "artist": "The Drums",
+      "title": "Let's Go Surfing",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yoshimi2",
+      "artist": "The Flaming Lips",
+      "title": "Yoshimi Battles the Pink Robots Pt. 2",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010097",
+      "artist": "The Guild feat. Felicia Day",
+      "title": "(I'm the One That's) Cool",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006261",
+      "artist": "The Haunted",
+      "title": "No Ghost",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007402",
+      "artist": "The Haunted",
+      "title": "Trenches",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mortalkombat",
+      "artist": "The Immortals",
+      "title": "Mortal Kombat (Techno Syndrome)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008417",
+      "artist": "The Irresponsibles",
+      "title": "Break Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008416",
+      "artist": "The Irresponsibles",
+      "title": "Pretty Boy",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heyjoe",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Hey Joe",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kinksalldayv2",
+      "artist": "The Kinks",
+      "title": "All Day and All of the Night",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "youreallygotme",
+      "artist": "The Kinks",
+      "title": "You Really Got Me",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006723",
+      "artist": "The Limousines",
+      "title": "Very Busy People",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fugg_carrymehome",
+      "artist": "The Living End",
+      "title": "Carry Me Home",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "inspacerb3",
+      "artist": "The Mighty RAW",
+      "title": "Power Rangers in Space Theme",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "spdrereredux",
+      "artist": "The Mighty RAW",
+      "title": "Power Rangers SPD Theme",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006357",
+      "artist": "The Motion Sick",
+      "title": "30 Lives",
+      "layout": "d0,1,2,3 b4 v7,8 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008770",
+      "artist": "The Motion Sick",
+      "title": "Grace Kelly",
+      "layout": "d0,1,2 b3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ud_demolitionman",
+      "artist": "The Police",
+      "title": "Demolition Man",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "r1999_bip_re_2",
+      "artist": "The Pretenders",
+      "title": "Brass in Pocket",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tattooedlovekrisrnew",
+      "artist": "The Pretenders",
+      "title": "Tattooed Love Boys",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UnchainedMagmalody",
+      "artist": "the Righteous Brothers",
+      "title": "Unchained Melody",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kemstonessugarht7",
+      "artist": "The Rolling Stones",
+      "title": "Brown Sugar",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kemstones-cyhmk-v7gbdvh",
+      "artist": "The Rolling Stones",
+      "title": "Can't You Hear Me Knocking",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cherrybombjim",
+      "artist": "The Runaways",
+      "title": "Cherry Bomb (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shebangsthedrums",
+      "artist": "The Stone Roses",
+      "title": "She Bangs the Drums",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ataeaf_mygen",
+      "artist": "The Who",
+      "title": "My Generation",
+      "layout": "d b0,1 v4,5 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bossofme_pvh",
+      "artist": "They Might Be Giants",
+      "title": "Boss of Me",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007318",
+      "artist": "Thomas Walker",
+      "title": "Flight of the Bumblebee (Rimsky-Korsakov - Piano Version)",
+      "layout": "d b0,1 v s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007088",
+      "artist": "Thomas Walker",
+      "title": "Gymnopédie No. 1 (Satie)",
+      "layout": "d b0,1 v s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007652",
+      "artist": "Thomas Walker",
+      "title": "The Entertainer (Joplin)",
+      "layout": "d b0,1 v s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o749211040_entredostierras",
+      "artist": "Till Lindemann",
+      "title": "Entre Dos Tierras",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010731",
+      "artist": "Tobey McTired",
+      "title": "Acvodad",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5010829",
+      "artist": "Toby Turner",
+      "title": "I Can Swing My Sword (ft. Terabrite)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sogbreakdown",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Breakdown",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sogrefugee",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Refugee",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "operationrb3",
+      "artist": "Trenscenders ft. J7 D'Star",
+      "title": "Power Rangers Operation Overdrive Theme",
+      "layout": "d0,1 b2 v4 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005812",
+      "artist": "Twin Atlantic",
+      "title": "Audience and Audio",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006022",
+      "artist": "Ultra Saturday",
+      "title": "Dawn of the Condoms",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5008331",
+      "artist": "Ultra Saturday",
+      "title": "Little Sister",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006448",
+      "artist": "Ultra Saturday",
+      "title": "Zombies!! (Coming Out Tonight)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5007665",
+      "artist": "Underoath",
+      "title": "In Division",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006433",
+      "artist": "Van Friscia",
+      "title": "Epic Symphony in A Flat Minor, Third Movement: Zero Hour",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011633",
+      "artist": "Van Friscia",
+      "title": "Rise Above",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5011646",
+      "artist": "Van Friscia",
+      "title": "The Duel",
+      "layout": "d0,1,2,3,4,5 b6,7 v s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "athousandmiles",
+      "artist": "Vanessa Carlton",
+      "title": "A Thousand Miles",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "unmillondeprimaveras",
+      "artist": "Vicente Fernández",
+      "title": "Un Millón De Primaveras",
+      "layout": "d b v2,3 s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "BFGDivisionMrMet",
+      "artist": "Video Games",
+      "title": "BFG Division (2x Bass Pedal)",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "EarthAC2",
+      "artist": "Video Games",
+      "title": "Earth (Assassin's Creed II)",
+      "layout": "d0,1 b2 v4,5 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sheepqueen_7thelement",
+      "artist": "Vitas",
+      "title": "The 7th Element",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "senbonzakurawagakkiband",
+      "artist": "Wagakki Band",
+      "title": "Senbonzakura",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yugiohthemelatmgmv0",
+      "artist": "Wayne Sharpe",
+      "title": "Yu-Gi-Oh! Theme (Lat. Ver.)",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5009459",
+      "artist": "Weebl's Stuff",
+      "title": "Amazing Horse",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wheatusteenagedirtbag",
+      "artist": "Wheatus",
+      "title": "Teenage Dirtbag",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whitelion_radarlove1x",
+      "artist": "White Lion",
+      "title": "Radar Love",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5006034",
+      "artist": "Winds of Plague",
+      "title": "California",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "seeyouagainv2_sky",
+      "artist": "Wiz Khalifa Ft. Charlie Puth",
+      "title": "See You Again (Soundtrack)",
+      "layout": "d0,1 b2 v3,4 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ud_headswillroll",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "queagoniamt",
+      "artist": "Yuridia",
+      "title": "Qué Agonía (ft. Ángela Aguilar)",
+      "layout": "d0,1 b2,3 v6,7 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o841319586_yateolvide_yuri",
+      "artist": "Yuridia",
+      "title": "Ya Te Olvide",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o29823828_nada_zoe",
+      "artist": "ZOE",
+      "title": "Nada",
+      "layout": "d0,1 b2,3 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "labiosrotos",
+      "artist": "Zoé",
+      "title": "Labios Rotos",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lunazoe",
+      "artist": "Zoé",
+      "title": "Luna",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sonezoe",
+      "artist": "Zoé",
+      "title": "Soñé",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "zztopgimmeallyourlovin",
+      "artist": "ZZ Top",
+      "title": "Gimme All Your Lovin'",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lagrange",
+      "artist": "ZZ Top",
+      "title": "La Grange",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "zztopsharpdressedman",
+      "artist": "ZZ Top",
+      "title": "Sharp Dressed Man",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

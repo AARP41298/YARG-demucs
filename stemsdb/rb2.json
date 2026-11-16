@@ -1,0 +1,3837 @@
+{
+  "source": "rb2",
+  "songs": [
+    {
+      "con_id": "UGC_5001097",
+      "artist": "3 Inches of Blood",
+      "title": "Battles and Brotherhood",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o68804768_intntalofeatamri",
+      "artist": "3BallMTY",
+      "title": "Inténtalo (feat. América Sierra & El Bebeto)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004999",
+      "artist": "A Day to Remember",
+      "title": "All I Want",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004522",
+      "artist": "A Day to Remember",
+      "title": "Have Faith In Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001794",
+      "artist": "A Day To Remember",
+      "title": "I'm Made of Wax, Larry, What Are You Made Of?",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005000",
+      "artist": "A Day to Remember",
+      "title": "It's Complicated",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "visions",
+      "artist": "Abnormality",
+      "title": "Visions",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "letthereberock",
+      "artist": "AC/DC",
+      "title": "Let There Be Rock",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "girlsnotgrey",
+      "artist": "AFI",
+      "title": "Girl's Not Grey",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005250",
+      "artist": "After the Burial",
+      "title": "Aspiration",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004200",
+      "artist": "After the Burial",
+      "title": "Berzerker",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005155",
+      "artist": "After the Burial",
+      "title": "Cursing Akhenaten",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002577",
+      "artist": "After the Fall",
+      "title": "Stay Up With Me",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "yououghtaknow",
+      "artist": "Alanis Morissette",
+      "title": "You Oughta Know",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000437",
+      "artist": "Alias Unknown",
+      "title": "Top Back",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "maninthebox",
+      "artist": "Alice In Chains",
+      "title": "Man in the Box",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003467",
+      "artist": "Alien Downlink",
+      "title": "Heavy Plastic",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002839",
+      "artist": "Alien Downlink",
+      "title": "I Wanna Be An Alien's Pet",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001708",
+      "artist": "All That Remains",
+      "title": "Days Without",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004336",
+      "artist": "All That Remains",
+      "title": "For We Are Many",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001965",
+      "artist": "All That Remains",
+      "title": "Forever In Your Hands",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004371",
+      "artist": "All That Remains",
+      "title": "Hold On",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004326",
+      "artist": "All That Remains",
+      "title": "The Waiting One",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002137",
+      "artist": "All That Remains",
+      "title": "Undone",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002316",
+      "artist": "All Time Low",
+      "title": "Walls",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005346",
+      "artist": "Alternative Deficit Disorder",
+      "title": "Pylo the Pylon",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003425",
+      "artist": "Amberian Dawn",
+      "title": "Evil Inside Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003883",
+      "artist": "Amberian Dawn",
+      "title": "Fate of the Maiden",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000492",
+      "artist": "Amberian Dawn",
+      "title": "He Sleeps in a Grove",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003367",
+      "artist": "Amberian Dawn",
+      "title": "Incubus",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003426",
+      "artist": "Amberian Dawn",
+      "title": "Kokko - Eagle of Fire",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003362",
+      "artist": "Amberian Dawn",
+      "title": "Lionheart",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005141",
+      "artist": "Amberian Dawn",
+      "title": "Lullaby",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004932",
+      "artist": "Amberian Dawn",
+      "title": "Morning Star",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005116",
+      "artist": "Amberian Dawn",
+      "title": "My Wings Are My Eyes",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000345",
+      "artist": "Amberian Dawn",
+      "title": "River of Tuoni",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004155",
+      "artist": "Amberian Dawn",
+      "title": "Saga",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003034",
+      "artist": "Amberian Dawn",
+      "title": "Shallow Waters",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004020",
+      "artist": "Amberian Dawn",
+      "title": "Snowmaiden",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005142",
+      "artist": "Amberian Dawn",
+      "title": "Sons of Seven Stars",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005174",
+      "artist": "Amberian Dawn",
+      "title": "Sunrise",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002445",
+      "artist": "Amberian Dawn",
+      "title": "Valkyries",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002051",
+      "artist": "Aminal",
+      "title": "Drag Me Away",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001485",
+      "artist": "Anarbor",
+      "title": "Let The Games Begin",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "getclean",
+      "artist": "Anarchy Club",
+      "title": "Get Clean",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000804",
+      "artist": "Andrew Buch",
+      "title": "Trippolette",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002971",
+      "artist": "Andy Timmons",
+      "title": "Deliver Us",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004105",
+      "artist": "Andy Timmons",
+      "title": "Headed for the Ditch",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002428",
+      "artist": "Andy Timmons",
+      "title": "Redemption",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002674",
+      "artist": "Anti-Flag",
+      "title": "We Are the One",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005189",
+      "artist": "Architects",
+      "title": "Learn to Live",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003481",
+      "artist": "Asking Alexandria",
+      "title": "A Prophecy",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003447",
+      "artist": "Asking Alexandria",
+      "title": "Hey There Mr. Brooks",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003313",
+      "artist": "Asking Alexandria",
+      "title": "The Final Episode (Let's Change the Channel)",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005119",
+      "artist": "Attack Attack!",
+      "title": "Sexual Man Chocolate",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004113",
+      "artist": "Attack Attack!",
+      "title": "Smokahontas",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001464",
+      "artist": "Attack Attack!",
+      "title": "Stick Stickly",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "almosteasy",
+      "artist": "Avenged Sevenfold",
+      "title": "Almost Easy",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shootingstar",
+      "artist": "Bad Company",
+      "title": "Shooting Star",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002478",
+      "artist": "Band of Horses",
+      "title": "Is There a Ghost",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003366",
+      "artist": "Band of Horses",
+      "title": "No One's Gonna Love You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002297",
+      "artist": "Band of Horses",
+      "title": "The Funeral",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003067",
+      "artist": "Band of Horses",
+      "title": "The Great Salt Lake",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001804",
+      "artist": "Band of Skulls",
+      "title": "I Know What I Am",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002884",
+      "artist": "Bang Camaro",
+      "title": "Bang Camaro",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003278",
+      "artist": "Bang Camaro",
+      "title": "Blood Red Rock",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nightlies",
+      "artist": "Bang Camaro",
+      "title": "Night Lies",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002886",
+      "artist": "Bang Camaro",
+      "title": "Nightlife Commando",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001527",
+      "artist": "Bang Camaro",
+      "title": "Push Push (Lady Lightning)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003671",
+      "artist": "Bang Camaro",
+      "title": "Revolution",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002446",
+      "artist": "Bang Camaro",
+      "title": "Swallow the Razor",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002291",
+      "artist": "Bang on a Can All-Stars / David Lang",
+      "title": "Cheating, Lying, Stealing",
+      "layout": "d0,1,2 b3,4 v s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002292",
+      "artist": "Bang on a Can All-Stars / Evan Ziporyn",
+      "title": "ShadowBang (Head)",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002738",
+      "artist": "Bang on a Can All-Stars / Julia Wolfe",
+      "title": "Believing",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002293",
+      "artist": "Bang on a Can All-Stars / Michael Gordon",
+      "title": "Yo Shakespeare",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sowhatchawant",
+      "artist": "Beastie Boys",
+      "title": "So What'cha Want",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "epro",
+      "artist": "Beck",
+      "title": "E-Pro",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001352",
+      "artist": "Between the Buried and Me",
+      "title": "Mordecai",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004365",
+      "artist": "Between the Buried and Me",
+      "title": "Obfuscation",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rebelgirl",
+      "artist": "Bikini Kill",
+      "title": "Rebel Girl",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "whitewedding",
+      "artist": "Billy Idol",
+      "title": "White Wedding (Part 1)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002081",
+      "artist": "Black Gold",
+      "title": "Plans & Reveries",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004930",
+      "artist": "Blanks.",
+      "title": "(Lone Wolf) Soccer Mom",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004933",
+      "artist": "Blanks.",
+      "title": "Lodger",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004931",
+      "artist": "Blanks.",
+      "title": "Pouncer",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004738",
+      "artist": "Blessthefall",
+      "title": "Hey Baby, Here's That Song You Wanted",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001204",
+      "artist": "Blondie",
+      "title": "Atomic",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "onewayoranother",
+      "artist": "Blondie",
+      "title": "One Way or Another",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003527",
+      "artist": "Bluefusion",
+      "title": "(Random Song)",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005169",
+      "artist": "Bluefusion",
+      "title": "Fighting Spirit",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004311",
+      "artist": "Bluefusion",
+      "title": "Industrialized",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tangledupinblue",
+      "artist": "Bob Dylan",
+      "title": "Tangled Up in Blue",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "livinonaprayer",
+      "artist": "Bon Jovi",
+      "title": "Livin' on a Prayer",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shouldertotheplow",
+      "artist": "Breaking Wheel",
+      "title": "Shoulder to the Plow",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003320",
+      "artist": "Bumblefoot",
+      "title": "Guitars SUCK",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004987",
+      "artist": "Bumblefoot",
+      "title": "Real",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001455",
+      "artist": "Carl Douglas",
+      "title": "Too Hot To Handle",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004254",
+      "artist": "Chaotrope",
+      "title": "Baptized by Fire",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005324",
+      "artist": "Chaotrope",
+      "title": "Betrayed",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004258",
+      "artist": "Chaotrope",
+      "title": "Ceraunophobia",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005348",
+      "artist": "Chaotrope",
+      "title": "Pandemonium",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005034",
+      "artist": "Chaotrope",
+      "title": "Reaper",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005484",
+      "artist": "Chaotrope",
+      "title": "Septilogy",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003701",
+      "artist": "Chaotrope",
+      "title": "XIV",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hellothere",
+      "artist": "Cheap Trick",
+      "title": "Hello There",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005207",
+      "artist": "Chelsea Grin",
+      "title": "Cheyne Stokes",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004086",
+      "artist": "Children of Nova",
+      "title": "Arcaedion",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005132",
+      "artist": "Children of Nova",
+      "title": "Second Sight Blackout",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001514",
+      "artist": "Children of Nova",
+      "title": "The Complexity of Light",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004853",
+      "artist": "Children of Nova",
+      "title": "The Fall of Aphonia",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005225",
+      "artist": "Children of Nova",
+      "title": "The Order",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004941",
+      "artist": "Children of Nova",
+      "title": "We Collide",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005213",
+      "artist": "Chiodos",
+      "title": "Lexington (Joey Pea-Pot With a Monkey Face)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001535",
+      "artist": "Chrome Coma",
+      "title": "Bow Down",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002361",
+      "artist": "CJ",
+      "title": "Eency Weency Spider",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002360",
+      "artist": "CJ",
+      "title": "Mr. Sun",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001579",
+      "artist": "Clutch",
+      "title": "50,000 Unstoppable Watts",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001591",
+      "artist": "Clutch",
+      "title": "The Mob Goes Wild",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004298",
+      "artist": "Converge",
+      "title": "Dark Horse",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002502",
+      "artist": "Counterfeit Pennies",
+      "title": "Five More Minutes",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002868",
+      "artist": "Creed",
+      "title": "Higher",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001811",
+      "artist": "Damone",
+      "title": "Roll the Dice",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002447",
+      "artist": "Damone",
+      "title": "Serial Killer",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004328",
+      "artist": "Dance Gavin Dance",
+      "title": "Lemon Meringue Tie",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002657",
+      "artist": "Dance Gavin Dance",
+      "title": "Tree Village",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000869",
+      "artist": "Dear and the Headlights",
+      "title": "Talk About",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001192",
+      "artist": "Despised Icon",
+      "title": "Day of Mourning",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005339",
+      "artist": "Devin Townsend",
+      "title": "ZTO",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "uncontrollableurge",
+      "artist": "Devo",
+      "title": "Uncontrollable Urge",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004820",
+      "artist": "Dimmu Borgir",
+      "title": "The Serpentine Offering",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "feelthepain",
+      "artist": "Dinosaur Jr.",
+      "title": "Feel the Pain",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "downwiththesickness",
+      "artist": "Disturbed",
+      "title": "Down with the Sickness",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000406",
+      "artist": "DnA's Evolution",
+      "title": "The Heist",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "panicattack",
+      "artist": "Dream Theater",
+      "title": "Panic Attack",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002676",
+      "artist": "Drive Shaft",
+      "title": "You All Everybody",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002559",
+      "artist": "Drive-By Truckers",
+      "title": "This F***ing Job",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001770",
+      "artist": "Drowning Pool",
+      "title": "Bodies",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hungrylikethewolf",
+      "artist": "Duran Duran",
+      "title": "Hungry Like the Wolf",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pumpitup",
+      "artist": "Elvis Costello",
+      "title": "Pump It Up",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o141854859_cliffsofdoveror",
+      "artist": "Eric Johnson",
+      "title": "Cliffs of Dover",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004788",
+      "artist": "Evanescence",
+      "title": "Going Under",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002089",
+      "artist": "Every Avenue",
+      "title": "Where Were You?",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003348",
+      "artist": "Evile",
+      "title": "Devoid of Thought",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003462",
+      "artist": "Evile",
+      "title": "Genocide",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005204",
+      "artist": "Evile",
+      "title": "Hundred Wrathful Deities",
+      "layout": "d0,1,2,3,4 b5,6 v s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002844",
+      "artist": "Evile",
+      "title": "Infected Nation",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005227",
+      "artist": "Evile",
+      "title": "Metamorphosis",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005230",
+      "artist": "Evile",
+      "title": "My Parasite",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002969",
+      "artist": "Evile",
+      "title": "Nosophoros",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002462",
+      "artist": "Evile",
+      "title": "Now Demolition",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003347",
+      "artist": "Evile",
+      "title": "Plague to End All Plagues",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003622",
+      "artist": "Evile",
+      "title": "Time No More",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005228",
+      "artist": "Fake Problems",
+      "title": "5678",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004175",
+      "artist": "Fake Problems",
+      "title": "Soulless",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002129",
+      "artist": "Father Octopus",
+      "title": "Blink",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001624",
+      "artist": "Finger Eleven",
+      "title": "Paralyzer",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003532",
+      "artist": "Firewind",
+      "title": "Head Up High",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004719",
+      "artist": "Firewind",
+      "title": "The Fire and the Fury",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003815",
+      "artist": "Firewind",
+      "title": "World on Fire",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001105",
+      "artist": "Five Finger Death Punch",
+      "title": "Burn it Down",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002994",
+      "artist": "Five Finger Death Punch",
+      "title": "Hard To See",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "goyourownway",
+      "artist": "Fleetwood Mac",
+      "title": "Go Your Own Way",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001790",
+      "artist": "Flight of the Conchords",
+      "title": "Business Time",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001555",
+      "artist": "Flight of the Conchords",
+      "title": "Demon Woman",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001646",
+      "artist": "Flight of the Conchords",
+      "title": "The Most Beautiful Girl (In the Room)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001319",
+      "artist": "Flogging Molly",
+      "title": "Drunken Lullabies (Live)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001321",
+      "artist": "Flogging Molly",
+      "title": "Requiem for a Dying Song",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "everlong",
+      "artist": "Foo Fighters",
+      "title": "Everlong",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001202",
+      "artist": "Free Spirit",
+      "title": "Far Away from Heaven",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003500",
+      "artist": "Free Spirit",
+      "title": "Pale Sister of Light",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003266",
+      "artist": "Free Spirit",
+      "title": "Until the Night",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003889",
+      "artist": "Freen in Green",
+      "title": "Erratic Eruption",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002103",
+      "artist": "Freen in Green",
+      "title": "Frontier Factory",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004916",
+      "artist": "Freen in Green",
+      "title": "Iceblind",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005033",
+      "artist": "Freen in Green",
+      "title": "Nocturnal Wasteland",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002920",
+      "artist": "Freen in Green",
+      "title": "Ramp Truck",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004990",
+      "artist": "Freezepop",
+      "title": "Special Effects",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000413",
+      "artist": "Giant Target",
+      "title": "In Memories",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000772",
+      "artist": "Giant Target",
+      "title": "Signs",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000727",
+      "artist": "Glass Hammer",
+      "title": "Hyperbole",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000558",
+      "artist": "Glass Hammer",
+      "title": "Sleep On",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wegotthebeat",
+      "artist": "Go-Go's",
+      "title": "We Got the Beat",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003943",
+      "artist": "Graveyard BBQ",
+      "title": "BBQ Nation",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003503",
+      "artist": "Graveyard BBQ",
+      "title": "Cheat on the Church",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005140",
+      "artist": "Graveyard BBQ",
+      "title": "Creamskull Boogie",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003961",
+      "artist": "Graveyard BBQ",
+      "title": "Ride the Stache",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004913",
+      "artist": "Graveyard BBQ",
+      "title": "The Clothes That Makes the Man",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shacklersrevenge",
+      "artist": "Guns N' Roses",
+      "title": "Shackler's Revenge",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001674",
+      "artist": "Hyro da Hero",
+      "title": "Dirty South Rock",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003229",
+      "artist": "Hyro da Hero",
+      "title": "Lights Out",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001216",
+      "artist": "In This Moment",
+      "title": "Mechanical Love",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003609",
+      "artist": "In This Moment",
+      "title": "The Gun Show",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pda",
+      "artist": "Interpol",
+      "title": "PDA",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003978",
+      "artist": "Iron & Wine",
+      "title": "Flightless Bird, American Mouth",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002528",
+      "artist": "iwrestledabearonce",
+      "title": "Tastes Like Kevin Bacon",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003344",
+      "artist": "iwrestledabearonce",
+      "title": "You Ain't No Family",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003729",
+      "artist": "James Silva",
+      "title": "I MAED A GAM3 W1TH Z0MB1ES 1N IT !!!1",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000799",
+      "artist": "James William Roy",
+      "title": "Paper Valentines",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001570",
+      "artist": "James William Roy",
+      "title": "Shiny Dark Bar",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mountainsong",
+      "artist": "Jane's Addiction",
+      "title": "Mountain Song",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aqualung",
+      "artist": "Jethro Tull",
+      "title": "Aqualung",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "themiddle",
+      "artist": "Jimmy Eat World",
+      "title": "The Middle",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "badreputation",
+      "artist": "Joan Jett",
+      "title": "Bad Reputation",
+      "layout": "d0,1,2,3 b4 v7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002229",
+      "artist": "Job For A Cowboy",
+      "title": "Unfurling A Darkened Gospel",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001565",
+      "artist": "Joe Sibol",
+      "title": "Hot Sexy Girls",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003182",
+      "artist": "Jonathan Coulton",
+      "title": "Betty and Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005417",
+      "artist": "Jonathan Coulton",
+      "title": "Big Bad World One",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003305",
+      "artist": "Jonathan Coulton",
+      "title": "Chiron Beta Prime",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001547",
+      "artist": "Jonathan Coulton",
+      "title": "Code Monkey",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000767",
+      "artist": "Jonathan Coulton",
+      "title": "Creepy Doll",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001277",
+      "artist": "Jonathan Coulton",
+      "title": "Ikea",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002744",
+      "artist": "Jonathan Coulton",
+      "title": "Mandelbrot Set",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002742",
+      "artist": "Jonathan Coulton",
+      "title": "Shop Vac",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000722",
+      "artist": "Jonathan Coulton",
+      "title": "The Future Soon",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "anywayyouwantit",
+      "artist": "Journey",
+      "title": "Any Way You Want It",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "painkiller",
+      "artist": "Judas Priest",
+      "title": "Painkiller",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "carryonwaywardson",
+      "artist": "Kansas",
+      "title": "Carry On Wayward Son",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001447",
+      "artist": "KMFDM",
+      "title": "A Drug Against War",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001220",
+      "artist": "KMFDM",
+      "title": "Juke Joint Jezebel",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000972",
+      "artist": "Kristin Hersh",
+      "title": "Fortune",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000708",
+      "artist": "Kristin Hersh",
+      "title": "Mississippi Kite",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pretendweredead",
+      "artist": "L7",
+      "title": "Pretend We're Dead",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ourtruth",
+      "artist": "Lacuna Coil",
+      "title": "Our Truth",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001288",
+      "artist": "Lacuna Coil",
+      "title": "Survive",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003146",
+      "artist": "Lemon Demon",
+      "title": "The Ultimate Showdown (RBN Mix)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "welcometothe",
+      "artist": "Libyans",
+      "title": "Welcome to the Neighborhood",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "onestepcloser",
+      "artist": "Linkin Park",
+      "title": "One Step Closer",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "myownworstenemy",
+      "artist": "Lit",
+      "title": "My Own Worst Enemy",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "deluxe",
+      "artist": "Lush",
+      "title": "De-Luxe",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002715",
+      "artist": "Man Parts",
+      "title": "Molten Death",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001844",
+      "artist": "Man Parts",
+      "title": "Motorcide",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "colonyofbirchmen",
+      "artist": "Mastodon",
+      "title": "Colony of Birchmen",
+      "layout": "d0,1,2,3,4 b5 v8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005181",
+      "artist": "Mayday Parade",
+      "title": "Jamie All Over",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001635",
+      "artist": "Mayday Parade",
+      "title": "When I Get Home You're So Dead",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005393",
+      "artist": "MC Frontalot",
+      "title": "Bizarro Genius Baby",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001436",
+      "artist": "MC Frontalot",
+      "title": "Goth Girls",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005406",
+      "artist": "MC Frontalot",
+      "title": "Hassle: The Dorkening",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002911",
+      "artist": "Me Talk Pretty",
+      "title": "Wake Up",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "peacesells",
+      "artist": "Megadeth",
+      "title": "Peace Sells",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005016",
+      "artist": "Memphis May Fire",
+      "title": "Action/Adventure",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002233",
+      "artist": "Meshuggah",
+      "title": "Bleed",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "battery",
+      "artist": "Metallica",
+      "title": "Battery",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001180",
+      "artist": "Midnight Riders",
+      "title": "Midnight Ride",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001181",
+      "artist": "Midnight Riders",
+      "title": "One Bad Man",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003885",
+      "artist": "Mike Orlando",
+      "title": "Burn",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004530",
+      "artist": "Mike Phirman",
+      "title": "Lollytown",
+      "layout": "d b v2,3 s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004752",
+      "artist": "Miss May I",
+      "title": "Relentless Chaos",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "floaton",
+      "artist": "Modest Mouse",
+      "title": "Float On",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005462",
+      "artist": "Motionless In White",
+      "title": "Abigail",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aceofspades",
+      "artist": "Motörhead",
+      "title": "Ace of Spades '08",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003886",
+      "artist": "My Morning Jacket",
+      "title": "I'm Amazed",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005369",
+      "artist": "Mystakin",
+      "title": "A Fresh Start",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005077",
+      "artist": "Mystakin",
+      "title": "Autumns of Optimism",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "drainyou",
+      "artist": "Nirvana",
+      "title": "Drain You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004569",
+      "artist": "Nonpoint",
+      "title": "Alive and Kicking",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004173",
+      "artist": "Nonpoint",
+      "title": "Bullet With a Name",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003225",
+      "artist": "Norma Jean",
+      "title": "Deathbed Atheist",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003224",
+      "artist": "Norma Jean",
+      "title": "Leaderless and Self Enlisted",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003216",
+      "artist": "Norma Jean",
+      "title": "The Anthem of the Angry Brides",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "spiritinthesky",
+      "artist": "Norman Greenbaum",
+      "title": "Spirit in the Sky",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002436",
+      "artist": "Nothing More",
+      "title": "Fat Kid",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000777",
+      "artist": "Of Last Resort",
+      "title": "Fade Away",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004024",
+      "artist": "Of Mice & Men",
+      "title": "Second & Sebring",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005120",
+      "artist": "Of Mice & Men",
+      "title": "Those in Glass Houses",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005221",
+      "artist": "of Montreal",
+      "title": "An Eluardian Instance",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001289",
+      "artist": "of Montreal",
+      "title": "Heimdalsgate Like a Promethean Curse",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004232",
+      "artist": "OK Go",
+      "title": "White Knuckles",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005107",
+      "artist": "OK Go",
+      "title": "White Knuckles - The Big Robot Remix",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003790",
+      "artist": "Otep",
+      "title": "Smash the Control Machine",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nineintheafternoon",
+      "artist": "Panic at the Disco",
+      "title": "Nine in the Afternoon",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o825047328_lastresortorigi",
+      "artist": "Papa Roach",
+      "title": "Last Resort (Original Version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thatswhatyouget",
+      "artist": "Paramore",
+      "title": "That's What You Get",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002239",
+      "artist": "Parry Gripp",
+      "title": "Last Train To Awesometown",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003213",
+      "artist": "Parry Gripp",
+      "title": "Nom Nom Nom Nom Nom Nom Nom",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001873",
+      "artist": "Parry Gripp",
+      "title": "The Girl at the Video Game Store",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002213",
+      "artist": "Paul Henry Smith & The Fauxharmonic Orchestra",
+      "title": "Hungarian Dance No. 5 (Brahms)",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alive",
+      "artist": "Pearl Jam",
+      "title": "Alive",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004087",
+      "artist": "Periphery",
+      "title": "Buttersnips",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005249",
+      "artist": "Periphery",
+      "title": "Icarus Lives",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003777",
+      "artist": "Pink Flag",
+      "title": "Dirty Hair Party",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000594",
+      "artist": "Pink Flag",
+      "title": "Nancy Drew",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003866",
+      "artist": "Pink Flag",
+      "title": "Roman Candle",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005226",
+      "artist": "Poets of the Fall",
+      "title": "Lift",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004723",
+      "artist": "Portugal. The Man",
+      "title": "Do You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "testify",
+      "artist": "Rage Against the Machine",
+      "title": "Testify",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004826",
+      "artist": "Rainbowdragoneyes",
+      "title": "Creatures ov Deception",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "roundandround",
+      "artist": "Ratt",
+      "title": "Round and Round",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "giveitaway",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Give It Away",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "giveitaway2",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Give It Away",
+      "layout": "d0,1,2,3,4 b5 v8,9 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002440",
+      "artist": "Reverend Horton Heat",
+      "title": "Death Metal Guys",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002185",
+      "artist": "Reverend Horton Heat",
+      "title": "Indigo Friends",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003695",
+      "artist": "Rhune Kincaid",
+      "title": "iPhone",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "giveitall",
+      "artist": "Rise Against",
+      "title": "Give It All",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004354",
+      "artist": "Riverboat Gamblers",
+      "title": "Robots May Break Your Heart",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005341",
+      "artist": "Robby Suavé",
+      "title": "Around the World",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004397",
+      "artist": "Robby Suavé",
+      "title": "Bean",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003364",
+      "artist": "Robby Suavé",
+      "title": "Electro-Heaven",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002464",
+      "artist": "Robby Suavé",
+      "title": "Everyone I Know is an Alcoholic",
+      "layout": "d0,1,2,3,4,5 b v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005344",
+      "artist": "Rockapella",
+      "title": "Bang",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003011",
+      "artist": "Rodrigo y Gabriela",
+      "title": "Buster Voodoo",
+      "layout": "d b0,1 v s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004013",
+      "artist": "Rodrigo y Gabriela",
+      "title": "Hanuman",
+      "layout": "d b0,1 v s4,5",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003121",
+      "artist": "Rose of Jericho",
+      "title": "Beautiful Machine",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000484",
+      "artist": "Rose of Jericho",
+      "title": "Buried Cold",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004126",
+      "artist": "Rose of Jericho",
+      "title": "Midnight Eyes",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004135",
+      "artist": "Rose of Jericho",
+      "title": "Signed With Love",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003265",
+      "artist": "Rose of Jericho",
+      "title": "Take Me Away",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002438",
+      "artist": "Rose of Jericho",
+      "title": "Wrong Side of the Sky",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thetrees",
+      "artist": "Rush",
+      "title": "The Trees (Vault Edition)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002190",
+      "artist": "Scratching The Itch",
+      "title": "End Of This",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000895",
+      "artist": "Scratching The Itch",
+      "title": "Lemon Juice",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000712",
+      "artist": "Scratching The Itch",
+      "title": "The Buddy Disease",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003093",
+      "artist": "Scratching The Itch",
+      "title": "Why Bother?",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001375",
+      "artist": "Scratching The Itch",
+      "title": "You're My Everything",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001679",
+      "artist": "Sea Wolf",
+      "title": "You're A Wolf",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002786",
+      "artist": "Seether",
+      "title": "Fake It",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001771",
+      "artist": "Seether",
+      "title": "Remedy",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002764",
+      "artist": "Seether",
+      "title": "Rise Above This",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001459",
+      "artist": "Senses Fail",
+      "title": "Lady in a Blue Dress",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004693",
+      "artist": "Shylo Elliott",
+      "title": "Alpha Strike",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004099",
+      "artist": "Shylo Elliott",
+      "title": "Bittersweet Melancholy",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004310",
+      "artist": "Shylo Elliott",
+      "title": "Drum Exercises for the Sufficiently Masochistic",
+      "layout": "d0,1,2,3,4,5 b v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004005",
+      "artist": "Shylo Elliott",
+      "title": "Light",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004305",
+      "artist": "Shylo Elliott",
+      "title": "P.W.M.O.",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001980",
+      "artist": "Silverstein",
+      "title": "American Dream",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lazyeye",
+      "artist": "Silversun Pickups",
+      "title": "Lazy Eye",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000548",
+      "artist": "Skindred",
+      "title": "Stand for Something",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003420",
+      "artist": "Sleater-Kinney",
+      "title": "Entertain",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003543",
+      "artist": "Sleater-Kinney",
+      "title": "Jumpers",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003280",
+      "artist": "Sleater-Kinney",
+      "title": "Rollercoaster",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005219",
+      "artist": "Sleeping with Sirens",
+      "title": "If I'm James Dean, You're Audrey Hepburn",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "today",
+      "artist": "Smashing Pumpkins",
+      "title": "Today",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iwaswrong",
+      "artist": "Social Distortion",
+      "title": "I Was Wrong",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004748",
+      "artist": "Sonata Arctica",
+      "title": "Flag in the Ground",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003529",
+      "artist": "Songs To Wear Pants To",
+      "title": "Shoot The Zombies",
+      "layout": "d0,1,2 b v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004214",
+      "artist": "Songs To Wear Pants To",
+      "title": "Stevie",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "teenageriot",
+      "artist": "Sonic Youth",
+      "title": "Teen Age Riot",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "spoonman",
+      "artist": "Soundgarden",
+      "title": "Spoonman",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "spoonman2",
+      "artist": "Soundgarden",
+      "title": "Spoonman",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "conventionallover",
+      "artist": "Speck",
+      "title": "Conventional Lover",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000202",
+      "artist": "Speck",
+      "title": "Grumpytown",
+      "layout": "d0,1,2 b3 v6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000310",
+      "artist": "Speck",
+      "title": "VP of Booty Reports",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "coolforcats",
+      "artist": "Squeeze",
+      "title": "Cool for Cats",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004281",
+      "artist": "Stan Bush",
+      "title": "The Touch",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005029",
+      "artist": "Stan Bush",
+      "title": "Til All Are One",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004186",
+      "artist": "Steam Powered Giraffe",
+      "title": "Electricity is in My Soul",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002814",
+      "artist": "Steel Train",
+      "title": "Turnpike Ghost",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bodhisattva",
+      "artist": "Steely Dan",
+      "title": "Bodhisattva",
+      "layout": "d0,1,2 b3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rocknme",
+      "artist": "Steve Miller Band",
+      "title": "Rock'n Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000996",
+      "artist": "Steve Vai",
+      "title": "For the Love of God (Live)",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001396",
+      "artist": "Steve Vai",
+      "title": "Get the Hell Out of Here",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000997",
+      "artist": "Steve Vai",
+      "title": "The Attitude Song",
+      "layout": "d0,1 b2 v s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002141",
+      "artist": "Steve Vai",
+      "title": "The Crying Machine (Live)",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000993",
+      "artist": "Stroke 9",
+      "title": "Kick Some Ass '09",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000990",
+      "artist": "Stroke 9",
+      "title": "Little Black Backpack '09",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001392",
+      "artist": "Suicide Silence",
+      "title": "Disengage",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004044",
+      "artist": "Suicide Silence",
+      "title": "Wake Up",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003421",
+      "artist": "Sunny Day Real Estate",
+      "title": "In Circles",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003064",
+      "artist": "Sunny Day Real Estate",
+      "title": "Seven",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003030",
+      "artist": "Sunny Day Real Estate",
+      "title": "Song About an Angel",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003590",
+      "artist": "Surfer Blood",
+      "title": "Floating Vibes",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003423",
+      "artist": "Surfer Blood",
+      "title": "Swim",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "eyeofthetiger",
+      "artist": "Survivor",
+      "title": "Eye of the Tiger",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002176",
+      "artist": "Symbion Project",
+      "title": "Exploited & Exposed",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001871",
+      "artist": "Symbion Project",
+      "title": "Synthesized",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "chopsuey",
+      "artist": "System of a Down",
+      "title": "Chop Suey",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "psychokiller",
+      "artist": "Talking Heads",
+      "title": "Psycho Killer",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "masterexploder",
+      "artist": "Tenacious D",
+      "title": "Master Exploder",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002083",
+      "artist": "Testament",
+      "title": "Henchmen Ride",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "soulsofblack",
+      "artist": "Testament",
+      "title": "Souls of Black",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001737",
+      "artist": "Texas in July",
+      "title": "Elements",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001814",
+      "artist": "Texas in July",
+      "title": "Hook, Line, and Sinner",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003474",
+      "artist": "Texas in July",
+      "title": "Uncivilized",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "robtheprezodent",
+      "artist": "That Handsome Devil",
+      "title": "Rob the Prez-O-Dent",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003921",
+      "artist": "The Agonist",
+      "title": "Thank You, Pain.",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ramblinman",
+      "artist": "The Allman Brothers Band",
+      "title": "Ramblin' Man",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002484",
+      "artist": "The Apples in Stereo",
+      "title": "Dance Floor",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002823",
+      "artist": "The Apples in Stereo",
+      "title": "Dream About the Future",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001768",
+      "artist": "the Apples in Stereo",
+      "title": "Energy",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003116",
+      "artist": "The Apples in Stereo",
+      "title": "Hey Elevator",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003117",
+      "artist": "The Apples in Stereo",
+      "title": "No One In the World",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002948",
+      "artist": "The Apples in Stereo",
+      "title": "Told You Once",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001876",
+      "artist": "The Bouncing Souls",
+      "title": "Gasoline",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002516",
+      "artist": "The Bronx",
+      "title": "Knifeman",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001734",
+      "artist": "The Bronx",
+      "title": "Past Lives",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001927",
+      "artist": "The Bronx",
+      "title": "Young Bloods",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005441",
+      "artist": "The Cold Goodnight",
+      "title": "Cool As the Other Side of the Pillow",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000390",
+      "artist": "The Cold Goodnight",
+      "title": "Give",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001364",
+      "artist": "The Dandy Warhols",
+      "title": "Bohemian Like You",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002218",
+      "artist": "The Devil Wears Prada",
+      "title": "Dogs Can Grow Beards All Over",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002062",
+      "artist": "The Devil Wears Prada",
+      "title": "HTML Rulez D00d",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "newkidinschool",
+      "artist": "The Donnas",
+      "title": "New Kid in School",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003157",
+      "artist": "The Everybody",
+      "title": "Surf Spy",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001377",
+      "artist": "The Everybody",
+      "title": "You Got That",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003813",
+      "artist": "The Get Up Kids",
+      "title": "The One You Want",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003351",
+      "artist": "The Get Up Kids",
+      "title": "Your Petty Pretty Things",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alabamagetaway",
+      "artist": "The Grateful Dead",
+      "title": "Alabama Getaway",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "americanwoman",
+      "artist": "The Guess Who",
+      "title": "American Woman",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003330",
+      "artist": "The Guild feat. Felicia Day",
+      "title": "(Do You Wanna Date My) Avatar",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o310435050_mysharonaorigin",
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "ajaggedgorgeouswinter",
+      "artist": "The Main Drag",
+      "title": "A Jagged Gorgeous Winter",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001575",
+      "artist": "The Main Drag",
+      "title": "Car Windows",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000936",
+      "artist": "The Main Drag",
+      "title": "Cease and Desist",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000968",
+      "artist": "The Main Drag",
+      "title": "Don't Let Me Down (Slowly)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000833",
+      "artist": "The Main Drag",
+      "title": "Dove Nets",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002325",
+      "artist": "The Main Drag",
+      "title": "Even Seconds",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001957",
+      "artist": "The Main Drag",
+      "title": "Goodnight Technologist",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001416",
+      "artist": "The Main Drag",
+      "title": "Homosuperior",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000971",
+      "artist": "The Main Drag",
+      "title": "How We'd Look On Paper",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000831",
+      "artist": "The Main Drag",
+      "title": "Love During Wartime",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001001",
+      "artist": "The Main Drag",
+      "title": "Megatron",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002116",
+      "artist": "The Main Drag",
+      "title": "Montana",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002235",
+      "artist": "The Main Drag",
+      "title": "Swine Houses",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001577",
+      "artist": "The Main Drag",
+      "title": "Taking Apart a Gigantic Machine",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000927",
+      "artist": "The Main Drag",
+      "title": "Talk Them Down",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000999",
+      "artist": "The Main Drag",
+      "title": "Teeth, Face, Outerspace",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001406",
+      "artist": "The Main Drag",
+      "title": "Tricky Girl",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000974",
+      "artist": "The Main Drag",
+      "title": "What's Your Favorite Dinosaur?",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005118",
+      "artist": "The Material",
+      "title": "Stay Here Forever",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "wheredyougo",
+      "artist": "The Mighty Mighty Bosstones",
+      "title": "Where'd You Go?",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kidsinamerica",
+      "artist": "The Muffs",
+      "title": "Kids in America",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002656",
+      "artist": "The New Pornographers",
+      "title": "Crash Years",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003634",
+      "artist": "The New Pornographers",
+      "title": "Your Hands (Together)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "comeoutandplay",
+      "artist": "The Offspring",
+      "title": "Come Out and Play (Keep 'Em Separated)",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "greengrassreal",
+      "artist": "The Outlaws",
+      "title": "Green Grass and High Tides",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lump",
+      "artist": "The Presidents of the United States of America",
+      "title": "Lump",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004031",
+      "artist": "The Red Chord",
+      "title": "Antman",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alexchilton",
+      "artist": "The Replacements",
+      "title": "Alex Chilton",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002628",
+      "artist": "The Reverend H Chronicles",
+      "title": "Daughter",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000196",
+      "artist": "The Romantics",
+      "title": "Talking In Your Sleep '09",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001426",
+      "artist": "The Shins",
+      "title": "Australia",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004443",
+      "artist": "The Shins",
+      "title": "Phantom Limb",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003977",
+      "artist": "The Shins",
+      "title": "Saint Simon",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001561",
+      "artist": "The Shins",
+      "title": "So Says I",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001162",
+      "artist": "The Slip",
+      "title": "Children of December",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000681",
+      "artist": "The Slip",
+      "title": "Even Rats",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "supremegirl",
+      "artist": "The Sterns",
+      "title": "Supreme Girl",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002127",
+      "artist": "The Summer Set",
+      "title": "Chelsea",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002530",
+      "artist": "The Tragically Hip",
+      "title": "Blow at High Dough",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "girlyouhavenofaith",
+      "artist": "The White Stripes",
+      "title": "Girl, You Have No Faith in Medicine",
+      "layout": "d0,1,2 b3,4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pinballwizard",
+      "artist": "The Who",
+      "title": "Pinball Wizard",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001588",
+      "artist": "The Word Alive",
+      "title": "Battle Royale",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004739",
+      "artist": "The Word Alive",
+      "title": "The Hounds of Anubis",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002183",
+      "artist": "Third Eye Blind",
+      "title": "Jumper '09",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001934",
+      "artist": "Third Eye Blind",
+      "title": "Never Let You Go '09",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001786",
+      "artist": "Third Eye Blind",
+      "title": "Semi-Charmed Life '09",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002561",
+      "artist": "Thunderdikk",
+      "title": "Bra Off Party On",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003105",
+      "artist": "Tijuana Sweetheart",
+      "title": "No Mercy",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001829",
+      "artist": "Tijuana Sweetheart",
+      "title": "Trash Candy",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005422",
+      "artist": "Twin Atlantic",
+      "title": "What Is Light? Where Is Laughter?",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004043",
+      "artist": "Ultra Saturday",
+      "title": "Kiss Kiss Bang Bang",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001422",
+      "artist": "Ultra Saturday",
+      "title": "Not My Fault",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000783",
+      "artist": "Ultra Saturday",
+      "title": "Superhero!",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001632",
+      "artist": "Unearth",
+      "title": "We Are Not Anonymous",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003941",
+      "artist": "Van Friscia",
+      "title": "Epic Symphony in A Flat Minor, First Movement: Marching Out",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004841",
+      "artist": "Van Friscia",
+      "title": "Epic Symphony in A Flat Minor, Second Movement: Blitz",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001063",
+      "artist": "Voodoo Pharmacology",
+      "title": "Minnesota",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000569",
+      "artist": "WaveGroup Feat. Becca Neun",
+      "title": "Liquid Smog (StompBox Remix)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003207",
+      "artist": "We the Kings",
+      "title": "Anna Maria (All We Need)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003208",
+      "artist": "We the Kings",
+      "title": "Rain Falls Down",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003209",
+      "artist": "We the Kings",
+      "title": "Spin",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003211",
+      "artist": "We the Kings",
+      "title": "Summer Love",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003212",
+      "artist": "We the Kings",
+      "title": "What You Do To Me",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004394",
+      "artist": "Ween",
+      "title": "Gabrielle",
+      "layout": "d0,1,2,3 b4,5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5005192",
+      "artist": "Ween",
+      "title": "It's Gonna Be A Long Night",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002049",
+      "artist": "Wheatus",
+      "title": "Teenage Dirtbag 2010",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003071",
+      "artist": "Widespread Panic",
+      "title": "Ain't Life Grand (Live)",
+      "layout": "d0,1,2,3,4 b5,6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004163",
+      "artist": "Widespread Panic",
+      "title": "Chilly Water (Live)",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002582",
+      "artist": "Widespread Panic",
+      "title": "Flicker",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004166",
+      "artist": "Widespread Panic",
+      "title": "Surprise Valley (Live)",
+      "layout": "d0,1,2,3,4 b5 v8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5001290",
+      "artist": "Winds of Plague",
+      "title": "Approach the Podium",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002721",
+      "artist": "Windtunnel Syndrome",
+      "title": "Soldier from the Surface",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5002456",
+      "artist": "Windtunnel Syndrome",
+      "title": "You're an Egg! (Evolution)",
+      "layout": "d0,1,2,3,4 b5 v s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5004912",
+      "artist": "Woe, Is Me",
+      "title": "[&] Delinquents",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003249",
+      "artist": "XTT",
+      "title": "Come Along",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003000",
+      "artist": "XTT",
+      "title": "Cookie Monster",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003079",
+      "artist": "XTT",
+      "title": "Divine",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5003300",
+      "artist": "XTT",
+      "title": "Fighting Back the Bullies",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000583",
+      "artist": "You Shriek",
+      "title": "Lilith in Libra",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "UGC_5000805",
+      "artist": "You Shriek",
+      "title": "No Heroes",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

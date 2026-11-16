@@ -1,0 +1,45 @@
+{
+  "source": "rbee",
+  "songs": [
+    {
+      "con_id": "o795727343_angel_elefante",
+      "artist": "Elefante",
+      "title": "Angel",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lamentoboliviano",
+      "artist": "Enanitos Verdes",
+      "title": "Lamento Boliviano",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o684372213_elsolnoregresa",
+      "artist": "La Quinta Estación",
+      "title": "El Sol No Regresa",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "o760175913_fiestapagana_ma",
+      "artist": "Mago de Oz",
+      "title": "Fiesta Pagana",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rulaslospokimon",
+      "artist": "Soy Tan Sutil",
+      "title": "Los Pokimon ft. Josué Yrion",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

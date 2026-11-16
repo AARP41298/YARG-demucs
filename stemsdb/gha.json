@@ -1,0 +1,165 @@
+{
+  "source": "gha",
+  "songs": [
+    {
+      "con_id": "beyondbeautiful_gha",
+      "artist": "Aerosmith",
+      "title": "Beyond Beautiful",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "brightlightfright_gha",
+      "artist": "Aerosmith",
+      "title": "Bright Light Fright",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "combination_gha",
+      "artist": "Aerosmith",
+      "title": "Combination",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "drawtheline_gha",
+      "artist": "Aerosmith",
+      "title": "Draw the Line",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "dreamon_gha",
+      "artist": "Aerosmith",
+      "title": "Dream On",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kingsandqueens_gha",
+      "artist": "Aerosmith",
+      "title": "Kings and Queens",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "letthemusic_gha",
+      "artist": "Aerosmith",
+      "title": "Let the Music Do the Talking",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "makeit_gha",
+      "artist": "Aerosmith",
+      "title": "Make It",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "movinout_gha",
+      "artist": "Aerosmith",
+      "title": "Movin' Out",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nosurprize_gha",
+      "artist": "Aerosmith",
+      "title": "No Surprize",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nobodysfault_gha",
+      "artist": "Aerosmith",
+      "title": "Nobody's Fault",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pandorasbox_gha",
+      "artist": "Aerosmith",
+      "title": "Pandora's Box",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "pink_gha",
+      "artist": "Aerosmith",
+      "title": "Pink",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "trainkeptarollin_gha",
+      "artist": "Aerosmith",
+      "title": "Train Kept a Rollin'",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "unclesalty_gha",
+      "artist": "Aerosmith",
+      "title": "Uncle Salty",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "joeperrybattle_gha",
+      "artist": "Joe Perry",
+      "title": "Joe Perry Guitar Battle",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shakinmycage_gha",
+      "artist": "Joe Perry",
+      "title": "Shakin' My Cage",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alwaysontherun_gha",
+      "artist": "Lenny Kravitz",
+      "title": "Always on the Run",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alltheyoungdudes_gha",
+      "artist": "Mott the Hoople",
+      "title": "All the Young Dudes (Cover)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "walkthisway_gha",
+      "artist": "Run-DMC",
+      "title": "Walk This Way (ft. Aerosmith) (GHA version)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

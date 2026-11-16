@@ -1,0 +1,45 @@
+{
+  "source": "gh1",
+  "songs": [
+    {
+      "con_id": "infected_gh1",
+      "artist": "Bad Religion",
+      "title": "Infected (Cover)",
+      "layout": "d0,1 b2,3 v6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "fireitup_gh1",
+      "artist": "Black Label Society",
+      "title": "Fire It Up",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sailyourshipby_gh1",
+      "artist": "Count Zero",
+      "title": "Sail Your Ship By",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "guitarhero_gh1",
+      "artist": "Monkey Steals the Peach",
+      "title": "Guitar Hero",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cavemenrejoice_gh1",
+      "artist": "The Bags",
+      "title": "Cavemen Rejoice",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

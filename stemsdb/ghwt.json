@@ -1,0 +1,269 @@
+{
+  "source": "ghwt",
+  "songs": [
+    {
+      "con_id": "toomuchtooyoung_ghwt",
+      "artist": "Airbourne",
+      "title": "Too Much, Too Young, Too Fast",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "goodgod_ghwt",
+      "artist": "Anouk",
+      "title": "Good God",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hailtothefreaks_ghwt",
+      "artist": "Beatsteaks",
+      "title": "Hail to the Freaks",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "stillborn_ghwt",
+      "artist": "Black Label Society",
+      "title": "Stillborn",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hollywoodnights_ghwt",
+      "artist": "Bob Seger & the Silver Bullet Band",
+      "title": "Hollywood Nights",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hotelcalifornia_ghwt",
+      "artist": "Eagles",
+      "title": "Hotel California",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "vinternoll2_ghwt",
+      "artist": "Kent",
+      "title": "VinterNoll2",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "trappedunderice_ghwt",
+      "artist": "Metallica",
+      "title": "Trapped Under Ice",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "beatit_ghwt",
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "overkill_ghwt",
+      "artist": "Motörhead",
+      "title": "Overkill",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "assassin_ghwt",
+      "artist": "Muse",
+      "title": "Assassin",
+      "layout": "d0,1,2,3 b4 v7,8 s9,10",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nuvoleelenzuola_ghwt",
+      "artist": "Negramaro",
+      "title": "Nuvole E Lenzuola",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aboutagirl_ghwt",
+      "artist": "Nirvana",
+      "title": "About a Girl (Live from MTV Unplugged)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "souldoubt_ghwt",
+      "artist": "NOFX",
+      "title": "Soul Doubt",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "somemightsay_ghwt",
+      "artist": "Oasis",
+      "title": "Some Might Say",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "escueladecalor_ghwt",
+      "artist": "Radio Futura",
+      "title": "Escuela de Calor",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prettyvacant_ghwt",
+      "artist": "Sex Pistols",
+      "title": "Pretty Vacant",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "doitagain_ghwt",
+      "artist": "Steely Dan",
+      "title": "Do It Again",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "demolitionman_ghwt",
+      "artist": "Sting",
+      "title": "Demolition Man (Live)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "toyboy_ghwt",
+      "artist": "Stuck in the Sound",
+      "title": "Toy Boy (GHWT version)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tednugentbattle_ghwt",
+      "artist": "Ted Nugent",
+      "title": "Ted Nugent Guitar Battle",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "nevertoolate_ghwt",
+      "artist": "The Answer",
+      "title": "Never Too Late",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "loveremovalmachine_ghwt",
+      "artist": "The Cult",
+      "title": "Love Removal Machine",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "aggro_ghwt",
+      "artist": "The Enemy",
+      "title": "Aggro",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "purplehaze_ghwt",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Purple Haze (Live)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "prisonerofsociety_ghwt",
+      "artist": "The Living End",
+      "title": "Prisoner of Society",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "lvialviaquez_ghwt",
+      "artist": "The Mars Volta",
+      "title": "L'Via L'Viaquez (Radio Edit)",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s14,15",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "parabola_ghwt",
+      "artist": "Tool",
+      "title": "Parabola",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "schism_ghwt",
+      "artist": "Tool",
+      "title": "Schism",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "vicarious_ghwt",
+      "artist": "Tool",
+      "title": "Vicarious",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "antisocial_ghwt",
+      "artist": "Trust",
+      "title": "Antisocial",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "kickoutthejams_ghwt",
+      "artist": "Wayne Kramer",
+      "title": "Kick Out the Jams",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "zakkwyldebattle_ghwt",
+      "artist": "Zakk Wylde",
+      "title": "Zakk Wylde Guitar Battle",
+      "layout": "d0,1,2,3,4,5 b6,7 v s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

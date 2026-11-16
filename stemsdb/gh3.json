@@ -1,0 +1,165 @@
+{
+  "source": "gh3",
+  "songs": [
+    {
+      "con_id": "minuscelsius_gh3",
+      "artist": "Backyard Babies",
+      "title": "Minus Celsius",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "helicopter_gh3",
+      "artist": "Bloc Party",
+      "title": "Helicopter",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "sunshineofyourlove_gh3",
+      "artist": "Cream",
+      "title": "Sunshine of Your Love (Cover)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cliffsofdover_gh3",
+      "artist": "Eric Johnson",
+      "title": "Cliffs of Dover (Cover)",
+      "layout": "d0,1 b2,3 v s",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "slowride_gh3",
+      "artist": "Foghat",
+      "title": "Slow Ride (Cover)",
+      "layout": "d0,1 b2,3 v6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "welcometothejungle_gh3",
+      "artist": "Guns N' Roses",
+      "title": "Welcome to the Jungle (GH3 version)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "barracuda_gh3",
+      "artist": "Heart",
+      "title": "Barracuda (Cover)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "avalancha_gh3",
+      "artist": "Héroes del Silencio",
+      "title": "Avalancha",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "takethislife_gh3",
+      "artist": "In Flames",
+      "title": "Take This Life (GH3 version)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rockandrollallnite_gh3",
+      "artist": "KISS",
+      "title": "Rock and Roll All Nite (Cover)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "monsters_gh3",
+      "artist": "Matchbook Romance",
+      "title": "Monsters (GH3 version)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "mauvaisgarcon_gh3",
+      "artist": "Naast",
+      "title": "Mauvais garçon",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hitmewithyourbestshot_gh3",
+      "artist": "Pat Benatar",
+      "title": "Hit Me with Your Best Shot (Cover)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "cantbesaved_gh3",
+      "artist": "Senses Fail",
+      "title": "Can't Be Saved",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "slashbattle_gh3",
+      "artist": "Slash",
+      "title": "Slash Guitar Battle",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "silent",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "storyofmylife_gh3",
+      "artist": "Social Distortion",
+      "title": "Story of My Life (Cover)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "devilwentdowntogeorgia_gh3",
+      "artist": "Steve Ouimette",
+      "title": "The Devil Went Down to Georgia",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "radiosong_gh3",
+      "artist": "Superbus",
+      "title": "Radio Song",
+      "layout": "d0,1 b2,3 v6,7 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "paintitblack_gh3",
+      "artist": "The Rolling Stones",
+      "title": "Paint It Black",
+      "layout": "d0,1 b2 v4 s5,6",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "tommorellobattle_gh3",
+      "artist": "Tom Morello",
+      "title": "Tom Morello Guitar Battle",
+      "layout": "d0,1 b2,3 v s6,7",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

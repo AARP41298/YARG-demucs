@@ -1,0 +1,37 @@
+{
+  "source": "rb3_beta",
+  "songs": [
+    {
+      "con_id": "sisterchristian09",
+      "artist": "Night Ranger",
+      "title": "Sister Christian '09",
+      "layout": "d0,1 b2 v5 s8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "crazytrain_2002",
+      "artist": "Ozzy Osbourne",
+      "title": "Crazy Train (2002 version)",
+      "layout": "d0,1 b2 v5,6 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blackmagicgypsyqueen",
+      "artist": "Santana",
+      "title": "Black Magic Woman/Gypsy Queen",
+      "layout": "d0,1 b2 v5 s7,8",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "feelinalright",
+      "artist": "Traffic",
+      "title": "Feelin' Alright",
+      "layout": "d0,1 b2 v5,6 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

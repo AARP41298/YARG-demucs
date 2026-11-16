@@ -12,6 +12,9 @@ public sealed class ToolSettings
 
     public string? NautilusPath { get; set; }
 
+    /// <summary>Name saved in contributions.json for the shared database.</summary>
+    public string? Contributor { get; set; }
+
     /// <summary>The YARG profile picked last time (release, nightly, or dev).</summary>
     public string? LastProfile { get; set; }
 

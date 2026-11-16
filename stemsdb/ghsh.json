@@ -1,0 +1,77 @@
+{
+  "source": "ghsh",
+  "songs": [
+    {
+      "con_id": "mother_ghsh",
+      "artist": "Danzig",
+      "title": "Mother",
+      "layout": "d0,1,2,3,4 b5 v8,9 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "playwithme_ghsh",
+      "artist": "Extreme",
+      "title": "Play with Me",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "unsung_ghsh",
+      "artist": "Helmet",
+      "title": "Unsung (Live)",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rockandrollallnite_ghsh",
+      "artist": "KISS",
+      "title": "Rock and Roll All Nite",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shoutatthedevil_ghsh",
+      "artist": "Mötley Crüe",
+      "title": "Shout at the Devil",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "laydown_ghsh",
+      "artist": "Priestess",
+      "title": "Lay Down",
+      "layout": "d0,1,2,3,4 b5 v8,9 s11,12",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "psychobillyfreakout_ghsh",
+      "artist": "Reverend Horton Heat",
+      "title": "Psychobilly Freakout",
+      "layout": "d0,1,2,3,4,5 b6,7 v10,11 s12,13",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "heyyou_ghsh",
+      "artist": "The Exies",
+      "title": "Hey You",
+      "layout": "d0,1,2,3,4,5 b6 v9,10 s13,14",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "freya_ghsh",
+      "artist": "The Sword",
+      "title": "Freya '08",
+      "layout": "d0,1,2,3,4 b5 v8,9 s10,11",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

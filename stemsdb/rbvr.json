@@ -1,0 +1,45 @@
+{
+  "source": "rbvr",
+  "songs": [
+    {
+      "con_id": "lightsout",
+      "artist": "AudioDamn!",
+      "title": "Lights Out",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "casualparty",
+      "artist": "Band of Horses",
+      "title": "Casual Party",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "birds",
+      "artist": "Coldplay",
+      "title": "Birds",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "quitter",
+      "artist": "The Starting Line",
+      "title": "Quitter",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "iamalive",
+      "artist": "Twin Atlantic",
+      "title": "I Am Alive",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

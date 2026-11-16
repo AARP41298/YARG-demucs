@@ -1,0 +1,197 @@
+{
+  "source": "rb4_rivals",
+  "songs": [
+    {
+      "con_id": "sink",
+      "artist": "Animal Flag",
+      "title": "Sink",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "shadow",
+      "artist": "Bearstronaut",
+      "title": "Shadow",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "thesehands",
+      "artist": "Bent Knee",
+      "title": "These Hands",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "noplaceforme",
+      "artist": "Black Beach",
+      "title": "No Place for Me",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "historyrepeats",
+      "artist": "Creaturos",
+      "title": "History Repeats",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "rudeboys",
+      "artist": "Dutch ReBelle",
+      "title": "RudeBoys",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "bethany",
+      "artist": "Goddamn Draculas",
+      "title": "Bethany",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hurryupandwait",
+      "artist": "Julie Rhodes",
+      "title": "Hurry Up (& Wait for You)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "casablanca",
+      "artist": "Littlefoot",
+      "title": "Casablanca",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "crossthatline",
+      "artist": "Michael Christmas",
+      "title": "Cross That Line",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blackstreak",
+      "artist": "Nemes",
+      "title": "Black Streak",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "irecognize",
+      "artist": "Newfane",
+      "title": "I Recognize",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "neverletemholdyaback",
+      "artist": "Parlour Bells",
+      "title": "Never Let 'Em Hold Ya Back!",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "trueconfessional",
+      "artist": "Party Bois",
+      "title": "True Confessional",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "meangirls",
+      "artist": "Petty Morals",
+      "title": "Mean Girls",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "painkiller2",
+      "artist": "Ruby Rose Fox",
+      "title": "Pain Killer",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "skydiver",
+      "artist": "Ruby Rose Fox",
+      "title": "Skydiver",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "somp",
+      "artist": "Skratch'N Snyf",
+      "title": "S.O.M.P.",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "good",
+      "artist": "STL GLD",
+      "title": "Good",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "hourofrats",
+      "artist": "The Red Chord",
+      "title": "Hour of Rats (2x Bass Pedal)",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "closercloser",
+      "artist": "The Warning Shots",
+      "title": "Closer, Closer",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "alonetime",
+      "artist": "Tigerman WOAH",
+      "title": "Alone Time",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "constantdisaster",
+      "artist": "When Particles Collide",
+      "title": "Constant Disaster",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    },
+    {
+      "con_id": "blackcorridor",
+      "artist": "Worshipper",
+      "title": "Black Corridor",
+      "layout": "d0,1 b2,3 v6,7 s8,9",
+      "stems": "present",
+      "checked_by": "AARP41298"
+    }
+  ]
+}

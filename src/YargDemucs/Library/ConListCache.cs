@@ -91,7 +91,16 @@ public sealed class ConListCache
         return songs;
     }
 
+    /// <summary>Shared results from stemsdb/, used for songs not checked on this PC.</summary>
+    public StemsDb? Shared { get; set; }
+
+    /// <summary>This PC's result for the song, or else the shared database's.</summary>
     public bool TryGetSilent(Song song, out bool silent)
+    {
+        return TryGetLocal(song, out silent) || (Shared != null && Shared.TryGet(song, out silent));
+    }
+
+    public bool TryGetLocal(Song song, out bool silent)
     {
         lock (_gate)
         {
